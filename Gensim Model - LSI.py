@@ -4,13 +4,13 @@ from nltk.corpus import stopwords
 import re
 import numpy as np
 import pandas as pd
-from pprint import pprint
-
+from pprint import pprint # to print output in a more organize way
+#from textblob import TextBlob
 # Gensim
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
-from gensim.models import CoherenceModel
+from gensim.models.coherencemodel import CoherenceModel
 from gensim.models import LsiModel
 
 # spacy for lemmatization
@@ -50,6 +50,9 @@ trigram = gensim.models.Phrases(bigram[data_words], threshold=100)
 bigram_mod = gensim.models.phrases.Phraser(bigram)
 trigram_mod = gensim.models.phrases.Phraser(trigram)
 
+# create bigram using textblob
+#TextBlob(data_words).ngrams(2)
+print("bigram Sample: ",trigram_mod[bigram_mod[data_words[0]]])
 # See trigram example
 print("Trigram Sample: ",trigram_mod[bigram_mod[data_words[0]]])
 
@@ -81,7 +84,7 @@ data_words_bigrams = make_bigrams(data_words_nostops)
 nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner'])
 
 # Do lemmatization keeping only noun, adj, vb, adv 'NOUN', 'ADJ', 'VERB', 'ADV'
-data_lemmatized = lemmatization(data_words_bigrams, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV'])
+data_lemmatized = lemmatization(data_words_bigrams, allowed_postags=['NOUN', 'ADJ'])
 
 print("Lemmatized Data: ",data_lemmatized[:1])
 
@@ -100,8 +103,27 @@ print("Corpus: ",corpus[:1])
 # Human readable format of corpus (term-frequency)
 print("Corpus with original text: ",[[(id2word[id], freq) for id, freq in cp] for cp in corpus[:1]])
 
-# Build LSI model
-lsi = LsiModel(corpus = corpus, id2word = id2word, num_topics=10)
-pprint(lsi.print_topics(num_topics=10, num_words=10))
+# open file to write output
+output = open("lsi_output.txt",'w')
+# Loop LSI model with different number of topics (test from 1 to 10)
+i=1
+while i<11:
+    output.write("Number of Topic: ")
+    output.write(str(i)+'\n')
+    # Build LSI model
+    lsi = LsiModel(corpus = corpus, id2word = id2word, num_topics=i)
+    # Print the Keyword in the 10 topics
+    pprint(lsi.print_topics(num_topics=i, num_words=10))
+    LSI_Topics = lsi.print_topics(num_topics=i, num_words=10)     
+    for topic in LSI_Topics:
+        output.write(' '.join(str(item) for item in topic) + '\n')
 
+    doc_lsi = lsi[corpus]
+    # Compute Coherence Score
+    coherence_model_lsi = CoherenceModel(model=lsi, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    coherence_lsi = coherence_model_lsi.get_coherence()
+    print('Coherence Score: ', coherence_lsi)
+    output.write('Coherence Score: ')
+    output.write(str(coherence_lsi)+'\n')
+    i+=1
 

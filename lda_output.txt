@@ -1,0 +1,85 @@
+Number of Topic: 1
+0 0.044*"prison" + 0.034*"prisoner" + 0.033*"jail" + 0.011*"year" + 0.010*"time" + 0.007*"political" + 0.007*"life" + 0.007*"woman" + 0.006*"regime" + 0.006*"many"
+Perplexity: -7.0944373970739605
+Coherence Score: -4.0210730114678395
+Number of Topic: 2
+0 0.041*"prison" + 0.032*"prisoner" + 0.021*"jail" + 0.015*"time" + 0.012*"life" + 0.008*"many" + 0.007*"day" + 0.007*"family" + 0.007*"woman" + 0.006*"mother"
+1 0.047*"prison" + 0.044*"jail" + 0.035*"prisoner" + 0.019*"year" + 0.012*"political" + 0.008*"regime" + 0.007*"woman" + 0.007*"people" + 0.007*"torture" + 0.005*"man"
+Perplexity: -7.302799842667072
+Coherence Score: -5.639143608026348
+Number of Topic: 3
+0 0.049*"prison" + 0.019*"prisoner" + 0.014*"year" + 0.012*"imprisonment" + 0.010*"jail" + 0.009*"day" + 0.008*"family" + 0.008*"torture" + 0.007*"many" + 0.007*"time"
+1 0.068*"prison" + 0.035*"jail" + 0.025*"prisoner" + 0.019*"time" + 0.009*"life" + 0.008*"woman" + 0.008*"regime" + 0.006*"year" + 0.006*"room" + 0.005*"iranian"
+2 0.053*"prisoner" + 0.052*"jail" + 0.018*"prison" + 0.014*"political" + 0.013*"year" + 0.010*"woman" + 0.009*"people" + 0.007*"release" + 0.007*"new" + 0.007*"guard"
+Perplexity: -7.43408945756831
+Coherence Score: -5.697212715762382
+Number of Topic: 4
+0 0.057*"prison" + 0.047*"prisoner" + 0.027*"jail" + 0.014*"political" + 0.011*"regime" + 0.010*"many" + 0.010*"woman" + 0.008*"life" + 0.007*"people" + 0.007*"time"
+1 0.024*"prisoner" + 0.019*"prison" + 0.018*"jail" + 0.014*"jailer" + 0.010*"imprisonment" + 0.010*"iranian" + 0.010*"death" + 0.009*"woman" + 0.007*"year" + 0.007*"man"
+2 0.078*"prison" + 0.027*"year" + 0.017*"day" + 0.017*"prisoner" + 0.011*"guard" + 0.009*"parent" + 0.006*"jail" + 0.005*"life" + 0.005*"new" + 0.004*"iranian"
+3 0.076*"jail" + 0.032*"prisoner" + 0.024*"time" + 0.013*"prison" + 0.012*"year" + 0.011*"world" + 0.010*"torture" + 0.008*"life" + 0.006*"mother" + 0.006*"other"
+Perplexity: -7.5361830547885855
+Coherence Score: -6.6177517333438995
+Number of Topic: 5
+0 0.044*"prisoner" + 0.028*"jail" + 0.019*"prison" + 0.009*"man" + 0.007*"political" + 0.007*"regime" + 0.006*"world" + 0.006*"experience" + 0.006*"time" + 0.006*"woman"
+1 0.050*"prisoner" + 0.024*"jail" + 0.015*"prison" + 0.014*"jailer" + 0.013*"woman" + 0.009*"family" + 0.009*"torture" + 0.008*"year" + 0.008*"new" + 0.008*"many"
+2 0.101*"jail" + 0.035*"prison" + 0.029*"prisoner" + 0.017*"time" + 0.012*"political" + 0.010*"regime" + 0.009*"year" + 0.009*"people" + 0.007*"many" + 0.007*"torture"
+3 0.090*"prison" + 0.018*"year" + 0.016*"jail" + 0.011*"life" + 0.009*"chapter" + 0.008*"prisoner" + 0.007*"imprisonment" + 0.007*"official" + 0.007*"many" + 0.006*"time"
+4 0.053*"prison" + 0.043*"prisoner" + 0.016*"year" + 0.014*"time" + 0.011*"political" + 0.011*"day" + 0.011*"art" + 0.008*"mother" + 0.007*"death" + 0.007*"month"
+Perplexity: -7.616387250742261
+Coherence Score: -6.705273981954012
+Number of Topic: 6
+0 0.060*"prisoner" + 0.031*"prison" + 0.018*"many" + 0.014*"political" + 0.009*"regime" + 0.008*"people" + 0.008*"release" + 0.007*"jail" + 0.007*"condition" + 0.007*"other"
+1 0.059*"prison" + 0.029*"jail" + 0.027*"prisoner" + 0.018*"woman" + 0.012*"family" + 0.011*"time" + 0.010*"year" + 0.010*"iranian" + 0.009*"political" + 0.009*"regime"
+2 0.047*"prisoner" + 0.030*"jail" + 0.017*"prison" + 0.014*"time" + 0.014*"world" + 0.009*"people" + 0.009*"jailer" + 0.009*"many" + 0.009*"year" + 0.008*"torture"
+3 0.082*"jail" + 0.038*"prisoner" + 0.029*"prison" + 0.016*"time" + 0.012*"life" + 0.011*"year" + 0.009*"man" + 0.008*"political" + 0.008*"chapter" + 0.008*"way"
+4 0.060*"prison" + 0.016*"month" + 0.016*"day" + 0.009*"word" + 0.007*"constant" + 0.007*"imprisonment" + 0.006*"freedom" + 0.006*"life" + 0.006*"death" + 0.006*"everyday"
+5 0.098*"prison" + 0.030*"year" + 0.013*"jail" + 0.010*"imprisonment" + 0.008*"official" + 0.008*"cell" + 0.007*"regime" + 0.007*"iranian" + 0.006*"sentence" + 0.006*"term"
+Perplexity: -7.676163647389513
+Coherence Score: -7.764690499916546
+Number of Topic: 7
+0 0.043*"prisoner" + 0.020*"prison" + 0.017*"chapter" + 0.013*"year" + 0.010*"many" + 0.009*"woman" + 0.009*"imprisonment" + 0.008*"leave" + 0.008*"creativity" + 0.008*"new"
+1 0.040*"prison" + 0.027*"prisoner" + 0.017*"day" + 0.013*"art" + 0.011*"people" + 0.010*"guard" + 0.007*"hospital" + 0.007*"iranian" + 0.007*"word" + 0.007*"political"
+2 0.058*"jail" + 0.043*"prison" + 0.032*"time" + 0.022*"prisoner" + 0.018*"life" + 0.013*"family" + 0.009*"woman" + 0.008*"father" + 0.007*"world" + 0.007*"beautiful"
+3 0.082*"jail" + 0.040*"prisoner" + 0.031*"prison" + 0.025*"political" + 0.009*"guard" + 0.009*"woman" + 0.009*"regime" + 0.007*"friend" + 0.007*"night" + 0.007*"execution"
+4 0.092*"prison" + 0.037*"prisoner" + 0.018*"year" + 0.011*"regime" + 0.010*"jail" + 0.009*"official" + 0.008*"iranian" + 0.008*"life" + 0.007*"way" + 0.007*"woman"
+5 0.026*"prison" + 0.022*"prisoner" + 0.009*"art" + 0.009*"body" + 0.008*"new" + 0.008*"torture" + 0.007*"idea" + 0.006*"young" + 0.006*"year" + 0.006*"life"
+6 0.056*"jail" + 0.048*"prisoner" + 0.022*"year" + 0.016*"many" + 0.014*"prison" + 0.014*"time" + 0.012*"jailer" + 0.012*"day" + 0.011*"world" + 0.011*"torture"
+Perplexity: -7.7497631790477906
+Coherence Score: -7.987965312073564
+Number of Topic: 8
+0 0.056*"prison" + 0.023*"life" + 0.020*"prisoner" + 0.015*"woman" + 0.012*"father" + 0.012*"jail" + 0.011*"official" + 0.011*"way" + 0.010*"iranian" + 0.007*"month"
+1 0.037*"prison" + 0.036*"jail" + 0.025*"prisoner" + 0.011*"family" + 0.011*"parent" + 0.011*"regime" + 0.009*"woman" + 0.009*"time" + 0.008*"iranian" + 0.008*"other"
+2 0.084*"prison" + 0.059*"year" + 0.020*"jail" + 0.017*"time" + 0.009*"many" + 0.007*"leave" + 0.007*"prisoner" + 0.007*"imprisonment" + 0.007*"term" + 0.007*"constant"
+3 0.039*"prisoner" + 0.023*"prison" + 0.019*"chapter" + 0.016*"time" + 0.013*"woman" + 0.012*"political" + 0.009*"name" + 0.009*"death" + 0.007*"family" + 0.007*"madness"
+4 0.046*"prisoner" + 0.031*"prison" + 0.023*"day" + 0.010*"time" + 0.010*"political" + 0.009*"new" + 0.008*"cell" + 0.008*"imprisonment" + 0.007*"name" + 0.007*"guard"
+5 0.078*"prisoner" + 0.026*"jail" + 0.020*"political" + 0.017*"torture" + 0.014*"regime" + 0.013*"prison" + 0.012*"execution" + 0.011*"many" + 0.010*"people" + 0.009*"interrogator"
+6 0.107*"jail" + 0.054*"prison" + 0.033*"prisoner" + 0.016*"time" + 0.011*"world" + 0.009*"day" + 0.009*"other" + 0.008*"year" + 0.007*"life" + 0.007*"new"
+7 0.060*"prison" + 0.031*"prisoner" + 0.015*"jailer" + 0.013*"many" + 0.009*"mother" + 0.008*"woman" + 0.008*"political" + 0.008*"imprisonment" + 0.008*"life" + 0.007*"year"
+Perplexity: -7.788185519149319
+Coherence Score: -8.490057959488988
+Number of Topic: 9
+0 0.065*"prisoner" + 0.041*"prison" + 0.024*"jail" + 0.015*"people" + 0.014*"art" + 0.013*"life" + 0.013*"day" + 0.011*"guard" + 0.010*"many" + 0.009*"thing"
+1 0.048*"prison" + 0.017*"woman" + 0.013*"many" + 0.009*"constant" + 0.009*"country" + 0.009*"iranian" + 0.009*"life" + 0.008*"imprisonment" + 0.008*"force" + 0.008*"prisoner"
+2 0.050*"prison" + 0.048*"prisoner" + 0.028*"time" + 0.016*"name" + 0.014*"jail" + 0.010*"brother" + 0.010*"day" + 0.010*"condition" + 0.010*"year" + 0.009*"family"
+3 0.048*"prison" + 0.048*"jail" + 0.034*"prisoner" + 0.023*"political" + 0.018*"time" + 0.015*"woman" + 0.012*"year" + 0.011*"mother" + 0.011*"life" + 0.009*"people"
+4 0.090*"jail" + 0.041*"prisoner" + 0.023*"prison" + 0.016*"family" + 0.015*"chapter" + 0.014*"way" + 0.014*"father" + 0.012*"world" + 0.011*"death" + 0.010*"new"
+5 0.058*"prisoner" + 0.025*"jail" + 0.023*"prison" + 0.017*"release" + 0.010*"regime" + 0.010*"state" + 0.009*"temporary" + 0.008*"political" + 0.008*"group" + 0.008*"time"
+6 0.031*"prisoner" + 0.024*"jailer" + 0.021*"jail" + 0.018*"prison" + 0.013*"time" + 0.011*"regime" + 0.010*"world" + 0.009*"memory" + 0.009*"political" + 0.009*"care"
+7 0.099*"prison" + 0.048*"jail" + 0.033*"year" + 0.012*"other" + 0.010*"prisoner" + 0.010*"day" + 0.008*"man" + 0.008*"month" + 0.008*"time" + 0.008*"word"
+8 0.035*"prisoner" + 0.026*"prison" + 0.015*"month" + 0.014*"torture" + 0.008*"element" + 0.008*"execution" + 0.007*"regime" + 0.007*"interrogator" + 0.007*"imprisonment" + 0.007*"guard"
+Perplexity: -7.816712085815614
+Coherence Score: -8.07022138479771
+Number of Topic: 10
+0 0.049*"prison" + 0.039*"prisoner" + 0.022*"life" + 0.020*"year" + 0.018*"many" + 0.010*"time" + 0.008*"political" + 0.007*"story" + 0.007*"force" + 0.007*"woman"
+1 0.047*"prisoner" + 0.029*"jail" + 0.018*"prison" + 0.015*"day" + 0.014*"time" + 0.014*"mother" + 0.013*"cell" + 0.012*"father" + 0.010*"heart" + 0.010*"small"
+2 0.072*"prisoner" + 0.041*"prison" + 0.014*"guard" + 0.012*"political" + 0.010*"regime" + 0.010*"jail" + 0.009*"purpose" + 0.009*"interrogator" + 0.009*"life" + 0.008*"possible"
+3 0.039*"prison" + 0.037*"jail" + 0.020*"chapter" + 0.016*"regime" + 0.015*"prisoner" + 0.013*"jailer" + 0.010*"family" + 0.009*"parent" + 0.009*"political" + 0.009*"iranian"
+4 0.054*"prison" + 0.025*"prisoner" + 0.019*"way" + 0.015*"month" + 0.013*"year" + 0.011*"night" + 0.010*"brother" + 0.010*"everyday" + 0.008*"mother" + 0.008*"day"
+5 0.069*"prison" + 0.044*"jail" + 0.033*"prisoner" + 0.022*"year" + 0.015*"life" + 0.014*"art" + 0.011*"official" + 0.010*"family" + 0.009*"word" + 0.008*"new"
+6 0.054*"prisoner" + 0.035*"jail" + 0.034*"prison" + 0.025*"people" + 0.015*"man" + 0.013*"time" + 0.013*"political" + 0.011*"woman" + 0.010*"pain" + 0.009*"year"
+7 0.066*"prison" + 0.020*"prisoner" + 0.019*"woman" + 0.018*"time" + 0.017*"other" + 0.014*"year" + 0.010*"jail" + 0.009*"body" + 0.009*"friend" + 0.008*"execution"
+8 0.116*"jail" + 0.033*"prisoner" + 0.029*"prison" + 0.024*"time" + 0.016*"political" + 0.016*"day" + 0.013*"many" + 0.012*"regime" + 0.009*"year" + 0.008*"way"
+9 0.057*"prison" + 0.040*"jail" + 0.031*"prisoner" + 0.013*"year" + 0.012*"woman" + 0.011*"father" + 0.010*"book" + 0.009*"term" + 0.009*"regime" + 0.008*"power"
+Perplexity: -7.93391210448027
+Coherence Score: -9.030899187401923

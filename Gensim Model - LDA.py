@@ -10,7 +10,7 @@ from pprint import pprint
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
-from gensim.models import CoherenceModel
+from gensim.models.coherencemodel import CoherenceModel
 
 # spacy for lemmatization
 import spacy
@@ -82,7 +82,7 @@ data_words_bigrams = make_bigrams(data_words_nostops)
 nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner'])
 
 # Do lemmatization keeping only noun, adj, vb, adv 'NOUN', 'ADJ', 'VERB', 'ADV'
-data_lemmatized = lemmatization(data_words_bigrams, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV'])
+data_lemmatized = lemmatization(data_words_bigrams, allowed_postags=['NOUN', 'ADJ'])
 
 print("Lemmatized Data: ",data_lemmatized[:1])
 
@@ -101,20 +101,34 @@ print("Corpus: ",corpus[:1])
 # Human readable format of corpus (term-frequency)
 print("Corpus with original text: ",[[(id2word[id], freq) for id, freq in cp] for cp in corpus[:1]])
 
-# Build LDA model
-lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,id2word=id2word,num_topics=10)
+# open file to write output
+output = open("lda_output.txt",'w')
+# Loop lda  model with different number of topics (test from 1 to 10)
+i=1
+while i<11:
+    output.write("Number of Topic: ")
+    output.write(str(i)+'\n')
+    # Build LDA model
+    lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,id2word=id2word,num_topics=i)
+    # Print the Keyword in the 10 topics
+    pprint(lda_model.print_topics())
+    LDA_Topics = lda_model.print_topics()
+    for topic in LDA_Topics:
+        output.write(' '.join(str(item) for item in topic) + '\n')
 
-# Print the Keyword in the 10 topics
-pprint(lda_model.print_topics())
-doc_lda = lda_model[corpus]
-
-# Compute Perplexity
-print('\nPerplexity: ', lda_model.log_perplexity(corpus))  # a measure of how good the model is. lower the better.
-
-# Compute Coherence Score
-coherence_model_lda = CoherenceModel(model=lda_model, texts=data_lemmatized, dictionary=id2word, coherence='c_v')
-coherence_lda = coherence_model_lda.get_coherence()
-print('\nCoherence Score: ', coherence_lda)
+    doc_lda = lda_model[corpus]
+    # Compute Perplexity
+    perplexity = lda_model.log_perplexity(corpus)
+    print("Perplexity: ",perplexity)  # a measure of how good the model is. lower the better.
+    output.write("Perplexity: ")
+    output.write(str(perplexity)+'\n')
+    # Compute Coherence Score
+    coherence_model_lda = CoherenceModel(model=lda_model, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    coherence_lda = coherence_model_lda.get_coherence()
+    print('Coherence Score: ', coherence_lda)
+    output.write('Coherence Score: ')
+    output.write(str(coherence_lda)+'\n')
+    i+=1
 
 #pyLDAvis.enable_notebook()
 #vis = pyLDAvis.gensim.prepare(lda_model, corpus, id2word)

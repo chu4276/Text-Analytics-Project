@@ -100,8 +100,27 @@ print("Corpus: ",corpus[:1])
 # Human readable format of corpus (term-frequency)
 print("Corpus with original text: ",[[(id2word[id], freq) for id, freq in cp] for cp in corpus[:1]])
 
-# Build HDP model
-hdp = HdpModel(corpus, id2word)
-topic_info = hdp.print_topics(num_topics=10, num_words=10)
-print(topic_info)
+# open file to write output
+output = open("hdp_output.txt",'w')
+# Loop hdp model with different number of topics (test from 1 to 10)
+i=1
+while i<11:
+    output.write("Number of Topic: ")
+    output.write(str(i)+'\n')
+    # Build HDP model
+    hdp_model = HdpModel(corpus, id2word)
+    # Print the Keyword in the 10 topics
+    topic_info = hdp_model.print_topics(num_topics=i, num_words=10)
+    pprint(topic_info)
+    HDP_Topics = topic_info
+    for topic in HDP_Topics:
+        output.write(' '.join(str(item) for item in topic) + '\n')
 
+    doc_hdp = hdp_model[corpus]    
+    # Compute Coherence Score
+    coherence_model_hdp = CoherenceModel(model=hdp_model, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    coherence_hdp = coherence_model_hdp.get_coherence()
+    print('Coherence Score: ', coherence_hdp)
+    output.write('Coherence Score: ')
+    output.write(str(coherence_hdp)+'\n')
+    i+=1

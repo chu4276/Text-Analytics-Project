@@ -88,23 +88,42 @@ data_lemmatized = lemmatization(data_words_bigrams, allowed_postags=['NOUN', 'AD
 print("Lemmatized Data: ",data_lemmatized[:1])
 
 # Create Dictionary
-dict_id2word = corpora.Dictionary(data_lemmatized)
+id2word = corpora.Dictionary(data_lemmatized)
 
 # Create Corpus
 texts = data_lemmatized
 
 # Term Document Frequency
-corpus = [dict_id2word.doc2bow(text) for text in texts]
+corpus = [id2word.doc2bow(text) for text in texts]
 
 # View
 print("Corpus: ",corpus[:1])
 
 # Human readable format of corpus (term-frequency)
-print("Corpus with original text: ",[[(dict_id2word[id], freq) for id, freq in cp] for cp in corpus[:1]])
+print("Corpus with original text: ",[[(id2word[id], freq) for id, freq in cp] for cp in corpus[:1]])
 
-# Train the model on the corpus.
-nmf_model = gensim.models.nmf.Nmf(corpus, num_topics=5, id2word = dict_id2word)
-topic_info = nmf_model.print_topics(num_topics=5, num_words=10)
-print(topic_info)
+# open file to write output
+output = open("nmf_output.txt",'w')
+# Loop NMF model with different number of topics (test from 1 to 10)
+i=1
+while i<11:
+    output.write("Number of Topic: ")
+    output.write(str(i)+'\n')
+    # Build NMF model
+    nmf_model = gensim.models.nmf.Nmf(corpus, num_topics=i, id2word = id2word)
+    # Print the Keyword in the 10 topics
+    topic_info = nmf_model.print_topics(num_topics=i, num_words=10)
+    pprint(topic_info)
+    NMF_Topics = topic_info
+    for topic in NMF_Topics:
+        output.write(' '.join(str(item) for item in topic) + '\n')
 
+    doc_nmf = nmf_model[corpus]    
+    # Compute Coherence Score
+    coherence_model_nmf = CoherenceModel(model=nmf_model, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    coherence_nmf = coherence_model_nmf.get_coherence()
+    print('Coherence Score: ', coherence_nmf)
+    output.write('Coherence Score: ')
+    output.write(str(coherence_nmf)+'\n')
+    i+=1
 

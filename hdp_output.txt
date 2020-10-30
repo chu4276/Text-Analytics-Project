@@ -1,0 +1,75 @@
+Number of Topic: 1
+0 0.002*prisoner + 0.002*minor + 0.002*prison + 0.002*pouneh + 0.002*home + 0.002*injustice + 0.001*directly + 0.001*militant + 0.001*crush + 0.001*editor
+Coherence Score: -19.836906280116498
+Number of Topic: 2
+0 0.002*robbery + 0.002*criticize + 0.001*garage + 0.001*shoot + 0.001*especially + 0.001*massacre + 0.001*gorgeous + 0.001*conformity + 0.001*summary + 0.001*prisoner
+1 0.002*censorship + 0.002*prison + 0.002*monotony + 0.002*official + 0.002*year + 0.002*woman + 0.002*guess + 0.001*daughter + 0.001*beheading + 0.001*prisoner
+Coherence Score: -19.858099820028723
+Number of Topic: 3
+0 0.002*prisoner + 0.002*trend + 0.002*prison + 0.002*release + 0.002*political + 0.002*showering + 0.001*apprehend + 0.001*black + 0.001*crawled + 0.001*recognition
+1 0.002*rupture + 0.002*poetically + 0.002*fill + 0.002*prison + 0.001*cheek + 0.001*christian + 0.001*knotty + 0.001*turkish + 0.001*westoxicated + 0.001*disconnect
+2 0.002*leave + 0.002*que + 0.002*uncommon + 0.001*epilogue + 0.001*interior + 0.001*peaceful + 0.001*simultaneous + 0.001*reside + 0.001*inspiration + 0.001*link
+Coherence Score: -19.860073794299332
+Number of Topic: 4
+0 0.002*com + 0.002*stereotypical + 0.001*internationally + 0.001*prisoner + 0.001*dig + 0.001*harotonian + 0.001*meter + 0.001*complete + 0.001*western + 0.001*patch
+1 0.002*body + 0.002*joyously + 0.001*fixture + 0.001*prison + 0.001*daughter + 0.001*beneficial + 0.001*wrong + 0.001*detain + 0.001*sex + 0.001*weave
+2 0.002*many + 0.002*consciousness + 0.001*resist + 0.001*war + 0.001*jail + 0.001*excitement + 0.001*lot + 0.001*menacing + 0.001*hot + 0.001*somewhat
+3 0.002*prison + 0.002*make + 0.002*prisoner + 0.002*see + 0.002*talk + 0.002*impostor + 0.002*drown + 0.002*wear + 0.002*experience + 0.001*execute
+Coherence Score: -19.811898308431537
+Number of Topic: 5
+0 0.002*prisoner + 0.001*stage + 0.001*spoon + 0.001*triumphantly + 0.001*uneducated + 0.001*whenever + 0.001*broad + 0.001*variable + 0.001*nargess + 0.001*meanwhile
+1 0.002*prison + 0.002*marcie + 0.002*pallet + 0.002*smooth + 0.001*hejab + 0.001*prisoner + 0.001*neglect + 0.001*never + 0.001*take + 0.001*sense
+2 0.002*prisoner + 0.002*interfere + 0.002*jail + 0.002*hour + 0.002*prison + 0.002*economist + 0.002*condition + 0.001*haideh + 0.001*link + 0.001*shop
+3 0.002*sad + 0.002*prison + 0.002*surrounding + 0.002*quote + 0.001*protection + 0.001*insurance + 0.001*reminisce + 0.001*incessantly + 0.001*spring + 0.001*advocate
+4 0.002*prisoner + 0.002*time + 0.002*prison + 0.002*hear + 0.001*oblige + 0.001*imaginary + 0.001*ground + 0.001*bean + 0.001*repentance + 0.001*weight
+Coherence Score: -19.861719409605
+Number of Topic: 6
+0 0.002*prison + 0.002*dominate + 0.001*nature + 0.001*less + 0.001*hold + 0.001*must + 0.001*unbearably + 0.001*syrian + 0.001*populate + 0.001*be
+1 0.002*prison + 0.002*sour + 0.001*sinful + 0.001*recognize + 0.001*defeat + 0.001*listening + 0.001*behead + 0.001*aside + 0.001*rape + 0.001*liability
+2 0.002*prison + 0.002*allegorical + 0.002*hardliner + 0.002*cabinet + 0.001*shoot + 0.001*precarious + 0.001*tv + 0.001*reconstruct + 0.001*spectrum + 0.001*woman
+3 0.002*necessarily + 0.002*prisoner + 0.002*code + 0.002*reside + 0.001*creature + 0.001*illegitimate + 0.001*new + 0.001*great + 0.001*uncover + 0.001*harsher
+4 0.002*interestingly + 0.002*crying + 0.002*horrid + 0.001*taxi + 0.001*anguished + 0.001*front + 0.001*prisoner + 0.001*right + 0.001*everyday + 0.001*decline
+5 0.002*submit + 0.001*mixed + 0.001*knowing + 0.001*rebel + 0.001*close + 0.001*apostate + 0.001*thought + 0.001*prisoner + 0.001*range + 0.001*bloodless
+Coherence Score: -19.79195235356241
+Number of Topic: 7
+0 0.003*prison + 0.002*graceful + 0.002*cubicle + 0.002*woman + 0.002*back + 0.002*initial + 0.002*brave + 0.001*leak + 0.001*parole + 0.001*dysfunction
+1 0.002*itch + 0.002*true + 0.002*year + 0.002*adulteress + 0.002*autopsy + 0.002*woman + 0.001*left + 0.001*unknown + 0.001*pay + 0.001*coming
+2 0.002*artist + 0.002*renew + 0.001*lice + 0.001*sympathize + 0.001*frame + 0.001*prison + 0.001*name + 0.001*reformist + 0.001*comrade + 0.001*death
+3 0.002*cancer + 0.002*prisoner + 0.001*warden + 0.001*belong + 0.001*muster + 0.001*indication + 0.001*post + 0.001*dalia_sofer + 0.001*let + 0.001*perhaps
+4 0.002*disabled + 0.002*prison + 0.002*natural + 0.002*beginning + 0.002*christian + 0.001*recess + 0.001*fresh + 0.001*compel + 0.001*series + 0.001*fly
+5 0.002*co + 0.002*richness + 0.002*flow + 0.001*confidential + 0.001*political + 0.001*discourse + 0.001*top + 0.001*crop + 0.001*tavabization + 0.001*recall
+6 0.002*foreigner + 0.002*shy + 0.002*prison + 0.002*thrilled + 0.001*tahmineh + 0.001*glow + 0.001*stay + 0.001*swim + 0.001*eye + 0.001*instrument
+Coherence Score: -19.802727903234125
+Number of Topic: 8
+0 0.002*prison + 0.002*assignment + 0.001*child + 0.001*traditional + 0.001*massive + 0.001*prospect + 0.001*separate + 0.001*discontent + 0.001*silly + 0.001*sky
+1 0.002*prison + 0.002*voice + 0.002*say + 0.002*prisoner + 0.002*take + 0.002*town + 0.002*invitation + 0.001*shortsighted + 0.001*loom + 0.001*hypocrite
+2 0.002*trigger + 0.002*outcry + 0.002*television + 0.002*dead + 0.001*prison + 0.001*waive + 0.001*awkward + 0.001*strategy + 0.001*parent + 0.001*dissent
+3 0.002*freshman + 0.002*say + 0.002*really + 0.001*army + 0.001*tameem + 0.001*sign + 0.001*satisfy + 0.001*separation + 0.001*headline + 0.001*long
+4 0.003*prisoner + 0.002*clerk + 0.002*prison + 0.002*attain + 0.001*princess + 0.001*soudabeh + 0.001*muslim + 0.001*tion + 0.001*cigarette + 0.001*jail
+5 0.002*pahlavi + 0.002*english + 0.002*autograph + 0.002*dispensation + 0.001*tahereh + 0.001*appropriate + 0.001*impulse + 0.001*draw + 0.001*frightened + 0.001*underground
+6 0.002*colander + 0.002*prisoner + 0.001*city + 0.001*job + 0.001*repeatedly + 0.001*secretive + 0.001*propaganda + 0.001*horrifying + 0.001*housekeeper + 0.001*uae
+7 0.002*ashe + 0.002*visceral + 0.002*vigorously + 0.002*bearing + 0.001*pinnacle + 0.001*change + 0.001*prison + 0.001*suicide + 0.001*soldier + 0.001*constraint
+Coherence Score: -19.827116405831983
+Number of Topic: 9
+0 0.004*prisoner + 0.002*prison + 0.002*jail + 0.002*feel + 0.002*cell + 0.002*official + 0.001*monotony + 0.001*difference + 0.001*guard + 0.001*brag
+1 0.002*silent + 0.002*bemused + 0.002*tearfully + 0.002*achieve + 0.001*luth + 0.001*captive + 0.001*sketch + 0.001*combat + 0.001*creditor + 0.001*thief
+2 0.002*typical + 0.002*prisoner + 0.002*respect + 0.002*jail + 0.002*analyst + 0.002*response + 0.001*relish + 0.001*opposed + 0.001*tissue + 0.001*prison
+3 0.002*prison + 0.001*online + 0.001*price + 0.001*scenario + 0.001*rental + 0.001*prostitution + 0.001*storm + 0.001*technique + 0.001*remembrance + 0.001*corruption
+4 0.002*girl + 0.002*citation + 0.001*ceaseless + 0.001*makeup + 0.001*nowhere + 0.001*seal + 0.001*unionist + 0.001*homosexual + 0.001*haunt + 0.001*welcome
+5 0.002*jailed + 0.002*believe + 0.002*binswang + 0.001*needle + 0.001*sexuality + 0.001*oath + 0.001*plato + 0.001*flogging + 0.001*wipe + 0.001*tazir
+6 0.002*prison + 0.002*value + 0.001*prisoner + 0.001*collection + 0.001*ca + 0.001*take + 0.001*deprive + 0.001*birth + 0.001*preplanne + 0.001*allude
+7 0.002*radio + 0.002*prison + 0.002*work + 0.002*face + 0.002*lift + 0.002*impostor + 0.001*thick + 0.001*minute + 0.001*skill + 0.001*skin
+8 0.002*famine + 0.002*prisoner + 0.002*midst + 0.001*forbid + 0.001*prison + 0.001*rice + 0.001*own + 0.001*reader + 0.001*imply + 0.001*blue
+Coherence Score: -19.800473749469433
+Number of Topic: 10
+0 0.002*prison + 0.002*field + 0.002*colorful + 0.002*pit + 0.001*fully + 0.001*daisy + 0.001*disembody + 0.001*wounded + 0.001*verbatim + 0.001*uphold
+1 0.002*prison + 0.002*roof + 0.002*mouthful + 0.001*recall + 0.001*come + 0.001*documentation + 0.001*prisoner + 0.001*ditch + 0.001*libyan + 0.001*web
+2 0.004*score + 0.002*prison + 0.002*thumb + 0.002*even + 0.001*read + 0.001*say + 0.001*flaw + 0.001*ransack + 0.001*suppress + 0.001*form
+3 0.001*jail + 0.001*frightened + 0.001*irritation + 0.001*televise + 0.001*wall + 0.001*sunken + 0.001*gesture + 0.001*engineer + 0.001*justified + 0.001*dull
+4 0.002*marriage + 0.002*harsher + 0.001*jail + 0.001*hate + 0.001*recent + 0.001*mosahebeh + 0.001*baby + 0.001*dismiss + 0.001*accident + 0.001*disgust
+5 0.002*prisoner + 0.002*visible + 0.002*contemplate + 0.002*prison + 0.002*pretend + 0.001*detach + 0.001*honesty + 0.001*message + 0.001*opportunity + 0.001*bust
+6 0.002*daisy + 0.002*disobedience + 0.001*jokingly + 0.001*pretentious + 0.001*former + 0.001*lifetime + 0.001*defend + 0.001*prison + 0.001*garment + 0.001*bond
+7 0.003*prison + 0.002*prisoner + 0.002*shared + 0.002*restore + 0.002*predictable + 0.001*tough + 0.001*watermelon + 0.001*history + 0.001*different + 0.001*say
+8 0.002*prisoner + 0.002*officially + 0.002*encouraged + 0.002*prison + 0.002*mujahideen + 0.001*one + 0.001*copy + 0.001*deprive + 0.001*ideological + 0.001*scientific
+9 0.002*parole + 0.002*fun + 0.002*overshadow + 0.002*courthouse + 0.001*soundly + 0.001*drag + 0.001*kitten + 0.001*conventional + 0.001*serious + 0.001*motivated
+Coherence Score: -19.771955244865605
