@@ -75,7 +75,7 @@ def lemmatization(texts, allowed_postags):
 data_words_nostops = remove_stopwords(data_words)
 
 # Form Bigrams
-data_words_bigrams = make_bigrams(data_words_nostops)
+data_words_bigrams = make_trigrams(data_words_nostops)
 
 # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
 # python3 -m spacy download en_core_web_sm

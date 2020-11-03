@@ -118,7 +118,7 @@ while i<11:
 
     doc_hdp = hdp_model[corpus]    
     # Compute Coherence Score
-    coherence_model_hdp = CoherenceModel(model=hdp_model, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    coherence_model_hdp = CoherenceModel(model=hdp_model, corpus = corpus, dictionary=id2word, coherence='u_mass')
     coherence_hdp = coherence_model_hdp.get_coherence()
     print('Coherence Score: ', coherence_hdp)
     output.write('Coherence Score: ')
