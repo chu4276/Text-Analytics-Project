@@ -1,2 +1,0 @@
-Number of Topic: 1
-0 0.002*prison + 0.002*prisoner + 0.002*prevalence + 0.002*undoing + 0.001*photo + 0.001*waiting + 0.001*iman + 0.001*new + 0.001*reduce + 0.001*collection

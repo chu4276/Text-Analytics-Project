@@ -98,7 +98,7 @@ point,point,point,n
 pride,pride,pride,n
 authority,authority,authority,n
 critical,critical,critical,a
-many,many,many,a
+wall,wall,wall,n
 barriers,barrier,barriers,n
 full,full,full,a
 human,human,human,a
@@ -340,18 +340,14 @@ power,power,power,n
 literature,literature,literature,n
 fact,fact,fact,n
 book,book,book,n
-many,many,many,a
 things,thing,things,n
-many,many,many,a
 people,people,people,n
 chapel,chapel,chapel,a
 presentation,presentation,presentation,n
 lled,lled,lled,a
 large,large,large,a
 audience,audience,audience,n
-many,many,many,a
 iranian,iranian,iranian,a
-americans,american,americans,n
 hand,hand,hand,n
 totalitarianism,totalitarianism,totalitarianism,n
 transformative,transformative,transformative,a
@@ -414,8 +410,7 @@ wine,wine,wine,n
 author,author,author,n
 presentation,presentation,presentation,n
 day,day,day,n
-much,much,much,a
-dark,dark,dark,n
+dark,dark,dark,a
 deeds,deed,deeds,n
 iranian,iranian,iranian,a
 revolution,revolution,revolution,n
@@ -968,7 +963,6 @@ magical,magical,magical,a
 word,word,word,n
 primitive,primitive,primitive,a
 dangerous,dangerous,dangerous,a
-many,many,many,a
 scholars,scholar,scholars,n
 east,east,east,a
 western,western,western,a
@@ -1244,8 +1238,7 @@ light,light,light,n
 bright,bright,bright,a
 days,day,days,n
 death,death,death,n
-much,much,much,a
-leave,leave,leave,a
+know,know,know,n
 time,time,time,n
 stationed,stationed,stationed,a
 military,military,military,a
@@ -1555,8 +1548,7 @@ theory,theory,theory,n
 binary,binary,binary,a
 opposition,opposition,opposition,n
 ghazali,ghazali,ghazali,a
-authority,authority,authority,n
-many,many,many,a
+authority,authority,authority,a
 subjects,subject,subjects,n
 prestigious,prestigious,prestigious,a
 university,university,university,n
@@ -1604,7 +1596,6 @@ sus,sus,sus,n
 ishq,ishq,ishq,n
 complete,complete,complete,a
 supremacy,supremacy,supremacy,n
-many,many,many,a
 building,building,building,n
 blocks,block,blocks,n
 erect,erect,erect,a
@@ -1744,7 +1735,6 @@ protagonists,protagonist,protagonists,n
 answered,answered,answered,a
 question,question,question,n
 share,share,share,n
-many,many,many,a
 women,woman,women,n
 world,world,world,n
 great,great,great,a
@@ -1944,7 +1934,6 @@ use,use,use,n
 touch,touch,touch,a
 additional,additional,additional,a
 rooms,room,rooms,n
-many,many,many,a
 guests,guest,guests,n
 right,right,right,a
 inside,inside,inside,n
@@ -2088,7 +2077,6 @@ britain,britain,britain,n
 rest,rest,rest,n
 book,book,book,n
 part,part,part,n
-many,many,many,a
 allusions,allusion,allusions,n
 misfortunes,misfortune,misfortunes,n
 local,local,local,a
@@ -2434,8 +2422,7 @@ outlook,outlook,outlook,n
 su,su,su,n
 internal,internal,internal,a
 conict,conict,conict,n
-much,much,much,a
-force,force,force,n
+force,force,force,a
 assert,assert,assert,a
 authority,authority,authority,n
 iran,iran,iran,n
@@ -2576,7 +2563,6 @@ orientalism,orientalism,orientalism,n
 enough,enough,enough,a
 room,room,room,n
 justice,justice,justice,n
-many,many,many,a
 gures,gures,gures,n
 speak,speak,speak,a
 oppression,oppression,oppression,n
@@ -2598,7 +2584,6 @@ dance,dance,dance,n
 cincinnatus,cincinnatus,cincinnatus,n
 attention,attention,attention,n
 jailer,jailer,jailer,n
-much,much,much,a
 regrets,regret,regrets,n
 friendly,friendly,friendly,a
 embrace,embrace,embrace,n
@@ -2885,8 +2870,6 @@ miles,mile,miles,n
 threatening,threatening,threatening,a
 weapons,weapon,weapons,n
 destruction,destruction,destruction,n
-much,much,much,a
-many,many,many,a
 loathe,loathe,loathe,a
 war,war,war,n
 time,time,time,n
@@ -3020,8 +3003,9 @@ war,war,war,n
 superior,superior,superior,a
 standards,standard,standards,n
 admiration,admiration,admiration,n
-many,many,many,a
+honor,honor,honor,n
 iranians,iranian,iranians,n
+fond,fond,fond,a
 war,war,war,n
 lives,life,lives,n
 saddam,saddam,saddam,a
@@ -3047,7 +3031,6 @@ passion,passion,passion,n
 conviction,conviction,conviction,n
 double,double,double,a
 standards,standard,standards,n
-many,many,many,a
 democratic,democratic,democratic,a
 world,world,world,n
 war,war,war,n
@@ -3300,7 +3283,6 @@ honor,honor,honor,n
 lamp,lamp,lamp,a
 window,window,window,n
 meeting,meeting,meeting,n
-many,many,many,a
 people,people,people,n
 genuine,genuine,genuine,a
 democracy,democracy,democracy,n
@@ -3433,7 +3415,6 @@ clear,clear,clear,a
 belongs,belongs,belongs,n
 years,year,years,n
 good,good,good,a
-many,many,many,a
 rounds,round,rounds,n
 tea,tea,tea,n
 father,father,father,n
@@ -3510,11 +3491,8 @@ boat,boat,boat,n
 inside,inside,inside,a
 words,word,words,n
 ownership,ownership,ownership,n
-much,much,much,a
 things,thing,things,n
-much,much,much,a
-let,let,let,n
-father,father,father,n
+father,father,father,a
 saints,saint,saints,n
 heart,heart,heart,n
 make,make,make,a
@@ -4941,7 +4919,6 @@ capital,capital,capital,n
 iran,iran,iran,n
 largest,largest,large,a
 city,city,city,n
-many,many,many,a
 american,american,american,a
 british,british,british,a
 soldiers,soldier,soldiers,n
@@ -4953,7 +4930,6 @@ popular,popular,popular,a
 higher,higher,high,a
 class,class,class,n
 father,father,father,n
-many,many,many,a
 faithful,faithful,faithful,a
 students,student,students,n
 learn,learn,learn,a
@@ -5318,9 +5294,8 @@ privacy,privacy,privacy,n
 residents,resident,residents,n
 high,high,high,a
 ceilings,ceiling,ceilings,n
-many,many,many,a
-windows,window,windows,n
 school,school,school,n
+forty,forty,forty,a
 year,year,year,n
 old,old,old,a
 main,main,main,a
@@ -5688,7 +5663,6 @@ expectations,expectation,expectations,n
 zhivago,zhivago,zhivago,a
 war,war,war,n
 peace,peace,peace,n
-many,many,many,a
 something,something,something,n
 terrible,terrible,terrible,a
 country,country,country,n
@@ -6045,8 +6019,9 @@ illegal,illegal,illegal,a
 time,time,time,n
 shah,shah,shah,n
 underground,underground,underground,a
-many,many,many,a
 years,year,years,n
+muslim,muslim,muslim,a
+socialists,socialist,socialists,n
 islam,islam,islam,a
 lead,lead,lead,n
 iran,iran,iran,n
@@ -6056,7 +6031,6 @@ free,free,free,a
 westernization,westernization,westernization,n
 followers,follower,followers,n
 years,year,years,n
-many,many,many,a
 protests,protest,protests,n
 members,member,members,n
 university,university,university,a
@@ -6280,7 +6254,6 @@ end,end,end,a
 war,war,war,n
 iraq,iraq,iraq,n
 none,none,none,n
-much,much,much,a
 war,war,war,n
 felt,felt,felt,n
 planet,planet,planet,n
@@ -6423,7 +6396,6 @@ revolution,revolution,revolution,n
 anti,anti,anti,a
 shah,shah,shah,a
 movement,movement,movement,n
-many,many,many,a
 years,year,years,n
 flee,flee,flee,a
 france,france,france,n
@@ -6482,7 +6454,6 @@ previous,previous,previous,a
 months,month,months,n
 hundreds,hundred,hundreds,n
 people,people,people,n
-many,many,many,a
 crime,crime,crime,n
 antirevolution,antirevolution,antirevolution,n
 islam,islam,islam,a
@@ -6721,7 +6692,7 @@ told,told,told,a
 certain,certain,certain,a
 death,death,death,n
 death,death,death,n
-many,many,many,a
+solve,solve,solve,n
 problems,problem,problems,n
 safe,safe,safe,a
 side,side,side,n
@@ -6740,7 +6711,6 @@ deportation,deportation,deportation,n
 organist,organist,organist,n
 long,long,long,a
 time,time,time,n
-many,many,many,a
 kids,kid,kids,n
 school,school,school,n
 heard,heard,heard,a
@@ -6819,7 +6789,6 @@ escape,escape,escape,n
 narrow,narrow,narrow,a
 streets,street,streets,n
 possibility,possibility,possibility,n
-much,much,much,a
 stronger,stronger,strong,a
 shahrzad,shahrzad,shahrzad,a
 university,university,university,n
@@ -6926,7 +6895,6 @@ days,day,days,n
 banisadr,banisadr,banisadr,n
 flee,flee,flee,a
 france,france,france,n
-many,many,many,a
 friends,friend,friends,n
 executed,executed,executed,a
 presidency,presidency,presidency,n
@@ -7811,8 +7779,7 @@ know,know,know,a
 everything,everything,everything,n
 evin,evin,evin,n
 procedures,procedure,procedures,n
-much,much,much,a
-ali,ali,ali,n
+knocked,knocked,knocked,a
 door,door,door,n
 cell,cell,cell,n
 clock,clock,clock,n
@@ -7994,7 +7961,6 @@ cell,cell,cell,n
 steps,step,steps,n
 length,length,length,n
 width,width,width,n
-much,much,much,a
 steps,step,steps,n
 images,image,images,n
 night,night,night,n
@@ -8135,7 +8101,6 @@ moosavi,moosavi,moosavi,n
 islam,islam,islam,a
 best,best,best,a
 abilities,ability,abilities,n
-many,many,many,a
 occasions,occasion,occasions,n
 great,great,great,a
 deal,deal,deal,n
@@ -8223,7 +8188,6 @@ life,life,life,n
 sentence,sentence,sentence,n
 talk,talk,talk,n
 ali,ali,ali,n
-much,much,much,a
 pain,pain,pain,n
 sadness,sadness,sadness,n
 evin,evin,evin,n
@@ -8369,7 +8333,7 @@ pregnant,pregnant,pregnant,a
 hear,hear,hear,a
 question,question,question,n
 less,le,less,a
-answer,answer,answer,a
+answer,answer,answer,n
 baby,baby,baby,n
 move,move,move,n
 felt,felt,felt,n
@@ -8596,7 +8560,6 @@ eh,eh,eh,n
 zahra,zahra,zahra,n
 cemetery,cemetery,cemetery,n
 ali,ali,ali,n
-many,many,many,a
 innocents,innocent,innocents,n
 lives,life,lives,n
 walls,wall,walls,n
@@ -8824,7 +8787,6 @@ support,support,support,n
 spent,spent,spent,n
 rest,rest,rest,n
 life,life,life,n
-much,much,much,a
 worse,worse,bad,a
 moosavi,moosavi,moosavi,n
 hamehd,hamehd,hamehd,n
@@ -9022,7 +8984,6 @@ process,process,process,n
 slow,slow,slow,a
 noticeable,noticeable,noticeable,a
 release,release,release,n
-many,many,many,a
 street,street,street,n
 names,name,names,n
 remembrance,remembrance,remembrance,n
@@ -9264,7 +9225,6 @@ khomeini,khomeini,khomeini,a
 death,death,death,n
 affect,affect,affect,a
 iran,iran,iran,n
-many,many,many,a
 islamic,islamic,islamic,a
 government,government,government,n
 survive,survive,survive,a
@@ -9386,7 +9346,6 @@ faith,faith,faith,n
 peace,peace,peace,n
 law,law,law,n
 antiques,antique,antiques,n
-many,many,many,a
 pieces,piece,pieces,n
 large,large,large,a
 sums,sum,sums,n
@@ -10812,7 +10771,6 @@ review,review,review,a
 case,case,case,n
 correct,correct,correct,a
 parents,parent,parents,n
-many,many,many,a
 innocent,innocent,innocent,a
 deaths,death,deaths,n
 postrevolution,postrevolution,postrevolution,n
@@ -11955,7 +11913,7 @@ drive,drive,drive,n
 forth,forth,forth,a
 job,job,job,n
 baba,baba,baba,n
-much,much,much,a
+supervisor,supervisor,supervisor,a
 pay,pay,pay,n
 sit,sit,sit,n
 color,color,color,n
@@ -12040,7 +11998,6 @@ picture,picture,picture,n
 crash,crash,crash,n
 break,break,break,n
 meanwhile,meanwhile,meanwhile,a
-many,many,many,a
 iranian,iranian,iranian,a
 cousins,cousin,cousins,n
 home,home,home,n
@@ -12281,7 +12238,6 @@ single,single,single,a
 entrance,entrance,entrance,n
 city,city,city,n
 smaller,smaller,small,a
-remembered,remembered,remembered,a
 posters,poster,posters,n
 khamenei,khamenei,khamenei,n
 wall,wall,wall,n
@@ -12359,7 +12315,6 @@ sadness,sadness,sadness,a
 hungry,hungry,hungry,a
 ones,one,ones,n
 guilty,guilty,guilty,a
-many,many,many,a
 ways,way,ways,n
 iran,iran,iran,n
 abdollah,abdollah,abdollah,n
@@ -13078,9 +13033,8 @@ islamic,islamic,islamic,a
 baba,baba,baba,n
 anger,anger,anger,n
 sink,sink,sink,n
-much,much,much,a
-su,su,su,n
-cient,cient,cient,n
+su,su,su,a
+cient,cient,cient,a
 man,man,man,n
 reach,reach,reach,a
 checkbook,checkbook,checkbook,n
@@ -13104,10 +13058,7 @@ conversations,conversation,conversations,n
 maman,maman,maman,a
 talks,talk,talks,n
 friends,friend,friends,n
-iran,iran,iran,a
-many,many,many,a
 years,year,years,n
-rape,rape,rape,n
 boys,boy,boys,n
 room,room,room,n
 curious,curious,curious,a
@@ -13570,7 +13521,6 @@ words,word,words,n
 told,told,told,a
 story,story,story,n
 death,death,death,n
-much,much,much,a
 feeling,feeling,feeling,n
 tears,tear,tears,n
 large,large,large,a
@@ -14288,7 +14238,6 @@ rounder,rounder,round,a
 day,day,day,n
 floor,floor,floor,n
 moist,moist,moist,n
-much,much,much,a
 wood,wood,wood,n
 gordiyeh,gordiyeh,gordiyeh,a
 kitchen,kitchen,kitchen,n
@@ -14433,7 +14382,6 @@ salt,salt,salt,n
 ornate,ornate,ornate,a
 church,church,church,n
 read,read,read,a
-much,much,much,a
 knew,knew,knew,n
 word,word,word,n
 shut,shut,shut,a
@@ -14750,7 +14698,6 @@ colors,color,colors,n
 liked,liked,liked,a
 feeling,feeling,feeling,a
 authority,authority,authority,n
-many,many,many,a
 months,month,months,n
 others,others,others,n
 give,give,give,a
@@ -14955,7 +14902,6 @@ dust,dust,dust,a
 square,square,square,n
 old,old,old,a
 square,square,square,n
-many,many,many,a
 times,time,times,n
 way,way,way,n
 fereydoon,fereydoon,fereydoon,n
@@ -15203,7 +15149,6 @@ life,life,life,n
 port,port,port,n
 ship,ship,ship,a
 baku,baku,baku,n
-many,many,many,a
 years,year,years,n
 fortune,fortune,fortune,n
 captain,captain,captain,a
@@ -15384,8 +15329,10 @@ afternoon,afternoon,afternoon,n
 way,way,way,n
 home,home,home,n
 harem,harem,harem,n
-many,many,many,a
+hammam,hammam,hammam,n
 times,time,times,n
+naheed,naheed,naheed,a
+missed,missed,missed,a
 homa,homa,homa,n
 charge,charge,charge,n
 clothes,clothes,clothes,n
@@ -15492,7 +15439,6 @@ royal,royal,royal,a
 court,court,court,n
 struggle,struggle,struggle,a
 power,power,power,n
-many,many,many,a
 soldiers,soldier,soldiers,n
 large,large,large,a
 chunks,chunk,chunks,n
@@ -15654,7 +15600,6 @@ veil,veil,veil,n
 half,half,half,n
 truths,truth,truths,n
 difficult,difficult,difficult,a
-many,many,many,a
 bright,bright,bright,a
 spots,spot,spots,n
 persian,persian,persian,a
@@ -15695,7 +15640,7 @@ political,political,political,a
 establishment,establishment,establishment,n
 women,woman,women,n
 story,story,story,n
-many,many,many,a
+accepted,accepted,accepted,a
 persian,persian,persian,a
 women,woman,women,n
 power,power,power,n
@@ -15793,9 +15738,9 @@ equal,equal,equal,a
 rights,right,rights,n
 freedom,freedom,freedom,n
 practices,practice,practices,n
-many,many,many,a
+heresy,heresy,heresy,a
 traditional,traditional,traditional,a
-muslim,muslim,muslim,a
+muslim,muslim,muslim,n
 women,woman,women,n
 earnest,earnest,earnest,a
 question,question,question,n
@@ -15930,8 +15875,8 @@ accepted,accepted,accepted,a
 authority,authority,authority,n
 independence,independence,independence,n
 women,woman,women,n
-many,many,many,a
 years,year,years,n
+religion,religion,religion,n
 spread,spread,spread,n
 vast,vast,vast,a
 persian,persian,persian,a
@@ -16258,7 +16203,6 @@ greatest,greatest,great,a
 asset,asset,asset,n
 persia,persia,persia,a
 backwater,backwater,backwater,n
-many,many,many,a
 veils,veil,veils,n
 protection,protection,protection,n
 privilege,privilege,privilege,n
@@ -16702,7 +16646,6 @@ power,power,power,n
 profound,profound,profound,n
 noble,noble,noble,a
 changes,change,changes,n
-many,many,many,a
 unintended,unintended,unintended,a
 negative,negative,negative,a
 repercussions,repercussion,repercussions,n
@@ -16880,7 +16823,7 @@ class,class,class,n
 class,class,class,n
 region,region,region,n
 region,region,region,n
-many,many,many,a
+mind,mind,mind,a
 iranians,iranian,iranians,n
 women,woman,women,n
 cause,cause,cause,n
@@ -16904,7 +16847,6 @@ fathers,father,fathers,n
 husbands,husband,husbands,n
 sons,son,sons,n
 law,law,law,n
-many,many,many,a
 iranian,iranian,iranian,a
 girls,girl,girls,n
 school,school,school,n
@@ -16957,6 +16899,7 @@ iran,iran,iran,a
 path,path,path,n
 westernization,westernization,westernization,n
 progress,progress,progress,n
+tarraqi,tarraqi,tarraqi,n
 objections,objection,objections,n
 establishment,establishment,establishment,a
 campaign,campaign,campaign,n
@@ -16982,7 +16925,6 @@ changes,change,changes,n
 stronghold,stronghold,stronghold,a
 school,school,school,n
 system,system,system,n
-many,many,many,a
 secular,secular,secular,a
 laws,law,laws,n
 overall,overall,overall,a
@@ -17045,7 +16987,6 @@ new,new,new,a
 pahlavi,pahlavi,pahlavi,a
 policies,policy,policies,n
 case,case,case,n
-much,much,much,a
 implied,implied,implied,a
 influence,influence,influence,n
 ulama,ulama,ulama,a
@@ -17076,7 +17017,6 @@ pushed,pushed,pushed,a
 clergy,clergy,clergy,n
 background,background,background,n
 time,time,time,n
-many,many,many,a
 country,country,country,n
 progress,progress,progress,n
 case,case,case,n
@@ -17867,7 +17807,7 @@ fear,fear,fear,a
 rash,rash,rash,n
 runaway,runaway,runaway,n
 wives,wife,wives,n
-much,much,much,a
+hard,hard,hard,a
 important,important,important,a
 guard,guard,guard,n
 runaway,runaway,runaway,n
@@ -18039,7 +17979,6 @@ career,career,career,n
 opportunities,opportunity,opportunities,n
 family,family,family,n
 law,law,law,n
-many,many,many,a
 areas,area,areas,n
 initial,initial,initial,a
 stages,stage,stages,n
@@ -18093,7 +18032,6 @@ strict,strict,strict,a
 adherence,adherence,adherence,n
 sharia,sharia,sharia,n
 position,position,position,n
-many,many,many,a
 adherents,adherent,adherents,n
 khomeini,khomeini,khomeini,n
 najaf,najaf,najaf,a
@@ -18169,7 +18107,6 @@ memoir,memoir,memoir,n
 ebadi,ebadi,ebadi,n
 initial,initial,initial,a
 attraction,attraction,attraction,n
-many,many,many,a
 minded,minded,minded,a
 women,woman,women,n
 rhetoric,rhetoric,rhetoric,a
@@ -18205,7 +18142,6 @@ state,state,state,n
 alliance,alliance,alliance,n
 patronage,patronage,patronage,n
 women,woman,women,n
-many,many,many,a
 early,early,early,a
 pronouncements,pronouncement,pronouncements,n
 nation,nation,nation,n
@@ -19265,12 +19201,9 @@ seek,seek,seek,a
 employment,employment,employment,n
 support,support,support,n
 families,family,families,n
-much,much,much,a
-manner,manner,manner,a
 world,world,world,n
 war,war,war,n
 ii,ii,ii,n
-many,many,many,a
 women,woman,women,n
 women,woman,women,n
 traditional,traditional,traditional,a
@@ -19313,7 +19246,6 @@ workers,worker,workers,n
 accounts,account,accounts,n
 fact,fact,fact,n
 statistics,statistic,statistics,n
-many,many,many,a
 women,woman,women,n
 war,war,war,n
 years,year,years,n
@@ -19383,7 +19315,7 @@ louise,louise,louise,n
 halper,halper,halper,n
 difficult,difficult,difficult,a
 years,year,years,n
-many,many,many,a
+consciousness,consciousness,consciousness,a
 women,woman,women,n
 popular,popular,popular,a
 class,class,class,n
@@ -19468,7 +19400,6 @@ pronouncements,pronouncement,pronouncements,n
 real,real,real,a
 value,value,value,n
 woman,woman,woman,n
-much,much,much,a
 family,family,family,n
 environment,environment,environment,n
 husband,husband,husband,n
@@ -19931,7 +19862,6 @@ support,support,support,n
 author,author,author,n
 ali,ali,ali,n
 ansari,ansari,ansari,n
-estimates,estimate,estimates,n
 everyone,everyone,everyone,n
 astonishment,astonishment,astonishment,a
 appeal,appeal,appeal,n
@@ -20024,7 +19954,7 @@ rights,right,rights,n
 grounds,ground,grounds,n
 sexual,sexual,sexual,a
 equality,equality,equality,n
-many,many,many,a
+regarded,regarded,regarded,a
 scholars,scholar,scholars,n
 harmonious,harmonious,harmonious,a
 interpretation,interpretation,interpretation,n
@@ -20160,7 +20090,6 @@ counterparts,counterpart,counterparts,n
 intellectuals,intellectual,intellectuals,n
 significant,significant,significant,a
 force,force,force,n
-many,many,many,a
 early,early,early,a
 arguments,argument,arguments,n
 islam,islam,islam,a
@@ -20177,11 +20106,9 @@ islamic,islamic,islamic,a
 ideals,ideal,ideals,n
 last,last,last,a
 decades,decade,decades,n
-many,many,many,a
 voices,voice,voices,n
-iran,iran,iran,a
 islamic,islamic,islamic,a
-feminist,feminist,feminist,n
+feminist,feminist,feminist,a
 movement,movement,movement,n
 women,woman,women,n
 rahnavard,rahnavard,rahnavard,a
@@ -20381,8 +20308,8 @@ taleghani,taleghani,taleghani,n
 director,director,director,n
 payam,payam,payam,n
 hajar,hajar,hajar,n
-many,many,many,a
-patriarchal,patriarchal,patriarchal,a
+premise,premise,premise,n
+patriarchal,patriarchal,patriarchal,n
 laws,law,laws,n
 iranian,iranian,iranian,a
 society,society,society,n
@@ -20770,7 +20697,6 @@ scholars,scholar,scholars,n
 validity,validity,validity,n
 islamic,islamic,islamic,a
 feminism,feminism,feminism,n
-many,many,many,a
 spokeswomen,spokeswoman,spokeswomen,n
 new,new,new,a
 spirit,spirit,spirit,n
@@ -20778,7 +20704,6 @@ righteous,righteous,righteous,a
 advocacy,advocacy,advocacy,n
 mahboubeh,mahboubeh,mahboubeh,n
 abbasgholizadeh,abbasgholizadeh,abbasgholizadeh,a
-many,many,many,a
 articles,article,articles,n
 early,early,early,a
 term,term,term,n
@@ -21132,7 +21057,6 @@ students,student,students,n
 invisible,invisible,invisible,a
 fences,fence,fences,n
 women,woman,women,n
-much,much,much,a
 men,men,men,n
 women,woman,women,n
 issues,issue,issues,n
@@ -21504,7 +21428,7 @@ sacrifice,sacrifice,sacrifice,a
 relinquish,relinquish,relinquish,a
 true,true,true,a
 selves,self,selves,n
-many,many,many,a
+alleviate,alleviate,alleviate,a
 anxieties,anxiety,anxieties,n
 subordinate,subordinate,subordinate,a
 existence,existence,existence,n
@@ -21657,7 +21581,7 @@ problem,problem,problem,n
 address,address,address,n
 fiq,fiq,fiq,a
 framework,framework,framework,n
-many,many,many,a
+progressive,progressive,progressive,n
 counterparts,counterpart,counterparts,n
 soroush,soroush,soroush,a
 victim,victim,victim,a
@@ -22181,7 +22105,6 @@ content,content,content,a
 radical,radical,radical,a
 similar,similar,similar,a
 publications,publication,publications,n
-many,many,many,a
 trips,trip,trips,n
 sciolino,sciolino,sciolino,n
 correspondent,correspondent,correspondent,n
@@ -22238,7 +22161,6 @@ democracy,democracy,democracy,n
 human,human,human,a
 rights,right,rights,n
 surface,surface,surface,n
-many,many,many,a
 inherent,inherent,inherent,a
 contradictions,contradiction,contradictions,n
 constitution,constitution,constitution,n
@@ -22248,7 +22170,6 @@ sharia,sharia,sharia,n
 law,law,law,n
 democratic,democratic,democratic,a
 ideals,ideal,ideals,n
-many,many,many,a
 ways,way,ways,n
 role,role,role,n
 persistent,persistent,persistent,n
@@ -22556,7 +22477,6 @@ movement,movement,movement,n
 nonviolent,nonviolent,nonviolent,a
 actions,action,actions,n
 demonstrators,demonstrator,demonstrators,n
-many,many,many,a
 instances,instance,instances,n
 authorities,authority,authorities,n
 violence,violence,violence,n
@@ -22669,7 +22589,6 @@ thought,thought,thought,a
 political,political,political,a
 backdrop,backdrop,backdrop,n
 chapter,chapter,chapter,n
-many,many,many,a
 ways,way,ways,n
 first,first,first,a
 century,century,century,n
@@ -23053,10 +22972,9 @@ likelihood,likelihood,likelihood,n
 serving,serving,serving,a
 time,time,time,n
 prison,prison,prison,n
-many,many,many,a
-reformist,reformist,reformist,a
+deterrent,deterrent,deterrent,a
+reformist,reformist,reformist,n
 women,woman,women,n
-many,many,many,a
 committed,committed,committed,a
 struggle,struggle,struggle,n
 iran,iran,iran,a
@@ -23132,7 +23050,6 @@ national,national,national,a
 security,security,security,n
 propaganda,propaganda,propaganda,n
 state,state,state,n
-many,many,many,a
 predecessors,predecessor,predecessors,n
 prey,prey,prey,a
 iranian,iranian,iranian,a
@@ -23393,7 +23310,6 @@ extent,extent,extent,a
 women,woman,women,n
 repressive,repressive,repressive,a
 ideology,ideology,ideology,n
-many,many,many,a
 radical,radical,radical,a
 theologians,theologian,theologians,n
 ancient,ancient,ancient,a
@@ -23434,7 +23350,6 @@ philosophy,philosophy,philosophy,n
 liberation,liberation,liberation,n
 fetters,fetter,fetters,n
 spirit,spirit,spirit,a
-much,much,much,a
 manner,manner,manner,n
 christian,christian,christian,a
 reformists,reformist,reformists,n
@@ -23679,7 +23594,6 @@ freedom,freedom,freedom,n
 self,self,self,n
 determination,determination,determination,n
 life,life,life,n
-many,many,many,a
 unexpected,unexpected,unexpected,a
 consequence,consequence,consequence,n
 last,last,last,a
@@ -23995,7 +23909,7 @@ author,author,author,n
 best,best,best,a
 graphic,graphic,graphic,a
 novel,novel,novel,n
-many,many,many,a
+persepolis,persepolis,persepolis,n
 successful,successful,successful,a
 women,woman,women,n
 fields,field,fields,n
@@ -25570,7 +25484,6 @@ youtube,youtube,youtube,n
 timid,timid,timid,n
 islam,islam,islam,n
 tough,tough,tough,a
-many,many,many,a
 places,place,places,n
 number,number,number,n
 stronger,stronger,strong,a
@@ -25717,11 +25630,8 @@ subverted,subverted,subverted,a
 palestinians,palestinian,palestinians,n
 first,first,first,a
 intifada,intifada,intifada,n
-many,many,many,a
 women,woman,women,n
 leaders,leader,leaders,n
-many,many,many,a
-leading,leading,leading,a
 figures,figure,figures,n
 israel,israel,israel,a
 iran,iran,iran,n
@@ -26000,7 +25910,6 @@ clinics,clinic,clinics,n
 schools,school,schools,n
 islamic,islamic,islamic,a
 homeland,homeland,homeland,n
-many,many,many,a
 women,woman,women,n
 twisted,twisted,twisted,a
 way,way,way,n
@@ -26054,7 +25963,6 @@ death,death,death,n
 social,social,social,a
 stigma,stigma,stigma,n
 caliphate,caliphate,caliphate,a
-many,many,many,a
 women,woman,women,n
 trapped,trapped,trapped,a
 lawless,lawless,lawless,a
@@ -26170,8 +26078,7 @@ country,country,country,n
 state,state,state,n
 approach,approach,approach,n
 religion,religion,religion,n
-much,much,much,a
-secular,secular,secular,n
+secular,secular,secular,a
 authoritarian,authoritarian,authoritarian,a
 state,state,state,n
 tunisians,tunisian,tunisians,n
@@ -26206,7 +26113,6 @@ control,control,control,n
 state,state,state,n
 power,power,power,n
 shut,shut,shut,n
-many,many,many,a
 middle,middle,middle,a
 east,east,east,a
 twentieth,twentieth,twentieth,a
@@ -26281,7 +26187,6 @@ control,control,control,n
 religiosity,religiosity,religiosity,n
 means,mean,means,n
 state,state,state,n
-many,many,many,a
 religious,religious,religious,a
 language,language,language,n
 demand,demand,demand,n
@@ -26407,7 +26312,6 @@ beirut,beirut,beirut,n
 laws,law,laws,n
 help,help,help,n
 affordable,affordable,affordable,a
-much,much,much,a
 middle,middle,middle,a
 class,class,class,n
 beirut,beirut,beirut,n
@@ -26734,7 +26638,6 @@ family,family,family,n
 window,window,window,n
 ledge,ledge,ledge,n
 plants,plant,plants,n
-many,many,many,a
 young,young,young,a
 german,german,german,a
 state,state,state,n
@@ -26872,7 +26775,6 @@ force,force,force,n
 police,police,police,n
 station,station,station,n
 area,area,area,n
-many,many,many,a
 women,woman,women,n
 small,small,small,a
 women,woman,women,n
@@ -26885,7 +26787,6 @@ separate,separate,separate,a
 women,woman,women,n
 entrance,entrance,entrance,n
 establishment,establishment,establishment,n
-many,many,many,a
 years,year,years,n
 term,term,term,n
 salafi,salafi,salafi,n
@@ -26941,7 +26842,6 @@ centers,center,centers,n
 complex,complex,complex,a
 global,global,global,a
 movement,movement,movement,n
-many,many,many,a
 different,different,different,a
 manifestations,manifestation,manifestations,n
 european,european,european,a
@@ -26991,7 +26891,6 @@ world,world,world,n
 torture,torture,torture,a
 black,black,black,a
 sites,site,sites,n
-many,many,many,a
 civilian,civilian,civilian,a
 deaths,death,deaths,n
 name,name,name,n
@@ -27509,12 +27408,11 @@ brits,brit,brits,n
 germans,german,germans,n
 deck,deck,deck,n
 chairs,chair,chairs,n
-palm,palm,palm,n
+palm,palm,palm,a
 trees,tree,trees,n
-much,much,much,a
 city,city,city,n
-squat,squat,squat,n
-rubbish,rubbish,rubbish,a
+strewn,strewn,strewn,a
+rubbish,rubbish,rubbish,n
 food,food,food,n
 joints,joint,joints,n
 cheap,cheap,cheap,a
@@ -28127,7 +28025,7 @@ endured,endured,endured,a
 time,time,time,n
 prison,prison,prison,n
 awlaki,awlaki,awlaki,a
-many,many,many,a
+inspire,inspire,inspire,a
 high,high,high,a
 profile,profile,profile,n
 terror,terror,terror,n
@@ -28260,7 +28158,6 @@ organization,organization,organization,n
 active,active,active,a
 change,change,change,n
 foundation,foundation,foundation,n
-many,many,many,a
 years,year,years,n
 received,received,received,a
 government,government,government,n
@@ -28274,7 +28171,6 @@ hang,hang,hang,a
 gaming,gaming,gaming,n
 consoles,console,consoles,n
 tables,table,tables,n
-many,many,many,a
 groups,group,groups,n
 police,police,police,a
 security,security,security,n
@@ -28569,7 +28465,6 @@ survey,survey,survey,n
 applicant,applicant,applicant,n
 adam,adam,adam,n
 times,time,times,n
-many,many,many,a
 job,job,job,n
 interviews,interview,interviews,n
 applicant,applicant,applicant,a
@@ -28801,7 +28696,6 @@ life,life,life,n
 deep,deep,deep,a
 spiritual,spiritual,spiritual,a
 meaning,meaning,meaning,n
-much,much,much,a
 sharmeena,sharmeena,sharmeena,n
 circulated,circulated,circulated,a
 online,online,online,n
@@ -29007,7 +28901,6 @@ war,war,war,n
 bcos,bcos,bcos,n
 man,man,man,n
 bcos,bcos,bcos,a
-many,many,many,a
 anonymous,anonymous,anonymous,a
 question,question,question,n
 website,website,website,a
@@ -29055,7 +28948,6 @@ old,old,old,a
 accountable,accountable,accountable,a
 muhajirat,muhajirat,muhajirat,n
 arab,arab,arab,a
-many,many,many,a
 adhered,adhered,adhered,a
 strands,strand,strands,n
 extreme,extreme,extreme,a
@@ -29144,9 +29036,8 @@ intelligent,intelligent,intelligent,a
 girls,girl,girls,n
 world,world,world,n
 offers,offer,offers,n
-many,many,many,a
 ways,way,ways,n
-dissent,dissent,dissent,a
+dissent,dissent,dissent,n
 injustice,injustice,injustice,n
 violent,violent,violent,a
 radicalism,radicalism,radicalism,n
@@ -29195,7 +29086,6 @@ muslims,muslim,muslims,n
 conditions,condition,conditions,n
 muslims,muslim,muslims,n
 dire,dire,dire,a
-many,many,many,a
 saudi,saudi,saudi,n
 arabia,arabia,arabia,n
 work,work,work,n
@@ -29214,7 +29104,6 @@ migrants,migrant,migrants,n
 machetes,machete,machetes,n
 sticks,stick,sticks,n
 migrants,migrant,migrants,n
-many,many,many,a
 tortured,tortured,tortured,a
 detention,detention,detention,n
 underground,underground,underground,a
@@ -29260,9 +29149,8 @@ intent,intent,intent,a
 guise,guise,guise,n
 war,war,war,n
 extremism,extremism,extremism,n
-many,many,many,a
+kill,kill,kill,n
 civilians,civilian,civilians,n
-many,many,many,a
 second,second,second,a
 generation,generation,generation,n
 muslim,muslim,muslim,n
@@ -29498,7 +29386,6 @@ social,social,social,a
 opening,opening,opening,n
 sunni,sunni,sunni,a
 militants,militant,militants,n
-many,many,many,a
 era,era,era,a
 baathist,baathist,baathist,n
 loyalists,loyalist,loyalists,n
@@ -29531,7 +29418,7 @@ aim,aim,aim,n
 territorial,territorial,territorial,a
 secede,secede,secede,n
 iraq,iraq,iraq,n
-much,much,much,a
+occupy,occupy,occupy,n
 land,land,land,n
 border,border,border,n
 syria,syria,syria,n
@@ -29649,7 +29536,6 @@ syrian,syrian,syrian,a
 civil,civil,civil,a
 war,war,war,n
 war,war,war,n
-many,many,many,a
 clear,clear,clear,a
 case,case,case,n
 tyrant,tyrant,tyrant,n
@@ -29876,9 +29762,8 @@ invasions,invasion,invasions,n
 lucrative,lucrative,lucrative,a
 western,western,western,a
 contractor,contractor,contractor,n
-much,much,much,a
 salafism,salafism,salafism,n
-much,much,much,a
+blame,blame,blame,n
 oppositional,oppositional,oppositional,a
 tendencies,tendency,tendencies,n
 groups,group,groups,n
@@ -29889,7 +29774,7 @@ jihadism,jihadism,jihadism,n
 flourishes,flourish,flourishes,n
 cracks,crack,cracks,n
 state,state,state,n
-many,many,many,a
+disorder,disorder,disorder,n
 insurgencies,insurgency,insurgencies,n
 world,world,world,n
 campaigns,campaign,campaigns,n
@@ -29944,8 +29829,7 @@ framework,framework,framework,n
 place,place,place,a
 belief,belief,belief,n
 core,core,core,n
-many,many,many,a
-islamist,islamist,islamist,a
+islamist,islamist,islamist,n
 movements,movement,movements,n
 fall,fall,fall,n
 ottoman,ottoman,ottoman,n
@@ -30056,7 +29940,7 @@ think,think,think,a
 years,year,years,n
 arab,arab,arab,a
 spring,spring,spring,n
-many,many,many,a
+uprising,uprising,uprising,a
 young,young,young,a
 people,people,people,n
 stepped,stepped,stepped,a
@@ -30333,7 +30217,6 @@ stretch,stretch,stretch,n
 border,border,border,n
 cross,cross,cross,a
 dunya,dunya,dunya,n
-many,many,many,a
 people,people,people,n
 living,living,living,a
 room,room,room,n
@@ -30349,7 +30232,6 @@ next,next,next,a
 day,day,day,n
 several,several,several,a
 women,woman,women,n
-minivan,minivan,minivan,a
 year,year,year,n
 turkish,turkish,turkish,a
 authorities,authority,authorities,n
@@ -30487,8 +30369,8 @@ film,film,film,n
 american,american,american,a
 sniper,sniper,sniper,n
 soldier,soldier,soldier,a
-many,many,many,a
 civilians,civilian,civilians,n
+iraq,iraq,iraq,a
 war,war,war,n
 messages,message,messages,n
 droll,droll,droll,a
@@ -30718,7 +30600,6 @@ place,place,place,n
 people,people,people,n
 kinds,kind,kinds,n
 goods,good,goods,n
-many,many,many,a
 different,different,different,a
 methods,method,methods,n
 carpet,carpet,carpet,n
@@ -30832,7 +30713,6 @@ involvement,involvement,involvement,n
 terrorism,terrorism,terrorism,n
 years,year,years,n
 authorities,authority,authorities,n
-many,many,many,a
 eighty,eighty,eighty,a
 people,people,people,n
 majority,majority,majority,n
@@ -30887,7 +30767,6 @@ feel,feel,feel,n
 thought,thought,thought,n
 something,something,something,n
 idea,idea,idea,n
-much,much,much,a
 crap,crap,crap,n
 everything,everything,everything,n
 health,health,health,n
@@ -30962,7 +30841,6 @@ skin,skin,skin,a
 mother,mother,mother,n
 hands,hand,hands,n
 counters,counter,counters,n
-many,many,many,a
 times,time,times,n
 strange,strange,strange,a
 contrast,contrast,contrast,n
@@ -31043,7 +30921,6 @@ hospitals,hospital,hospitals,n
 electricity,electricity,electricity,n
 militants,militant,militants,n
 taxes,tax,taxes,n
-many,many,many,a
 families,family,families,n
 incomes,income,incomes,n
 civilian,civilian,civilian,a
@@ -31136,7 +31013,6 @@ codes,code,codes,n
 controls,control,controls,n
 women,woman,women,n
 movement,movement,movement,n
-many,many,many,a
 residents,resident,residents,n
 hisbah,hisbah,hisbah,a
 morality,morality,morality,n
@@ -31212,7 +31088,6 @@ offense,offense,offense,a
 extra,extra,extra,a
 makeup,makeup,makeup,n
 meek,meek,meek,n
-many,many,many,a
 young,young,young,a
 women,woman,women,n
 repeat,repeat,repeat,n
@@ -31443,9 +31318,7 @@ whole,whole,whole,a
 country,country,country,n
 war,war,war,n
 mercenaries,mercenary,mercenaries,n
-madmen,madman,madmen,n
-much,much,much,a
-carry,carry,carry,n
+anticipated,anticipated,anticipated,a
 imminent,imminent,imminent,a
 death,death,death,n
 point,point,point,n
@@ -31668,7 +31541,6 @@ state,state,state,n
 pain,pain,pain,n
 addiction,addiction,addiction,n
 unthinkable,unthinkable,unthinkable,a
-many,many,many,a
 outings,outing,outings,n
 women,woman,women,n
 permissible,permissible,permissible,a
@@ -31774,9 +31646,8 @@ assault,assault,assault,n
 major,major,major,a
 isis,isi,isis,n
 strongholds,stronghold,strongholds,n
-many,many,many,a
+earnest,earnest,earnest,a
 women,woman,women,n
-many,many,many,a
 areas,area,areas,n
 access,access,access,n
 doctor,doctor,doctor,n
@@ -31888,7 +31759,6 @@ opinion,opinion,opinion,n
 west,west,west,a
 political,political,political,a
 violence,violence,violence,n
-many,many,many,a
 varieties,variety,varieties,n
 terrorism,terrorism,terrorism,n
 terrorism,terrorism,terrorism,n
@@ -31983,7 +31853,6 @@ deviant,deviant,deviant,n
 impermissible,impermissible,impermissible,a
 islam,islam,islam,n
 civilians,civilian,civilians,n
-much,much,much,a
 people,people,people,n
 rapper,rapper,rapper,a
 denis,denis,denis,n
@@ -32085,10 +31954,9 @@ terrorist,terrorist,terrorist,a
 organizations,organization,organizations,n
 escape,escape,escape,a
 area,area,area,n
-much,much,much,a
-knowledge,knowledge,knowledge,n
 undisclosed,undisclosed,undisclosed,a
-luck,luck,luck,a
+stroke,stroke,stroke,n
+luck,luck,luck,n
 measure,measure,measure,n
 lack,lack,lack,n
 savvy,savvy,savvy,a
@@ -32321,7 +32189,7 @@ aware,aware,aware,a
 schoolgirls,schoolgirl,schoolgirls,n
 stroll,stroll,stroll,n
 britain,britain,britain,n
-many,many,many,a
+turkey,turkey,turkey,n
 families,family,families,n
 situation,situation,situation,n
 europe,europe,europe,n
@@ -32340,7 +32208,6 @@ amira,amira,amira,n
 phones,phone,phones,n
 monitor,monitor,monitor,n
 contact,contact,contact,n
-much,much,much,a
 serious,serious,serious,a
 academia,academia,academia,n
 rejects,reject,rejects,n
@@ -32480,7 +32347,6 @@ grounds,ground,grounds,n
 radicalization,radicalization,radicalization,n
 real,real,real,a
 anxieties,anxiety,anxieties,n
-much,much,much,a
 concern,concern,concern,n
 prevent,prevent,prevent,n
 khan,khan,khan,n
@@ -32672,7 +32538,6 @@ government,government,government,n
 press,press,press,n
 regulator,regulator,regulator,n
 paper,paper,paper,n
-many,many,many,a
 things,thing,things,n
 equal,equal,equal,a
 syria,syria,syria,n
@@ -32865,7 +32730,6 @@ imams,imam,imams,n
 religious,religious,religious,a
 sphere,sphere,sphere,a
 workers,worker,workers,n
-many,many,many,a
 activists,activist,activists,n
 retreat,retreat,retreat,n
 civic,civic,civic,a
@@ -33279,7 +33143,6 @@ state,state,state,n
 local,local,local,a
 populations,population,populations,n
 view,view,view,n
-many,many,many,a
 western,western,western,a
 states,state,states,n
 jihadist,jihadist,jihadist,n
@@ -33333,7 +33196,6 @@ floor,floor,floor,n
 building,building,building,n
 thrice,thrice,thrice,a
 case,case,case,n
-many,many,many,a
 women,woman,women,n
 problem,problem,problem,n
 envy,envy,envy,n
@@ -33451,7 +33313,6 @@ everyone,everyone,everyone,n
 get,get,get,n
 lina,lina,lina,a
 money,money,money,n
-many,many,many,a
 foreign,foreign,foreign,a
 women,woman,women,n
 fear,fear,fear,a
@@ -33474,7 +33335,6 @@ despised,despised,despised,a
 isis,isi,isis,n
 upper,upper,upper,a
 hand,hand,hand,n
-many,many,many,a
 recruits,recruit,recruits,n
 islamic,islamic,islamic,a
 state,state,state,n
@@ -33856,10 +33716,8 @@ families,family,families,n
 children,child,children,n
 tunisia,tunisia,tunisia,a
 government,government,government,n
-many,many,many,a
 people,people,people,n
 denial,denial,denial,a
-many,many,many,a
 tunisian,tunisian,tunisian,a
 citizens,citizen,citizens,n
 join,join,join,n
@@ -34034,7 +33892,6 @@ freedom,freedom,freedom,n
 freedom,freedom,freedom,a
 expression,expression,expression,n
 disappearance,disappearance,disappearance,n
-many,many,many,a
 questions,question,questions,n
 answers,answer,answers,n
 story,story,story,n
@@ -34176,7 +34033,6 @@ boy,boy,boy,a
 lead,lead,lead,n
 comfortable,comfortable,comfortable,a
 life,life,life,n
-much,much,much,a
 due,due,due,a
 austerity,austerity,austerity,n
 measures,measure,measures,n
@@ -34452,7 +34308,7 @@ syria,syria,syria,a
 possible,possible,possible,a
 look,look,look,n
 something,something,something,n
-many,many,many,a
+knew,knew,knew,a
 others,others,others,n
 cross,cross,cross,n
 border,border,border,n
@@ -34900,7 +34756,6 @@ thousand,thousand,thousand,n
 dinars,dinar,dinars,n
 terrorism,terrorism,terrorism,n
 cases,case,cases,n
-many,many,many,a
 women,woman,women,n
 contact,contact,contact,a
 jihadists,jihadist,jihadists,n
@@ -35040,7 +34895,6 @@ clothes,clothes,clothes,n
 shoes,shoe,shoes,n
 tarps,tarp,tarps,a
 refugees,refugee,refugees,n
-much,much,much,a
 something,something,something,n
 extra,extra,extra,a
 shirt,shirt,shirt,n
@@ -35222,7 +35076,6 @@ despair,despair,despair,n
 kurds,kurd,kurds,n
 national,national,national,a
 project,project,project,n
-many,many,many,a
 paths,path,paths,n
 militancy,militancy,militancy,n
 militancy,militancy,militancy,n
@@ -35486,7 +35339,6 @@ slavery,slavery,slavery,n
 love,love,love,n
 idea,idea,idea,n
 something,something,something,n
-much,much,much,a
 willing,willing,willing,a
 overlook,overlook,overlook,n
 bad,bad,bad,a
@@ -35616,14 +35468,12 @@ fighter,fighter,fighter,n
 atrocities,atrocity,atrocities,n
 risk,risk,risk,n
 courts,court,courts,n
-many,many,many,a
 free,free,free,a
 light,light,light,a
 sentences,sentence,sentences,n
 account,account,account,n
 violence,violence,violence,n
 coercion,coercion,coercion,n
-many,many,many,a
 members,member,members,n
 hands,hand,hands,n
 group,group,group,n
@@ -35721,7 +35571,6 @@ state,state,state,n
 khadija,khadija,khadija,n
 circle,circle,circle,n
 tunisians,tunisian,tunisians,n
-many,many,many,a
 men,men,men,n
 fight,fight,fight,n
 escape,escape,escape,n
@@ -35945,7 +35794,6 @@ absolute,absolute,absolute,a
 power,power,power,n
 cemetery,cemetery,cemetery,n
 house,house,house,n
-many,many,many,a
 uprising,uprising,uprising,a
 buried,buried,buried,a
 syrian,syrian,syrian,a
@@ -36106,7 +35954,6 @@ allied,allied,allied,a
 kurdish,kurdish,kurdish,a
 forces,force,forces,n
 courts,court,courts,n
-many,many,many,a
 foreign,foreign,foreign,a
 women,woman,women,n
 death,death,death,n
@@ -36199,7 +36046,6 @@ women,woman,women,n
 men,men,men,n
 field,field,field,n
 jihads,jihad,jihads,n
-many,many,many,a
 policies,policy,policies,n
 place,place,place,n
 tunisia,tunisia,tunisia,n
@@ -36228,7 +36074,6 @@ clear,clear,clear,a
 felt,felt,felt,a
 way,way,way,n
 great,great,great,a
-many,many,many,a
 tunisians,tunisian,tunisians,n
 inclusive,inclusive,inclusive,a
 government,government,government,n
@@ -36332,14 +36177,12 @@ militias,militia,militias,n
 predatory,predatory,predatory,n
 lawyers,lawyer,lawyers,n
 war,war,war,n
-much,much,much,a
 country,country,country,n
 male,male,male,a
 population,population,population,n
 millions,million,millions,n
 stayed,stayed,stayed,a
 great,great,great,a
-many,many,many,a
 right,right,right,a
 ascendant,ascendant,ascendant,a
 right,right,right,a
@@ -36544,7 +36387,6 @@ status,status,status,n
 society,society,society,n
 sort,sort,sort,n
 change,change,change,n
-many,many,many,a
 community,community,community,n
 boys,boy,boys,n
 future,future,future,n
@@ -36629,7 +36471,6 @@ eastern,eastern,eastern,a
 state,state,state,n
 fall,fall,fall,n
 possible,possible,possible,a
-many,many,many,a
 sources,source,sources,n
 possible,possible,possible,a
 stories,story,stories,n
@@ -36682,7 +36523,6 @@ comprehensive,comprehensive,comprehensive,a
 story,story,story,n
 isis,isi,isis,n
 women,woman,women,n
-many,many,many,a
 atrocities,atrocity,atrocities,n
 war,war,war,n
 crimes,crime,crimes,n
@@ -36885,8 +36725,8 @@ students,student,students,n
 small,small,small,a
 garden,garden,garden,n
 faculty,faculty,faculty,n
-many,many,many,a
-photographs,photograph,photographs,a
+scene,scene,scene,n
+farewell,farewell,farewell,n
 years,year,years,n
 steal,steal,steal,a
 words,word,words,n
@@ -36959,7 +36799,6 @@ liberal,liberal,liberal,a
 university,university,university,n
 iran,iran,iran,n
 question,question,question,n
-many,many,many,a
 times,time,times,n
 please,please,please,a
 please,please,please,n
@@ -36986,7 +36825,6 @@ years,year,years,n
 cannot,cannot,cannot,n
 imagine,imagine,imagine,a
 jail,jail,jail,n
-many,many,many,a
 years,year,years,n
 alluded,alluded,alluded,a
 jail,jail,jail,n
@@ -37325,13 +37163,11 @@ brother,brother,brother,n
 guard,guard,guard,n
 eyes,eye,eyes,n
 accept,accept,accept,a
-many,many,many,a
 passengers,passenger,passengers,n
 men,men,men,n
 women,woman,women,n
 sardines,sardine,sardines,n
 minibuses,minibus,minibuses,n
-many,many,many,a
 students,student,students,n
 men,men,men,n
 situation,situation,situation,n
@@ -37431,8 +37267,7 @@ coat,coat,coat,n
 bicycle,bicycle,bicycle,n
 cousin,cousin,cousin,n
 describes,describes,describes,n
-much,much,much,a
-likes,like,likes,n
+enter,enter,enter,n
 university,university,university,n
 green,green,green,a
 gate,gate,gate,n
@@ -37938,7 +37773,6 @@ free,free,free,a
 exonerated,exonerated,exonerated,a
 charges,charge,charges,n
 insubordination,insubordination,insubordination,n
-read,read,read,a
 sentence,sentence,sentence,n
 nabokov,nabokov,nabokov,a
 curiosity,curiosity,curiosity,n
@@ -38733,9 +38567,10 @@ syllabus,syllabus,syllabus,a
 next,next,next,a
 decades,decade,decades,n
 particular,particular,particular,a
-many,many,many,a
+chant,chant,chant,n
 others,others,others,n
-lolita,lolita,lolita,n
+symptom,symptom,symptom,a
+lolita,lolita,lolita,a
 tehran,tehran,tehran,n
 symbiosis,symbiosis,symbiosis,n
 revolution,revolution,revolution,n
@@ -39264,7 +39099,6 @@ marriage,marriage,marriage,n
 protection,protection,protection,n
 law,law,law,n
 adultery,adultery,adultery,n
-many,many,many,a
 crimes,crime,crimes,n
 law,law,law,n
 dealt,dealt,dealt,n
@@ -39300,7 +39134,6 @@ experience,experience,experience,n
 hot,hot,hot,a
 summer,summer,summer,n
 day,day,day,n
-many,many,many,a
 decades,decade,decades,n
 readers,reader,readers,n
 breath,breath,breath,n
@@ -39479,7 +39312,6 @@ wave,wave,wave,n
 repression,repression,repression,n
 twentyfive,twentyfive,twentyfive,a
 publications,publication,publications,n
-many,many,many,a
 dissenters,dissenter,dissenters,n
 jailed,jailed,jailed,a
 hearing,hearing,hearing,n
@@ -40267,7 +40099,8 @@ grounds,ground,grounds,n
 torture,torture,torture,a
 intimidate,intimidate,intimidate,a
 students,student,students,n
-veil,veil,veil,a
+issue,issue,issue,n
+veil,veil,veil,n
 freedom,freedom,freedom,n
 choice,choice,choice,n
 know,know,know,a
@@ -40289,7 +40122,6 @@ faculty,faculty,faculty,n
 members,member,members,n
 trial,trial,trial,n
 people,people,people,n
-many,many,many,a
 teenagers,teenager,teenagers,n
 spot,spot,spot,n
 right,right,right,a
@@ -40605,7 +40437,6 @@ door,door,door,n
 department,department,department,n
 entrance,entrance,entrance,n
 gate,gate,gate,n
-much,much,much,a
 guard,guard,guard,n
 free,free,free,a
 woman,woman,woman,n
@@ -40803,7 +40634,6 @@ defense,defense,defense,n
 considers,considers,considers,n
 justice,justice,justice,n
 reading,reading,reading,a
-many,many,many,a
 nineteenth,nineteenth,nineteenth,a
 century,century,century,n
 novels,novel,novels,n
@@ -41030,9 +40860,8 @@ afraid,afraid,afraid,a
 dark,dark,dark,a
 war,war,war,n
 explosions,explosion,explosions,n
-fear,fear,fear,n
+fear,fear,fear,a
 insignificant,insignificant,insignificant,a
-much,much,much,a
 courage,courage,courage,n
 sentence,sentence,sentence,n
 irony,irony,irony,n
@@ -41121,8 +40950,8 @@ fit,fit,fit,n
 feel,feel,feel,n
 cheap,cheap,cheap,a
 way,way,way,n
-complicit,complicit,complicit,n
-many,many,many,a
+complicit,complicit,complicit,a
+knowledge,knowledge,knowledge,n
 people,people,people,n
 lolita,lolita,lolita,n
 tehran,tehran,tehran,n
@@ -41152,7 +40981,6 @@ last,last,last,a
 comrades,comrade,comrades,n
 leaflets,leaflet,leaflets,n
 streets,street,streets,n
-many,many,many,a
 friends,friend,friends,n
 years,year,years,n
 education,education,education,n
@@ -41190,8 +41018,6 @@ privileges,privilege,privileges,n
 knew,knew,knew,a
 lie,lie,lie,n
 war,war,war,n
-become,become,become,n
-much,much,much,a
 part,part,part,n
 life,life,life,n
 good,good,good,a
@@ -41534,7 +41360,6 @@ escape,escape,escape,n
 hear,hear,hear,a
 victory,victory,victory,n
 marches,march,marches,n
-many,many,many,a
 classes,class,classes,n
 death,death,death,n
 student,student,student,n
@@ -41821,7 +41646,6 @@ reason,reason,reason,n
 involvement,involvement,involvement,n
 carnage,carnage,carnage,n
 death,death,death,n
-many,many,many,a
 young,young,young,a
 men,men,men,n
 dislocation,dislocation,dislocation,n
@@ -41832,12 +41656,10 @@ endless,endless,endless,a
 admiration,admiration,admiration,n
 simple,simple,simple,a
 courage,courage,courage,n
-many,many,many,a
 young,young,young,a
 men,men,men,n
 war,war,war,n
 james,james,james,n
-many,many,many,a
 letters,letter,letters,n
 important,important,important,a
 resource,resource,resource,n
@@ -42003,7 +41825,7 @@ ask,ask,ask,a
 favorite,favorite,favorite,a
 question,question,question,n
 fall,fall,fall,n
-many,many,many,a
+heard,heard,heard,n
 girls,girl,girls,n
 release,release,release,a
 jail,jail,jail,n
@@ -42141,7 +41963,6 @@ believe,believe,believe,n
 claim,claim,claim,a
 imagination,imagination,imagination,n
 disaster,disaster,disaster,n
-many,many,many,a
 protagonists,protagonist,protagonists,n
 unhappy,unhappy,unhappy,a
 end,end,end,n
@@ -42171,7 +41992,6 @@ come,come,come,a
 interrogators,interrogator,interrogators,n
 ad,ad,ad,n
 paper,paper,paper,n
-many,many,many,a
 others,others,others,n
 decadent,decadent,decadent,a
 imperialist,imperialist,imperialist,n
@@ -42213,9 +42033,8 @@ course,course,course,n
 worse,worse,bad,a
 guilt,guilt,guilt,a
 anger,anger,anger,n
-many,many,many,a
 times,time,times,n
-towards,towards,towards,n
+towards,towards,towards,a
 caspian,caspian,caspian,a
 sea,sea,sea,n
 garden,garden,garden,n
@@ -42249,7 +42068,7 @@ cities,city,cities,n
 watch,watch,watch,n
 john,john,john,n
 ford,ford,ford,n
-many,many,many,a
+bet,bet,bet,a
 missiles,missile,missiles,n
 city,city,city,n
 black,black,black,a
@@ -42339,7 +42158,7 @@ daughter,daughter,daughter,n
 publishing,publishing,publishing,n
 house,house,house,n
 bookstore,bookstore,bookstore,n
-many,many,many,a
+home,home,home,n
 iranian,iranian,iranian,a
 writers,writer,writers,n
 intellectuals,intellectual,intellectuals,n
@@ -42481,7 +42300,6 @@ school,school,school,n
 death,death,death,n
 next,next,next,a
 morning,morning,morning,n
-many,many,many,a
 iranians,iranian,iranians,n
 fact,fact,fact,n
 majority,majority,majority,n
@@ -42525,9 +42343,6 @@ smell,smell,smell,n
 coffee,coffee,coffee,n
 tea,tea,tea,n
 death,death,death,n
-many,many,many,a
-many,many,many,a
-many,many,many,a
 anticlimactic,anticlimactic,anticlimactic,a
 friends,friend,friends,n
 foes,foe,foes,n
@@ -42763,7 +42578,6 @@ war,war,war,n
 kill,kill,kill,n
 victorious,victorious,victorious,a
 revolution,revolution,revolution,n
-many,many,many,a
 things,thing,things,n
 power,power,power,n
 access,access,access,n
@@ -42807,7 +42621,7 @@ conspirators,conspirator,conspirators,n
 setback,setback,setback,n
 powerful,powerful,powerful,a
 adversary,adversary,adversary,a
-much,much,much,a
+wielded,wielded,wielded,a
 power,power,power,n
 fact,fact,fact,n
 strongest,strongest,strong,a
@@ -42825,7 +42639,6 @@ war,war,war,n
 volunteer,volunteer,volunteer,n
 excitement,excitement,excitement,n
 war,war,war,n
-many,many,many,a
 young,young,young,a
 revolutionaries,revolutionary,revolutionaries,n
 power,power,power,n
@@ -42877,7 +42690,6 @@ life,life,life,n
 doctrinal,doctrinal,doctrinal,a
 certainty,certainty,certainty,n
 gain,gain,gain,n
-much,much,much,a
 complexity,complexity,complexity,n
 death,death,death,n
 nothing,nothing,nothing,n
@@ -43368,8 +43180,6 @@ habit,habit,habit,n
 bellow,bellow,bellow,n
 herzog,herzog,herzog,a
 sentence,sentence,sentence,n
-many,many,many,a
-past,past,past,a
 weeks,week,weeks,n
 people,people,people,n
 brood,brood,brood,n
@@ -43646,8 +43456,6 @@ shirt,shirt,shirt,n
 navy,navy,navy,a
 jacket,jacket,jacket,n
 jeans,jean,jeans,n
-many,many,many,a
-girls,girl,girls,n
 oklahoma,oklahoma,oklahoma,a
 college,college,college,n
 friends,friend,friends,n
@@ -43706,7 +43514,6 @@ guilty,guilty,guilty,a
 knowledge,knowledge,knowledge,n
 bijan,bijan,bijan,n
 hardships,hardship,hardships,n
-much,much,much,a
 complaint,complaint,complaint,n
 vodka,vodka,vodka,a
 time,time,time,n
@@ -43784,7 +43591,6 @@ interrogation,interrogation,interrogation,n
 outposts,outpost,outposts,n
 word,word,word,n
 incident,incident,incident,n
-many,many,many,a
 others,others,others,n
 small,small,small,a
 party,party,party,n
@@ -43864,7 +43670,6 @@ old,old,old,a
 death,death,death,n
 time,time,time,n
 something,something,something,n
-many,many,many,a
 others,others,others,n
 place,place,place,n
 everyday,everyday,everyday,a
@@ -43900,9 +43705,8 @@ rape,rape,rape,n
 year,year,year,n
 old,old,old,a
 girls,girl,girls,n
-much,much,much,a
-hurt,hurt,hurt,n
-betrayal,betrayal,betrayal,n
+betrayal,betrayal,betrayal,a
+austen,austen,austen,a
 essential,essential,essential,a
 question,question,question,n
 stalin,stalin,stalin,n
@@ -43984,7 +43788,6 @@ window,window,window,n
 couch,couch,couch,a
 wall,wall,wall,n
 large,large,large,a
-much,much,much,a
 large,large,large,a
 small,small,small,a
 roomof,roomof,roomof,n
@@ -44005,7 +43808,6 @@ war,war,war,n
 period,period,period,n
 adjustment,adjustment,adjustment,n
 hardest,hardest,hard,a
-much,much,much,a
 illness,illness,illness,n
 jail,jail,jail,n
 time,time,time,n
@@ -44160,7 +43962,7 @@ shop,shop,shop,n
 pen,pen,pen,a
 paper,paper,paper,n
 air,air,air,n
-much,much,much,a
+write,write,write,a
 passion,passion,passion,n
 words,word,words,n
 novel,novel,novel,n
@@ -44223,7 +44025,6 @@ look,look,look,n
 marriage,marriage,marriage,n
 divorce,divorce,divorce,n
 laws,law,laws,n
-many,many,many,a
 secular,secular,secular,a
 men,men,men,n
 second,second,second,a
@@ -44374,7 +44175,7 @@ shape,shape,shape,n
 future,future,future,a
 former,former,former,a
 husband,husband,husband,n
-much,much,much,a
+negar,negar,negar,a
 tehran,tehran,tehran,a
 manna,manna,manna,n
 poetry,poetry,poetry,n
@@ -44572,8 +44373,8 @@ things,thing,things,n
 time,time,time,n
 silent,silent,silent,a
 state,state,state,n
-prologue,prologue,prologue,a
-many,many,many,a
+taboo,taboo,taboo,n
+prologue,prologue,prologue,n
 forms,form,forms,n
 different,different,different,a
 tyrannical,tyrannical,tyrannical,a
@@ -44611,8 +44412,8 @@ inquisitor,inquisitor,inquisitor,n
 mother,mother,mother,n
 ac,ac,ac,n
 admirable,admirable,admirable,a
-much,much,much,a
 life,life,life,n
+un,un,un,n
 invented,invented,invented,a
 stories,story,stories,n
 believe,believe,believe,a
@@ -44624,7 +44425,6 @@ convention,convention,convention,n
 mention,mention,mention,n
 tance,tance,tance,n
 way,way,way,n
-many,many,many,a
 ac,ac,ac,a
 flowery,flowery,flowery,n
 crepe,crepe,crepe,n
@@ -44715,7 +44515,6 @@ death,death,death,n
 first,first,first,a
 wife,wife,wife,n
 marriage,marriage,marriage,n
-much,much,much,a
 younger,younger,young,a
 aiar,aiar,aiar,a
 nafisi,nafisi,nafisi,n
@@ -44736,7 +44535,6 @@ law,law,law,n
 house,house,house,n
 real,real,real,a
 woman,woman,woman,n
-much,much,much,a
 charge,charge,charge,n
 length,length,length,n
 remind,remind,remind,n
@@ -44833,7 +44631,6 @@ persian,persian,persian,n
 kings,king,kings,n
 powerful,powerful,powerful,a
 priests,priest,priests,n
-many,many,many,a
 arab,arab,arab,a
 culture,culture,culture,n
 espe,espe,espe,n
@@ -44961,7 +44758,6 @@ death,death,death,n
 brother,brother,brother,n
 way,way,way,n
 component,component,component,n
-many,many,many,a
 case,case,case,n
 death,death,death,n
 death,death,death,n
@@ -45123,7 +44919,7 @@ decades,decade,decades,n
 religious,religious,religious,a
 minority,minority,minority,n
 cannot,cannot,cannot,n
-many,many,many,a
+blame,blame,blame,n
 armenians,armenian,armenians,n
 jews,jew,jews,n
 restaurants,restaurant,restaurants,n
@@ -45173,7 +44969,6 @@ little,little,little,a
 match,match,match,n
 specter,specter,specter,n
 girl,girl,girl,n
-many,many,many,a
 years,year,years,n
 earth,earth,earth,n
 death,death,death,n
@@ -45512,11 +45307,8 @@ young,young,young,a
 girl,girl,girl,n
 mod,mod,mod,n
 talk,talk,talk,n
-many,many,many,a
-agha,agha,agha,a
 times,time,times,n
 notorious,notorious,notorious,a
-many,many,many,a
 others,others,others,n
 aware,aware,aware,a
 sexual,sexual,sexual,a
@@ -45719,9 +45511,7 @@ right,right,right,a
 accent,accent,accent,n
 repeat,repeat,repeat,n
 speak,speak,speak,a
-many,many,many,a
 times,time,times,n
-visited,visited,visited,a
 paris,paris,paris,a
 years,year,years,n
 everyone,everyone,everyone,n
@@ -45764,7 +45554,6 @@ prolific,prolific,prolific,a
 pen,pen,pen,a
 several,several,several,a
 works,work,works,n
-many,many,many,a
 translations,translation,translations,n
 name,name,name,n
 bright,bright,bright,a
@@ -45871,6 +45660,7 @@ family,family,family,n
 conflicts,conflict,conflicts,n
 marital,marital,marital,a
 tension,tension,tension,n
+awe,awe,awe,n
 amoo,amoo,amoo,n
 family,family,family,n
 way,way,way,n
@@ -45934,7 +45724,6 @@ give,give,give,a
 rudabeh,rudabeh,rudabeh,n
 shabby,shabby,shabby,n
 devoid,devoid,devoid,n
-many,many,many,a
 important,important,important,a
 perform,perform,perform,n
 feats,feat,feats,n
@@ -45968,7 +45757,6 @@ norms,norm,norms,n
 marry,marry,marry,n
 man,man,man,n
 women,woman,women,n
-much,much,much,a
 real,real,real,a
 lives,life,lives,n
 subversive,subversive,subversive,a
@@ -46133,7 +45921,6 @@ trial,trial,trial,n
 exile,exile,exile,n
 miership,miership,miership,n
 tions,tions,tions,n
-much,much,much,a
 trial,trial,trial,n
 friend,friend,friend,n
 building,building,building,n
@@ -46157,9 +45944,7 @@ discov,discov,discov,a
 excitement,excitement,excitement,n
 fact,fact,fact,n
 everything,everything,everything,n
-many,many,many,a
 things,thing,things,n
-entrusted,entrusted,entrusted,a
 power,power,power,n
 responsibility,responsibility,responsibility,n
 situation,situation,situation,n
@@ -46250,7 +46035,6 @@ ask,ask,ask,n
 knowl,knowl,knowl,n
 edge,edge,edge,n
 house,house,house,n
-much,much,much,a
 bribe,bribe,bribe,n
 servants,servant,servants,n
 mistress,mistress,mistress,a
@@ -46455,6 +46239,7 @@ time,time,time,n
 modern,modern,modern,a
 worlds,world,worlds,n
 side,side,side,n
+granted,granted,granted,a
 question,question,question,n
 real,real,real,a
 iran,iran,iran,n
@@ -46486,7 +46271,6 @@ question,question,question,n
 fickleness,fickleness,fickleness,n
 iranian,iranian,iranian,a
 people,people,people,n
-many,many,many,a
 moment,moment,moment,n
 things,thing,things,n
 silent,silent,silent,a
@@ -46529,7 +46313,6 @@ fridays,friday,fridays,n
 time,time,time,n
 mendation,mendation,mendation,n
 ceremony,ceremony,ceremony,n
-many,many,many,a
 clerics,cleric,clerics,n
 prime,prime,prime,a
 minister,minister,minister,n
@@ -46718,6 +46501,7 @@ monitored,monitored,monitored,a
 visits,visit,visits,n
 relatives,relative,relatives,n
 arrest,arrest,arrest,a
+ther,ther,ther,n
 jobs,job,jobs,n
 rest,rest,rest,n
 big,big,big,a
@@ -46852,7 +46636,6 @@ light,light,light,a
 come,come,come,a
 matter,matter,matter,n
 best,best,best,a
-much,much,much,a
 things,thing,things,n
 silent,silent,silent,a
 believe,believe,believe,n
@@ -47007,8 +46790,7 @@ diaries,diary,diaries,n
 cameamuzegar,cameamuzegar,cameamuzegar,a
 visit,visit,visit,n
 great,great,great,a
-many,many,many,a
-cabinet,cabinet,cabinet,n
+cabinet,cabinet,cabinet,a
 real,real,real,a
 know,know,know,n
 reports,report,reports,n
@@ -47258,7 +47040,7 @@ god,god,god,n
 cannot,cannot,cannot,n
 help,help,help,n
 jail,jail,jail,n
-much,much,much,a
+fuz,fuz,fuz,n
 father,father,father,a
 minds,mind,minds,n
 new,new,new,a
@@ -47329,8 +47111,7 @@ father,father,father,n
 situation,situation,situation,n
 sign,sign,sign,n
 selfish,selfish,selfish,a
-many,many,many,a
-friends,friend,friends,n
+disregard,disregard,disregard,n
 relatives,relative,relatives,n
 comments,comment,comments,n
 nassiri,nassiri,nassiri,a
@@ -47542,8 +47323,7 @@ sour,sour,sour,a
 incredible,incredible,incredible,a
 lucky,lucky,lucky,a
 hope,hope,hope,n
-much,much,much,a
-controversy,controversy,controversy,n
+controversy,controversy,controversy,a
 term,term,term,n
 prime,prime,prime,a
 minister,minister,minister,n
@@ -47646,7 +47426,9 @@ table,table,table,a
 something,something,something,n
 tell,tell,tell,n
 time,time,time,n
-much,much,much,a
+first,first,first,a
+ob,ob,ob,n
+dining,dining,dining,n
 room,room,room,n
 curtain,curtain,curtain,n
 tle,tle,tle,a
@@ -48186,8 +47968,7 @@ ple,ple,ple,n
 justice,justice,justice,n
 department,department,department,n
 writes,writes,writes,n
-many,many,many,a
-bail,bail,bail,a
+bail,bail,bail,n
 watches,watch,watches,n
 tyranny,tyranny,tyranny,a
 silence,silence,silence,n
@@ -48974,8 +48755,7 @@ power,power,power,n
 iy,iy,iy,n
 nothing,nothing,nothing,n
 savak,savak,savak,n
-prevent,prevent,prevent,a
-many,many,many,a
+prevent,prevent,prevent,n
 others,others,others,n
 started,started,started,a
 recount,recount,recount,n
@@ -49179,7 +48959,6 @@ parliament,parliament,parliament,a
 property,property,property,n
 name,name,name,n
 jailed,jailed,jailed,a
-many,many,many,a
 government,government,government,n
 officials,official,officials,n
 mother,mother,mother,n
@@ -49223,11 +49002,10 @@ temporary,temporary,temporary,a
 iran,iran,iran,n
 iraq,iraq,iraq,n
 war,war,war,n
-many,many,many,a
-tempo,tempo,tempo,a
+tempo,tempo,tempo,n
 mohammad,mohammad,mohammad,n
-nafisi,nafisi,nafisi,a
-fridays,friday,fridays,n
+ar,ar,ar,n
+nafisi,nafisi,nafisi,n
 place,place,place,n
 ents,ents,ents,n
 sessions,session,sessions,n
@@ -49292,9 +49070,7 @@ instrumental,instrumental,instrumental,a
 parsa,parsa,parsa,n
 general,general,general,a
 pakravan,pakravan,pakravan,n
-ayatollah,ayatollah,ayatollah,a
-khomeini,khomeini,khomeini,n
-many,many,many,a
+ayatollah,ayatollah,ayatollah,n
 others,others,others,n
 life,life,life,n
 fact,fact,fact,n
@@ -49381,7 +49157,6 @@ seconds,second,seconds,n
 owner,owner,owner,n
 doors,door,doors,n
 bullets,bullet,bullets,n
-many,many,many,a
 different,different,different,a
 student,student,student,n
 groups,group,groups,n
@@ -49430,7 +49205,6 @@ funny,funny,funny,a
 basic,basic,basic,a
 choices,choice,choices,n
 term,term,term,n
-many,many,many,a
 clerics,cleric,clerics,n
 religious,religious,religious,a
 establishment,establishment,establishment,n
@@ -49671,7 +49445,6 @@ regime,regime,regime,n
 confrontations,confrontation,confrontations,n
 bloody,bloody,bloody,a
 demonstration,demonstration,demonstration,n
-many,many,many,a
 porters,porter,porters,n
 political,political,political,a
 organization,organization,organization,n
@@ -49884,15 +49657,13 @@ last,last,last,a
 year,year,year,n
 incessant,incessant,incessant,a
 bombings,bombing,bombings,n
-many,many,many,a
 tehran,tehran,tehran,a
 city,city,city,n
 target,target,target,n
 tainted,tainted,tainted,a
 think,think,think,n
 fact,fact,fact,n
-much,much,much,a
-dara,dara,dara,n
+dara,dara,dara,a
 infinite,infinite,infinite,a
 curiosity,curiosity,curiosity,n
 mother,mother,mother,a
@@ -49943,7 +49714,6 @@ use,use,use,n
 talents,talent,talents,n
 divorce,divorce,divorce,n
 absentia,absentia,absentia,n
-many,many,many,a
 notices,notice,notices,n
 informed,informed,informed,a
 thing,thing,thing,n
@@ -50342,7 +50112,6 @@ home,home,home,n
 crimes,crime,crimes,n
 committed,committed,committed,a
 islamic,islamic,islamic,a
-many,many,many,a
 mornings,morning,mornings,n
 night,night,night,n
 heard,heard,heard,n
@@ -50431,7 +50200,6 @@ medallions,medallion,medallions,n
 zoroastrian,zoroastrian,zoroastrian,a
 slipper,slipper,slipper,n
 keys,key,keys,n
-deities,deity,deities,n
 several,several,several,a
 emblems,emblem,emblems,n
 revolu,revolu,revolu,a
@@ -50535,7 +50303,6 @@ subversive,subversive,subversive,a
 power,power,power,n
 literature,literature,literature,n
 fiction,fiction,fiction,n
-many,many,many,a
 belief,belief,belief,n
 possible,possible,possible,a
 turn,turn,turn,n
@@ -50613,7 +50380,6 @@ men,men,men,n
 certain,certain,certain,a
 expression,expression,expression,n
 cloth,cloth,cloth,n
-many,many,many,a
 men,men,men,n
 women,woman,women,n
 piece,piece,piece,a
@@ -50824,7 +50590,8 @@ hung,hung,hung,n
 death,death,death,n
 news,news,news,n
 death,death,death,n
-many,many,many,a
+friend,friend,friend,a
+pick,pick,pick,a
 months,month,months,n
 nothing,nothing,nothing,n
 death,death,death,n
@@ -50899,7 +50666,6 @@ memory,memory,memory,n
 time,time,time,n
 sentence,sentence,sentence,n
 imagine,imagine,imagine,n
-many,many,many,a
 last,last,last,a
 diary,diary,diary,a
 dear,dear,dear,a
@@ -50932,7 +50698,7 @@ mother,mother,mother,n
 paintings,painting,paintings,n
 death,death,death,n
 portraits,portrait,portraits,n
-many,many,many,a
+mother,mother,mother,n
 decades,decade,decades,n
 ar,ar,ar,n
 age,age,age,n
@@ -50973,7 +50739,7 @@ naderi,naderi,naderi,a
 naderi,naderi,naderi,a
 new,new,new,a
 law,law,law,n
-many,many,many,a
+acknowledge,acknowledge,acknowledge,n
 critic,critic,critic,a
 experiences,experience,experiences,n
 account,account,account,n
@@ -51430,7 +51196,6 @@ ayatollah,ayatollah,ayatollah,n
 khomeini,khomeini,khomeini,n
 iraq,iraq,iraq,n
 war,war,war,n
-many,many,many,a
 historical,historical,historical,a
 capital,capital,capital,n
 famous,famous,famous,a
@@ -51449,7 +51214,7 @@ notable,notable,notable,a
 political,political,political,a
 prisoners,prisoner,prisoners,n
 evin,evin,evin,a
-many,many,many,a
+wing,wing,wing,n
 prison,prison,prison,n
 ers,er,ers,n
 evin,evin,evin,a
@@ -51582,9 +51347,8 @@ leaders,leader,leaders,n
 tuman,tuman,tuman,a
 rate,rate,rate,n
 tuman,tuman,tuman,n
-many,many,many,a
-iranians,iranian,iranians,n
-em,em,em,a
+rials,rial,rials,n
+rial,rial,rial,a
 ploy,ploy,ploy,a
 term,term,term,n
 tuman,tuman,tuman,n
@@ -51978,7 +51742,6 @@ soltan,soltan,soltan,n
 employee,employee,employee,n
 ministry,ministry,ministry,n
 education,education,education,n
-much,much,much,a
 garbage,garbage,garbage,n
 room,room,room,n
 size,size,size,n
@@ -52113,7 +51876,6 @@ disease,disease,disease,n
 come,come,come,a
 japan,japan,japan,n
 vomit,vomit,vomit,n
-much,much,much,a
 body,body,body,n
 rot,rot,rot,a
 nurse,nurse,nurse,a
@@ -52199,9 +51961,8 @@ claws,claw,claws,a
 school,school,school,n
 lessons,lesson,lessons,n
 days,day,days,n
-much,much,much,a
 fun,fun,fun,n
-home,home,home,n
+guests,guest,guests,n
 snow,snow,snow,n
 roads,road,roads,n
 house,house,house,n
@@ -52733,7 +52494,7 @@ toes,toe,toes,n
 hole,hole,hole,a
 open,open,open,a
 swallow,swallow,swallow,n
-much,much,much,a
+attached,attached,attached,a
 life,life,life,n
 earth,earth,earth,n
 strength,strength,strength,n
@@ -52773,7 +52534,6 @@ mother,mother,mother,n
 state,state,state,n
 overwhelmed,overwhelmed,overwhelmed,a
 joy,joy,joy,n
-much,much,much,a
 listened,listened,listened,a
 sounds,sound,sounds,n
 silence,silence,silence,n
@@ -52950,7 +52710,6 @@ container,container,container,n
 put,put,put,n
 damascus,damascus,damascus,n
 petals,petal,petals,n
-much,much,much,a
 water,water,water,n
 container,container,container,n
 narrow,narrow,narrow,a
@@ -53018,7 +52777,6 @@ time,time,time,n
 hopscotch,hopscotch,hopscotch,n
 piggy,piggy,piggy,a
 winners,winner,winners,n
-much,much,much,a
 humiliation,humiliation,humiliation,n
 neighbours,neighbour,neighbours,n
 black,black,black,a
@@ -53572,6 +53330,7 @@ spread,spread,spread,n
 death,death,death,n
 father,father,father,n
 mother,mother,mother,n
+raise,raise,raise,n
 brother,brother,brother,n
 please,please,please,n
 beg,beg,beg,a
@@ -53791,7 +53550,7 @@ classmates,classmate,classmates,n
 war,war,war,n
 smile,smile,smile,a
 fainter,fainter,faint,n
-much,much,much,a
+fainter,fainter,faint,n
 farrokh,farrokh,farrokh,n
 pain,pain,pain,a
 crawl,crawl,crawl,a
@@ -53883,8 +53642,8 @@ middle,middle,middle,a
 ages,age,ages,n
 car,car,car,n
 wish,wish,wish,a
-much,much,much,a
-wait,wait,wait,a
+told,told,told,a
+wait,wait,wait,n
 door,door,door,n
 husband,husband,husband,n
 skin,skin,skin,n
@@ -54281,7 +54040,6 @@ dirt,dirt,dirt,n
 road,road,road,n
 stories,story,stories,n
 room,room,room,n
-many,many,many,a
 cousins,cousin,cousins,n
 friends,friend,friends,n
 room,room,room,n
@@ -55094,7 +54852,6 @@ assert,assert,assert,a
 sought,sought,sought,a
 anonymity,anonymity,anonymity,n
 berkeley,berkeley,berkeley,n
-much,much,much,a
 pleasure,pleasure,pleasure,n
 stream,stream,stream,a
 students,student,students,n
@@ -56622,7 +56379,7 @@ forty,forty,forty,n
 festive,festive,festive,a
 spirit,spirit,spirit,n
 fills,fill,fills,n
-many,many,many,a
+household,household,household,a
 days,day,days,n
 moment,moment,moment,n
 isaac,isaac,isaac,n
@@ -56854,7 +56611,7 @@ allow,allow,allow,a
 isaac,isaac,isaac,n
 fullness,fullness,fullness,a
 bladder,bladder,bladder,n
-many,many,many,a
+wonder,wonder,wonder,a
 hours,hour,hours,n
 dawn,dawn,dawn,n
 dalia,dalia,dalia,n
@@ -57282,8 +57039,9 @@ saw,saw,saw,n
 little,little,little,a
 sister,sister,sister,a
 tongue,tongue,tongue,n
-many,many,many,a
+blue,blue,blue,n
 candies,candy,candies,n
+color,color,color,n
 crayons,crayon,crayons,n
 ready,ready,ready,a
 charge,charge,charge,n
@@ -57554,7 +57312,6 @@ streets,street,streets,n
 visit,visit,visit,n
 previous,previous,previous,a
 prison,prison,prison,n
-much,much,much,a
 location,location,location,a
 city,city,city,n
 center,center,center,n
@@ -57676,7 +57433,6 @@ windowless,windowless,windowless,a
 room,room,room,n
 larger,larger,large,a
 closet,closet,closet,n
-many,many,many,a
 occasions,occasion,occasions,n
 like,like,like,a
 husband,husband,husband,n
@@ -57690,7 +57446,6 @@ lit,lit,lit,n
 bulb,bulb,bulb,n
 septembers,september,septembers,n
 ceiling,ceiling,ceiling,n
-many,many,many,a
 rooms,room,rooms,n
 exist,exist,exist,n
 prison,prison,prison,n
@@ -58027,6 +57782,7 @@ escape,escape,escape,n
 country,country,country,n
 old,old,old,a
 man,man,man,n
+knows,know,knows,n
 daughters,daughter,daughters,n
 women,woman,women,n
 communist,communist,communist,n
@@ -58049,7 +57805,6 @@ women,woman,women,n
 part,part,part,n
 something,something,something,n
 big,big,big,a
-much,much,much,a
 bigger,bigger,big,a
 daily,daily,daily,a
 lives,life,lives,n
@@ -58130,7 +57885,7 @@ sentence,sentence,sentence,n
 realize,realize,realize,n
 things,thing,things,n
 character,character,character,n
-many,many,many,a
+possessed,possessed,possessed,a
 least,least,least,a
 capacity,capacity,capacity,n
 admit,admit,admit,n
@@ -58664,9 +58419,9 @@ shoulder,shoulder,shoulder,n
 large,large,large,a
 green,green,green,a
 truck,truck,truck,n
-cannot,cannot,cannot,n
-morteza,morteza,morteza,n
-taps,tap,taps,n
+cannot,cannot,cannot,a
+see,see,see,n
+taps,tap,taps,a
 fingers,finger,fingers,n
 gate,gate,gate,n
 everything,everything,everything,n
@@ -58804,7 +58559,6 @@ jewelers,jeweler,jewelers,n
 appraisal,appraisal,appraisal,a
 stones,stone,stones,n
 precious,precious,precious,a
-much,much,much,a
 names,name,names,n
 paper,paper,paper,n
 list,list,list,n
@@ -58942,7 +58696,7 @@ name,name,name,n
 isaac,isaac,isaac,n
 feels,feel,feels,n
 terror,terror,terror,n
-many,many,many,a
+inside,inside,inside,a
 months,month,months,n
 body,body,body,n
 molten,molten,molten,a
@@ -59352,7 +59106,6 @@ answer,answer,answer,n
 money,money,money,n
 track,track,track,n
 record,record,record,n
-much,much,much,a
 chance,chance,chance,n
 fruit,fruit,fruit,n
 vendor,vendor,vendor,n
@@ -59424,7 +59177,6 @@ sole,sole,sole,n
 lashings,lashing,lashings,n
 socalled,socalled,socalled,a
 case,case,case,n
-much,much,much,a
 case,case,case,n
 endurance,endurance,endurance,n
 test,test,test,n
@@ -59455,7 +59207,7 @@ way,way,way,n
 isaac,isaac,isaac,a
 hears,hears,hears,n
 cell,cell,cell,n
-many,many,many,a
+prison,prison,prison,n
 years,year,years,n
 torture,torture,torture,a
 underwent,underwent,underwent,a
@@ -59604,7 +59356,7 @@ anything,anything,anything,n
 bad,bad,bad,a
 happen,happen,happen,a
 dalia,dalia,dalia,a
-much,much,much,a
+spend,spend,spend,a
 time,time,time,n
 heads,head,heads,n
 opposite,opposite,opposite,a
@@ -59772,8 +59524,6 @@ cell,cell,cell,n
 dark,dark,dark,a
 corridor,corridor,corridor,n
 lit,lit,lit,n
-much,much,much,a
-lead,lead,lead,n
 guard,guard,guard,n
 dragged,dragged,dragged,a
 end,end,end,n
@@ -59872,7 +59622,6 @@ last,last,last,a
 read,read,read,a
 merge,merge,merge,a
 objects,object,objects,n
-many,many,many,a
 rooms,room,rooms,n
 life,life,life,n
 sleep,sleep,sleep,a
@@ -59880,7 +59629,6 @@ sees,see,sees,n
 curtains,curtain,curtains,n
 room,room,room,n
 spent,spent,spent,a
-many,many,many,a
 summers,summer,summers,n
 writ,writ,writ,n
 septembers,september,septembers,n
@@ -60230,7 +59978,6 @@ roadside,roadside,roadside,a
 accident,accident,accident,n
 walks,walk,walks,n
 sits,sits,sits,n
-many,many,many,a
 times,time,times,n
 fantasized,fantasized,fantasized,a
 isaac,isaac,isaac,a
@@ -60273,7 +60020,7 @@ long,long,long,a
 time,time,time,n
 hand,hand,hand,n
 hand,hand,hand,n
-much,much,much,a
+stir,stir,stir,n
 zalman,zalman,zalman,n
 parviz,parviz,parviz,a
 owner,owner,owner,n
@@ -60317,7 +60064,7 @@ day,day,day,n
 single,single,single,a
 dinner,dinner,dinner,n
 hour,hour,hour,n
-much,much,much,a
+evening,evening,evening,n
 unsaid,unsaid,unsaid,a
 yellow,yellow,yellow,n
 letters,letter,letters,n
@@ -60386,7 +60133,6 @@ wisdom,wisdom,wisdom,n
 wire,wire,wire,n
 money,money,money,n
 years,year,years,n
-many,many,many,a
 jew,jew,jew,n
 eggs,egg,eggs,a
 basket,basket,basket,n
@@ -60478,7 +60224,6 @@ morning,morning,morning,n
 sunscreen,sunscreen,sunscreen,a
 lotion,lotion,lotion,n
 ocean,ocean,ocean,a
-many,many,many,a
 summers,summer,summers,n
 diamond,diamond,diamond,n
 take,take,take,n
@@ -60538,7 +60283,7 @@ block,block,block,n
 considers,considers,considers,n
 death,death,death,n
 decides,decides,decides,n
-much,much,much,a
+asks,asks,asks,a
 interaction,interaction,interaction,n
 father,father,father,n
 unspoken,unspoken,unspoken,a
@@ -60589,7 +60334,6 @@ bleach,bleach,bleach,n
 erase,erase,erase,n
 names,name,names,n
 tea,tea,tea,n
-many,many,many,a
 people,people,people,n
 border,border,border,n
 sarkar,sarkar,sarkar,n
@@ -60615,7 +60359,6 @@ tabriz,tabriz,tabriz,a
 lunch,lunch,lunch,n
 suppose,suppose,suppose,a
 get,get,get,n
-many,many,many,a
 factors,factor,factors,n
 people,people,people,n
 border,border,border,n
@@ -60848,7 +60591,6 @@ inarguable,inarguable,inarguable,a
 fact,fact,fact,n
 prison,prison,prison,n
 death,death,death,n
-many,many,many,a
 times,time,times,n
 heard,heard,heard,n
 others,others,others,n
@@ -60900,7 +60642,6 @@ advocate,advocate,advocate,n
 indecency,indecency,indecency,n
 log,log,log,n
 septembers,september,septembers,n
-many,many,many,a
 attempts,attempt,attempts,n
 poor,poor,poor,a
 girl,girl,girl,n
@@ -61109,7 +60850,7 @@ truck,truck,truck,n
 village,village,village,n
 ankara,ankara,ankara,n
 bus,bus,bus,n
-many,many,many,a
+istanbul,istanbul,istanbul,a
 thanks,thanks,thanks,n
 rosenthal,rosenthal,rosenthal,n
 early,early,early,a
@@ -61142,7 +60883,6 @@ book,book,book,n
 persian,persian,persian,a
 english,english,english,a
 proverbs,proverb,proverbs,n
-many,many,many,a
 political,political,political,a
 prisoners,prisoner,prisoners,n
 candid,candid,candid,a
@@ -61172,9 +60912,8 @@ times,time,times,n
 guardian,guardian,guardian,a
 wall,wall,wall,a
 street,street,street,n
-journal,journal,journal,a
+journal,journal,journal,n
 granta,granta,granta,n
-many,many,many,a
 publications,publication,publications,n
 wilders,wilder,wilders,n
 refugees,refugee,refugees,n
@@ -62465,7 +62204,8 @@ alter,alter,alter,n
 pleasant,pleasant,pleasant,a
 mental,mental,mental,a
 associations,association,associations,n
-much,much,much,a
+early,early,early,a
+hint,hint,hint,n
 change,change,change,n
 faulty,faulty,faulty,a
 itchy,itchy,itchy,n
@@ -63617,7 +63357,6 @@ doorstep,doorstep,doorstep,n
 men,men,men,n
 death,death,death,n
 dismemberment,dismemberment,dismemberment,n
-much,much,much,a
 time,time,time,n
 next,next,next,a
 day,day,day,n
@@ -63637,7 +63376,6 @@ famous,famous,famous,a
 world,world,world,n
 dangerous,dangerous,dangerous,a
 roads,road,roads,n
-many,many,many,a
 clogged,clogged,clogged,a
 barriers,barrier,barriers,n
 narrow,narrow,narrow,a
@@ -63798,7 +63536,7 @@ ropes,rope,ropes,n
 metal,metal,metal,n
 bars,bar,bars,n
 bedframe,bedframe,bedframe,a
-many,many,many,a
+enough,enough,enough,a
 families,family,families,n
 tells,tell,tells,n
 family,family,family,n
@@ -63931,7 +63669,6 @@ sanitation,sanitation,sanitation,n
 lack,lack,lack,n
 medical,medical,medical,a
 care,care,care,n
-many,many,many,a
 rape,rape,rape,n
 victims,victim,victims,n
 conflict,conflict,conflict,n
@@ -64064,13 +63801,14 @@ brutal,brutal,brutal,a
 hijabi,hijabi,hijabi,n
 schoolteachers,schoolteacher,schoolteachers,n
 day,day,day,n
+detail,detail,detail,n
 baffles,baffle,baffles,n
 ate,ate,ate,n
 first,first,first,a
 oklahoma,oklahoma,oklahoma,a
 days,day,days,n
 glass,glass,glass,n
-many,many,many,a
+bulgogi,bulgogi,bulgogi,a
 intense,intense,intense,a
 reds,red,reds,n
 fridge,fridge,fridge,n
@@ -64262,7 +64000,6 @@ brutal,brutal,brutal,a
 dictator,dictator,dictator,n
 kaweh,kaweh,kaweh,n
 national,national,national,a
-many,many,many,a
 iranians,iranian,iranians,n
 saddam,saddam,saddam,a
 torture,torture,torture,n
@@ -64275,7 +64012,6 @@ fact,fact,fact,n
 iranian,iranian,iranian,a
 intelligence,intelligence,intelligence,n
 officers,officer,officers,n
-many,many,many,a
 times,time,times,n
 time,time,time,n
 new,new,new,a
@@ -64304,7 +64040,6 @@ chips,chip,chips,n
 ticket,ticket,ticket,n
 deny,deny,deny,n
 child,child,child,a
-many,many,many,a
 men,men,men,n
 women,woman,women,n
 brutal,brutal,brutal,a
@@ -64579,7 +64314,6 @@ radio,radio,radio,a
 station,station,station,n
 refugee,refugee,refugee,n
 media,medium,media,n
-many,many,many,a
 mistakes,mistake,mistakes,n
 kambiz,kambiz,kambiz,a
 story,story,story,n
@@ -64675,10 +64409,8 @@ officers,officer,officers,n
 unhappy,unhappy,unhappy,a
 white,white,white,a
 men,men,men,n
-much,much,much,a
-wanting,wanting,wanting,n
-much,much,much,a
 birthrights,birthright,birthrights,n
+iran,iran,iran,n
 guilty,guilty,guilty,a
 credible,credible,credible,a
 threat,threat,threat,n
@@ -64898,7 +64630,6 @@ lawyer,lawyer,lawyer,n
 families,family,families,n
 lone,lone,lone,n
 wanderers,wanderer,wanderers,n
-many,many,many,a
 suicides,suicide,suicides,n
 efforts,effort,efforts,n
 iranians,iranian,iranians,n
@@ -65149,7 +64880,7 @@ stir,stir,stir,a
 pot,pot,pot,n
 houshiar,houshiar,houshiar,n
 idea,idea,idea,n
-many,many,many,a
+suspect,suspect,suspect,n
 young,young,young,a
 people,people,people,n
 give,give,give,a
@@ -65373,7 +65104,6 @@ death,death,death,n
 man,man,man,n
 jail,jail,jail,n
 stomach,stomach,stomach,n
-much,much,much,a
 detention,detention,detention,n
 food,food,food,n
 front,front,front,n
@@ -65425,9 +65155,8 @@ jail,jail,jail,n
 torture,torture,torture,a
 rape,rape,rape,n
 torture,torture,torture,n
-many,many,many,a
-friends,friend,friends,n
-torture,torture,torture,a
+survived,survived,survived,a
+torture,torture,torture,n
 man,man,man,n
 pouri,pouri,pouri,a
 old,old,old,a
@@ -65490,7 +65219,6 @@ incoming,incoming,incoming,n
 refugees,refugee,refugees,n
 flood,flood,flood,n
 swarm,swarm,swarm,n
-many,many,many,a
 cases,case,cases,n
 bounty,bounty,bounty,a
 thing,thing,thing,n
@@ -65539,8 +65267,8 @@ country,country,country,n
 road,road,road,n
 open,open,open,a
 please,please,please,n
+eat,eat,eat,n
 something,something,something,n
-many,many,many,a
 trophies,trophy,trophies,n
 medals,medal,medals,n
 state,state,state,n
@@ -65736,8 +65464,7 @@ feel,feel,feel,n
 urge,urge,urge,a
 abuse,abuse,abuse,n
 sam,sam,sam,a
-much,much,much,a
-hobgoblin,hobgoblin,hobgoblin,n
+dishes,dish,dishes,n
 student,student,student,a
 council,council,council,n
 name,name,name,n
@@ -65791,7 +65518,6 @@ asks,asks,asks,n
 physical,physical,physical,a
 desire,desire,desire,n
 conversion,conversion,conversion,n
-earlier,earlier,early,a
 first,first,first,a
 morning,morning,morning,n
 blacktop,blacktop,blacktop,n
@@ -65928,8 +65654,7 @@ liberty,liberty,liberty,n
 wood,wood,wood,n
 infamous,infamous,infamous,a
 detention,detention,detention,n
-many,many,many,a
-held,held,held,a
+centre,centre,centre,n
 weeks,week,weeks,n
 months,month,months,n
 wood,wood,wood,n
@@ -66127,7 +65852,7 @@ spot,spot,spot,n
 wall,wall,wall,n
 hours,hour,hours,n
 motionless,motionless,motionless,a
-many,many,many,a
+awake,awake,awake,a
 dark,dark,dark,a
 nights,night,nights,n
 wrong,wrong,wrong,a
@@ -66198,6 +65923,7 @@ possibility,possibility,possibility,n
 prone,prone,prone,n
 racism,racism,racism,n
 classism,classism,classism,n
+harms,harm,harms,n
 family,family,family,n
 teeth,teeth,teeth,n
 customs,custom,customs,n
@@ -66418,7 +66144,6 @@ wickedness,wickedness,wickedness,n
 believe,believe,believe,n
 agency,agency,agency,n
 power,power,power,n
-many,many,many,a
 doors,door,doors,n
 impossible,impossible,impossible,a
 accept,accept,accept,a
@@ -66485,8 +66210,8 @@ rights,right,rights,n
 lawyer,lawyer,lawyer,n
 daniel,daniel,daniel,a
 leader,leader,leader,n
-many,many,many,a
-paths,path,paths,n
+thank,thank,thank,n
+paths,path,paths,a
 political,political,political,a
 science,science,science,n
 political,political,political,a
@@ -66558,9 +66283,7 @@ children,child,children,n
 cranes,crane,cranes,n
 easiest,easiest,easy,a
 thing,thing,thing,n
-many,many,many,a
 friends,friend,friends,n
-relatives,relative,relatives,n
 country,country,country,n
 bombs,bomb,bombs,n
 war,war,war,n
@@ -66626,7 +66349,7 @@ early,early,early,a
 war,war,war,n
 girls,girl,girls,n
 older,older,old,a
-need,need,need,n
+briefly,briefly,briefly,n
 family,family,family,n
 law,law,law,n
 courts,court,courts,n
@@ -66781,15 +66504,14 @@ arguments,argument,arguments,n
 islamic,islamic,islamic,a
 law,law,law,n
 principles,principle,principles,n
-many,many,many,a
 judges,judge,judges,n
+islamic,islamic,islamic,a
 republic,republic,republic,a
 little,little,little,a
 understanding,understanding,understanding,a
 islamic,islamic,islamic,a
 legal,legal,legal,a
 tenets,tenet,tenets,n
-many,many,many,a
 iranian,iranian,iranian,a
 women,woman,women,n
 idea,idea,idea,n
@@ -66912,8 +66634,6 @@ award,award,award,n
 state,state,state,n
 radio,radio,radio,n
 stations,station,stations,n
-much,much,much,a
-mention,mention,mention,n
 severe,severe,severe,a
 news,news,news,n
 embargo,embargo,embargo,n
@@ -67282,7 +67002,7 @@ monitor,monitor,monitor,n
 work,work,work,n
 report,report,report,n
 person,person,person,n
-many,many,many,a
+spoke,spoke,spoke,n
 iranian,iranian,iranian,a
 families,family,families,n
 relatives,relative,relatives,n
@@ -67517,7 +67237,6 @@ articles,article,articles,n
 state,state,state,n
 complicity,complicity,complicity,n
 assassinations,assassination,assassinations,n
-many,many,many,a
 reformists,reformist,reformists,n
 system,system,system,n
 former,former,former,a
@@ -67913,7 +67632,7 @@ abrogation,abrogation,abrogation,n
 justice,justice,justice,n
 life,life,life,n
 iran,iran,iran,n
-many,many,many,a
+september,september,september,a
 weeks,week,weeks,n
 presidency,presidency,presidency,n
 podium,podium,podium,n
@@ -68047,7 +67766,7 @@ envelopes,envelope,envelopes,n
 cash,cash,cash,n
 tomans,tomans,tomans,n
 equivalent,equivalent,equivalent,a
-much,much,much,a
+envelopes,envelope,envelopes,n
 drug,drug,drug,n
 habit,habit,habit,n
 balm,balm,balm,a
@@ -68647,14 +68366,13 @@ years,year,years,n
 republic,republic,republic,a
 way,way,way,n
 world,world,world,n
+appreciated,appreciated,appreciated,a
 efforts,effort,efforts,n
-much,much,much,a
 region,region,region,n
 political,political,political,a
 islam,islam,islam,n
 countries,country,countries,n
 saudi,saudi,saudi,n
-many,many,many,a
 women,woman,women,n
 interested,interested,interested,a
 open,open,open,a
@@ -68739,7 +68457,6 @@ traditional,traditional,traditional,a
 secular,secular,secular,n
 women,woman,women,n
 pressure,pressure,pressure,n
-many,many,many,a
 thousands,thousand,thousands,n
 signatures,signature,signatures,n
 state,state,state,n
@@ -68903,7 +68620,6 @@ officers,officer,officers,n
 case,case,case,n
 ones,one,ones,n
 decisions,decision,decisions,n
-much,much,much,a
 something,something,something,n
 interviews,interview,interviews,n
 case,case,case,n
@@ -69008,7 +68724,7 @@ political,political,political,a
 establishment,establishment,establishment,n
 intolerant,intolerant,intolerant,a
 middlemen,middleman,middlemen,n
-many,many,many,a
+regime,regime,regime,n
 institutions,institution,institutions,n
 busy,busy,busy,a
 shut,shut,shut,n
@@ -69108,9 +68824,6 @@ corridor,corridor,corridor,a
 reminder,reminder,reminder,n
 quest,quest,quest,a
 justice,justice,justice,n
-many,many,many,a
-iranians,iranian,iranians,n
-regardless,regardless,regardless,a
 differences,difference,differences,n
 repository,repository,repository,a
 people,people,people,n
@@ -69129,7 +68842,6 @@ mistrust,mistrust,mistrust,n
 resentment,resentment,resentment,n
 reside,reside,reside,n
 dormant,dormant,dormant,a
-many,many,many,a
 people,people,people,n
 days,day,days,n
 multiple,multiple,multiple,a
@@ -69505,7 +69217,7 @@ intelligence,intelligence,intelligence,n
 security,security,security,n
 apparatus,apparatus,apparatus,n
 law,law,law,n
-many,many,many,a
+dealt,dealt,dealt,n
 cases,case,cases,n
 people,people,people,n
 agents,agent,agents,n
@@ -69788,7 +69500,7 @@ american,american,american,a
 mercenary,mercenary,mercenary,a
 death,death,death,n
 traitor,traitor,traitor,n
-many,many,many,a
+ebadi,ebadi,ebadi,a
 voices,voice,voices,n
 whole,whole,whole,a
 demonstration,demonstration,demonstration,n
@@ -69922,7 +69634,6 @@ young,young,young,a
 blogger,blogger,blogger,n
 class,class,class,n
 family,family,family,n
-many,many,many,a
 iranians,iranian,iranians,n
 harder,harder,hard,n
 harder,harder,hard,n
@@ -70020,7 +69731,6 @@ torture,torture,torture,n
 autopsy,autopsy,autopsy,n
 permission,permission,permission,n
 judge,judge,judge,n
-many,many,many,a
 cases,case,cases,n
 forensic,forensic,forensic,a
 evidence,evidence,evidence,n
@@ -70103,7 +69813,6 @@ progression,progression,progression,n
 state,state,state,n
 family,family,family,n
 years,year,years,n
-many,many,many,a
 clients,client,clients,n
 dissidents,dissident,dissidents,n
 activists,activist,activists,n
@@ -70285,7 +69994,6 @@ election,election,election,n
 place,place,place,n
 morning,morning,morning,n
 authorities,authority,authorities,n
-much,much,much,a
 attention,attention,attention,n
 report,report,report,n
 colleagues,colleague,colleagues,n
@@ -70497,7 +70205,7 @@ dissident,dissident,dissident,n
 writers,writer,writers,n
 dead,dead,dead,a
 outskirts,outskirt,outskirts,n
-many,many,many,a
+felt,felt,felt,a
 connection,connection,connection,n
 murders,murder,murders,n
 something,something,something,n
@@ -70610,7 +70318,6 @@ depth,depth,depth,a
 challenge,challenge,challenge,n
 regime,regime,regime,n
 evident,evident,evident,a
-many,many,many,a
 iranians,iranian,iranians,n
 united,united,united,a
 states,state,states,n
@@ -70639,7 +70346,6 @@ iran,iran,iran,a
 authorities,authority,authorities,n
 colleagues,colleague,colleagues,n
 interrogations,interrogation,interrogations,n
-many,many,many,a
 protesters,protester,protesters,n
 makeshift,makeshift,makeshift,a
 detention,detention,detention,n
@@ -70653,7 +70359,6 @@ abu,abu,abu,n
 ghraib,ghraib,ghraib,n
 large,large,large,a
 warehouse,warehouse,warehouse,n
-many,many,many,a
 small,small,small,a
 rooms,room,rooms,n
 authorities,authority,authorities,n
@@ -70828,7 +70533,6 @@ javad,javad,javad,n
 straight,straight,straight,a
 evin,evin,evin,n
 prison,prison,prison,n
-many,many,many,a
 clients,client,clients,n
 years,year,years,n
 days,day,days,n
@@ -71092,8 +70796,9 @@ guilt,guilt,guilt,n
 right,right,right,a
 feel,feel,feel,n
 guilty,guilty,guilty,a
-many,many,many,a
+knew,knew,knew,n
 cases,case,cases,n
+intelligence,intelligence,intelligence,n
 ministry,ministry,ministry,n
 sorts,sort,sorts,n
 things,thing,things,n
@@ -71203,7 +70908,6 @@ months,month,months,n
 events,event,events,n
 june,june,june,n
 iranians,iranian,iranians,n
-much,much,much,a
 world,world,world,n
 los,los,los,n
 angeles,angeles,angeles,n
@@ -71666,7 +71370,6 @@ power,power,power,n
 interrogations,interrogation,interrogations,n
 various,various,various,a
 channels,channel,channels,n
-many,many,many,a
 politicians,politician,politicians,n
 human,human,human,a
 rights,right,rights,n
@@ -71680,7 +71383,6 @@ confiscation,confiscation,confiscation,n
 passport,passport,passport,n
 trip,trip,trip,n
 prison,prison,prison,n
-many,many,many,a
 times,time,times,n
 get,get,get,n
 javad,javad,javad,n
@@ -72059,7 +71761,7 @@ arid,arid,arid,a
 stretch,stretch,stretch,n
 outskirts,outskirt,outskirts,n
 dirt,dirt,dirt,n
-many,many,many,a
+tell,tell,tell,a
 feet,foot,feet,n
 row,row,row,a
 apricots,apricot,apricots,n
@@ -72326,7 +72028,6 @@ grant,grant,grant,a
 permission,permission,permission,n
 iranians,iranian,iranians,n
 streets,street,streets,n
-many,many,many,a
 days,day,days,n
 people,people,people,n
 streets,street,streets,n
@@ -73451,6 +73152,7 @@ class,class,class,n
 state,state,state,n
 world,world,world,n
 neighbors,neighbor,neighbors,n
+staunchly,staunchly,staunchly,a
 international,international,international,a
 law,law,law,n
 iran,iran,iran,a
@@ -73865,7 +73567,6 @@ bad,bad,bad,a
 thing,thing,thing,n
 bring,bring,bring,n
 people,people,people,n
-much,much,much,a
 sectarian,sectarian,sectarian,a
 instability,instability,instability,n
 region,region,region,n
@@ -73954,7 +73655,6 @@ tehran,tehran,tehran,a
 interrogation,interrogation,interrogation,n
 session,session,session,n
 kind,kind,kind,n
-many,many,many,a
 times,time,times,n
 life,life,life,n
 number,number,number,n
@@ -74262,7 +73962,7 @@ expertise,expertise,expertise,n
 disposal,disposal,disposal,n
 share,share,share,n
 story,story,story,n
-many,many,many,a
+behalf,behalf,behalf,n
 faceless,faceless,faceless,a
 iranians,iranian,iranians,n
 political,political,political,a
@@ -74311,7 +74011,6 @@ islamic,islamic,islamic,a
 republic,republic,republic,a
 discriminatory,discriminatory,discriminatory,n
 laws,law,laws,n
-many,many,many,a
 country,country,country,n
 prominent,prominent,prominent,a
 prisoners,prisoner,prisoners,n
@@ -74404,7 +74103,6 @@ iran,iran,iran,n
 harsh,harsh,harsh,n
 medieval,medieval,medieval,n
 laws,law,laws,n
-harsher,harsher,harsh,a
 women,woman,women,n
 children,child,children,n
 anti,anti,anti,a
@@ -74570,7 +74268,6 @@ traitor,traitor,traitor,n
 first,first,first,a
 kati,kati,kati,a
 clean,clean,clean,a
-much,much,much,a
 reach,reach,reach,n
 walls,wall,walls,n
 content,content,content,a
@@ -74680,8 +74377,7 @@ people,people,people,n
 houses,house,houses,n
 tin,tin,tin,n
 gas,gas,gas,n
-many,many,many,a
-towns,town,towns,n
+cans,can,cans,n
 electricity,electricity,electricity,n
 proper,proper,proper,a
 roads,road,roads,n
@@ -74689,7 +74385,7 @@ schools,school,schools,n
 hospitals,hospital,hospitals,n
 basic,basic,basic,a
 standards,standard,standards,n
-many,many,many,a
+hygiene,hygiene,hygiene,n
 people,people,people,n
 spend,spend,spend,a
 years,year,years,n
@@ -74866,7 +74562,7 @@ family,family,family,n
 confused,confused,confused,a
 father,father,father,n
 neighborhood,neighborhood,neighborhood,a
-much,much,much,a
+come,come,come,a
 convenient,convenient,convenient,n
 fashionable,fashionable,fashionable,a
 desert,desert,desert,n
@@ -74876,7 +74572,6 @@ shares,share,shares,n
 revolution,revolution,revolution,n
 mustazafin,mustazafin,mustazafin,n
 foundation,foundation,foundation,n
-many,many,many,a
 factory,factory,factory,n
 father,father,father,n
 become,become,become,a
@@ -75003,7 +74698,6 @@ held,held,held,a
 funeral,funeral,funeral,a
 undisclosed,undisclosed,undisclosed,a
 location,location,location,n
-many,many,many,a
 revolutionary,revolutionary,revolutionary,a
 families,family,families,n
 relative,relative,relative,a
@@ -75243,7 +74937,6 @@ morning,morning,morning,n
 court,court,court,n
 head,head,head,n
 wrists,wrist,wrists,n
-much,much,much,a
 move,move,move,n
 look,look,look,n
 petite,petite,petite,a
@@ -75746,7 +75439,7 @@ execution,execution,execution,n
 friend,friend,friend,n
 pasdaran,pasdaran,pasdaran,n
 year,year,year,n
-much,much,much,a
+arrest,arrest,arrest,a
 discussion,discussion,discussion,n
 everyone,everyone,everyone,n
 plan,plan,plan,n
@@ -75803,7 +75496,6 @@ thoughts,thought,thoughts,n
 good,good,good,a
 deeds,deed,deeds,n
 mother,mother,mother,n
-better,better,good,a
 muslims,muslim,muslims,n
 liars,liar,liars,n
 hypocrites,hypocrite,hypocrites,n
@@ -76093,7 +75785,7 @@ firecrackers,firecracker,firecrackers,n
 scan,scan,scan,a
 plainclothes,plainclothes,plainclothes,n
 police,police,police,n
-many,many,many,a
+buy,buy,buy,n
 sparklers,sparkler,sparklers,n
 grenades,grenade,grenades,n
 plastic,plastic,plastic,n
@@ -76120,7 +75812,7 @@ torture,torture,torture,n
 satgin,satgin,satgin,a
 yaghmai,yaghmai,yaghmai,n
 camelia,camelia,camelia,n
-much,much,much,a
+satgin,satgin,satgin,a
 difficult,difficult,difficult,a
 situation,situation,situation,n
 family,family,family,n
@@ -76170,16 +75862,15 @@ marguerite,marguerite,marguerite,a
 dies,dy,dies,n
 execution,execution,execution,n
 orders,order,orders,n
-many,many,many,a
 times,time,times,n
-much,much,much,a
+girls,girl,girls,n
+boys,boy,boys,n
 younger,younger,young,a
 blasphemers,blasphemer,blasphemers,n
 traitors,traitor,traitors,n
 mandatory,mandatory,mandatory,a
 death,death,death,n
 sentences,sentence,sentences,n
-many,many,many,a
 hours,hour,hours,n
 wooden,wooden,wooden,a
 chair,chair,chair,n
@@ -76273,7 +75964,7 @@ ministry,ministry,ministry,n
 intelligence,intelligence,intelligence,n
 interrogation,interrogation,interrogation,n
 form,form,form,n
-many,many,many,a
+know,know,know,a
 boyfriends,boyfriend,boyfriends,n
 religious,religious,religious,a
 parents,parent,parents,n
@@ -76364,7 +76055,7 @@ pastry,pastry,pastry,n
 springtime,springtime,springtime,a
 interrogator,interrogator,interrogator,n
 ok,ok,ok,a
-many,many,many,a
+tell,tell,tell,n
 people,people,people,n
 ears,ear,ears,n
 name,name,name,a
@@ -76625,7 +76316,7 @@ states,state,states,n
 government,government,government,n
 decline,decline,decline,a
 war,war,war,n
-many,many,many,a
+continue,continue,continue,a
 years,year,years,n
 war,war,war,n
 iraq,iraq,iraq,a
@@ -77506,7 +77197,6 @@ happen,happen,happen,a
 prison,prison,prison,n
 face,face,face,n
 wall,wall,wall,n
-many,many,many,a
 secrets,secret,secrets,n
 faezeh,faezeh,faezeh,a
 lovers,lover,lovers,n
@@ -77636,7 +77326,6 @@ detention,detention,detention,n
 center,center,center,n
 week,week,week,n
 imprisonment,imprisonment,imprisonment,a
-many,many,many,a
 women,woman,women,n
 montazeri,montazeri,montazeri,a
 hashemi,hashemi,hashemi,n
@@ -77923,7 +77612,6 @@ segment,segment,segment,n
 government,government,government,n
 hand,hand,hand,n
 death,death,death,n
-many,many,many,a
 writers,writer,writers,n
 death,death,death,n
 threats,threat,threats,n
@@ -78252,7 +77940,6 @@ tea,tea,tea,n
 atabay,atabay,atabay,n
 touch,touch,touch,a
 mail,mail,mail,n
-many,many,many,a
 young,young,young,a
 people,people,people,n
 homesick,homesick,homesick,a
@@ -78268,7 +77955,6 @@ wish,wish,wish,a
 success,success,success,n
 leave,leave,leave,n
 wall,wall,wall,n
-much,much,much,a
 people,people,people,n
 cell,cell,cell,n
 golriz,golriz,golriz,n
@@ -78598,10 +78284,7 @@ cash,cash,cash,n
 make,make,make,n
 rest,rest,rest,n
 prisoners,prisoner,prisoners,n
-much,much,much,a
-amir,amir,amir,n
 everything,everything,everything,n
-let,let,let,n
 heard,heard,heard,n
 towhid,towhid,towhid,a
 escaped,escaped,escaped,a
@@ -78626,7 +78309,6 @@ first,first,first,a
 groups,group,groups,n
 pilgrims,pilgrim,pilgrims,n
 war,war,war,n
-many,many,many,a
 cases,case,cases,n
 mujaheds,mujaheds,mujaheds,n
 single,single,single,a
@@ -78853,7 +78535,6 @@ khavaran,khavaran,khavaran,a
 unofficial,unofficial,unofficial,a
 cemetery,cemetery,cemetery,n
 tehran,tehran,tehran,n
-much,much,much,a
 city,city,city,n
 behesht,behesht,behesht,n
 zahra,zahra,zahra,n
@@ -79120,7 +78801,6 @@ baggage,baggage,baggage,n
 modarress,modarress,modarress,n
 cell,cell,cell,n
 phone,phone,phone,n
-much,much,much,a
 possession,possession,possession,n
 tehran,tehran,tehran,n
 wallet,wallet,wallet,n
@@ -79327,7 +79007,7 @@ names,name,names,n
 building,building,building,n
 clerk,clerk,clerk,n
 tea,tea,tea,n
-many,many,many,a
+work,work,work,n
 people,people,people,n
 mother,mother,mother,n
 robbery,robbery,robbery,n
@@ -79521,8 +79201,8 @@ security,security,security,n
 retirement,retirement,retirement,n
 biweekly,biweekly,biweekly,n
 payment,payment,payment,n
-much,much,much,a
 style,style,style,n
+defunct,defunct,defunct,a
 east,east,east,a
 german,german,german,a
 secret,secret,secret,a
@@ -79925,9 +79605,7 @@ worried,worried,worried,a
 direction,direction,direction,n
 mossadegh,mossadegh,mossadegh,n
 country,country,country,n
-left,left,left,a
 communists,communist,communists,n
-much,much,much,a
 power,power,power,n
 politician,politician,politician,n
 british,british,british,a
@@ -80443,7 +80121,6 @@ papers,paper,papers,n
 members,member,members,n
 old,old,old,a
 regime,regime,regime,a
-many,many,many,a
 covered,covered,covered,a
 journalist,journalist,journalist,n
 farrokhrou,farrokhrou,farrokhrou,n
@@ -80895,7 +80572,6 @@ interrogation,interrogation,interrogation,n
 meetings,meeting,meetings,n
 wilson,wilson,wilson,n
 center,center,center,n
-many,many,many,a
 years,year,years,n
 details,detail,details,n
 long,long,long,a
@@ -81152,6 +80828,7 @@ takhliyyehye,takhliyyehye,takhliyyehye,n
 ettela,ettela,ettela,a
 term,term,term,n
 persian,persian,persian,a
+sinister,sinister,sinister,n
 term,term,term,n
 cosponsored,cosponsored,cosponsored,a
 meetings,meeting,meetings,n
@@ -81283,7 +80960,6 @@ remarks,remark,remarks,n
 invasion,invasion,invasion,n
 iraq,iraq,iraq,n
 effect,effect,effect,n
-many,many,many,a
 iranians,iranian,iranians,n
 iranians,iranian,iranians,n
 talks,talk,talks,n
@@ -81704,7 +81380,6 @@ streets,street,streets,n
 pitched,pitched,pitched,a
 battles,battle,battles,n
 thousands,thousand,thousands,n
-many,many,many,a
 prisons,prison,prisons,n
 others,others,others,n
 streets,street,streets,n
@@ -81713,7 +81388,6 @@ public,public,public,a
 view,view,view,n
 year,year,year,n
 war,war,war,n
-much,much,much,a
 southern,southern,southern,a
 iran,iran,iran,n
 cities,city,cities,n
@@ -81900,7 +81574,6 @@ revolution,revolution,revolution,n
 several,several,several,a
 friends,friend,friends,n
 jail,jail,jail,n
-many,many,many,a
 others,others,others,n
 death,death,death,n
 special,special,special,a
@@ -82281,7 +81954,6 @@ country,country,country,n
 dangerous,dangerous,dangerous,a
 undeclared,undeclared,undeclared,a
 war,war,war,n
-many,many,many,a
 others,others,others,n
 caught,caught,caught,n
 cross,cross,cross,n
@@ -82908,7 +82580,6 @@ program,program,program,n
 democracy,democracy,democracy,n
 promotion,promotion,promotion,n
 detention,detention,detention,n
-many,many,many,a
 others,others,others,n
 determination,determination,determination,n
 iran,iran,iran,n
@@ -83185,7 +82856,7 @@ interrogation,interrogation,interrogation,n
 late,late,late,a
 evening,evening,evening,n
 evin,evin,evin,n
-many,many,many,a
+cell,cell,cell,n
 hours,hour,hours,n
 hour,hour,hour,n
 heard,heard,heard,n
@@ -83968,7 +83639,6 @@ win,win,win,a
 majority,majority,majority,n
 parliamentary,parliamentary,parliamentary,a
 elections,election,elections,n
-many,many,many,a
 prominent,prominent,prominent,a
 conservative,conservative,conservative,a
 candidates,candidate,candidates,n
@@ -84950,7 +84620,6 @@ single,single,single,a
 blanket,blanket,blanket,n
 cot,cot,cot,a
 cot,cot,cot,a
-much,much,much,a
 space,space,space,n
 small,small,small,a
 cell,cell,cell,n
@@ -85219,7 +84888,6 @@ phone,phone,phone,n
 battery,battery,battery,n
 low,low,low,a
 use,use,use,n
-many,many,many,a
 phones,phone,phones,n
 corridors,corridor,corridors,n
 available,available,available,a
@@ -85755,7 +85423,7 @@ prisoners,prisoner,prisoners,n
 ja,ja,ja,n
 fari,fari,fari,n
 room,room,room,n
-many,many,many,a
+spent,spent,spent,a
 hours,hour,hours,n
 chador,chador,chador,a
 wooden,wooden,wooden,a
@@ -86192,7 +85860,6 @@ lamb,lamb,lamb,n
 neighborhood,neighborhood,neighborhood,n
 restaurant,restaurant,restaurant,n
 collection,collection,collection,n
-many,many,many,a
 hundreds,hundred,hundreds,n
 news,news,news,n
 stories,story,stories,n
@@ -87219,7 +86886,6 @@ effective,effective,effective,a
 ways,way,ways,n
 international,international,international,a
 opinion,opinion,opinion,n
-many,many,many,a
 thousands,thousand,thousands,n
 prisoners,prisoner,prisoners,n
 world,world,world,n
@@ -87436,11 +87102,9 @@ store,store,store,n
 heard,heard,heard,n
 gallaudet,gallaudet,gallaudet,n
 university,university,university,n
-many,many,many,a
 students,student,students,n
 rural,rural,rural,a
 maine,maine,maine,n
-many,many,many,a
 people,people,people,n
 middle,middle,middle,a
 easterner,easterner,eastern,n
@@ -87613,9 +87277,10 @@ neighbors,neighbor,neighbors,n
 everyone,everyone,everyone,n
 everyone,everyone,everyone,n
 crime,crime,crime,n
-petty,petty,petty,a
-many,many,many,a
+petty,petty,petty,n
+theft,theft,theft,n
 shootings,shooting,shootings,n
+iran,iran,iran,n
 citizens,citizen,citizens,n
 access,access,access,n
 guns,gun,guns,n
@@ -87818,7 +87483,6 @@ graders,grader,graders,n
 pill,pill,pill,n
 form,form,form,n
 pills,pill,pills,n
-many,many,many,a
 war,war,war,n
 correspondents,correspondent,correspondents,n
 business,business,business,n
@@ -87921,7 +87585,6 @@ hostage,hostage,hostage,a
 american,american,american,a
 embassy,embassy,embassy,n
 reason,reason,reason,n
-many,many,many,a
 americans,american,americans,n
 iranians,iranian,iranians,n
 outward,outward,outward,a
@@ -87980,7 +87643,6 @@ eighteen,eighteen,eighteen,a
 task,task,task,n
 right,right,right,a
 camp,camp,camp,n
-much,much,much,a
 research,research,research,n
 farshid,farshid,farshid,n
 perfect,perfect,perfect,a
@@ -88081,7 +87743,6 @@ lodge,lodge,lodge,n
 mountain,mountain,mountain,n
 summer,summer,summer,n
 camp,camp,camp,n
-much,much,much,a
 ones,one,ones,n
 everyone,everyone,everyone,n
 skipped,skipped,skipped,a
@@ -88577,7 +88238,6 @@ christmas,christmas,christmas,n
 best,best,best,a
 explain,explain,explain,n
 santa,santa,santa,n
-many,many,many,a
 presents,present,presents,n
 night,night,night,n
 trip,trip,trip,n
@@ -88588,8 +88248,7 @@ santa,santa,santa,n
 bad,bad,bad,a
 old,old,old,a
 man,man,man,n
-much,much,much,a
-stuff,stuff,stuff,n
+stuff,stuff,stuff,a
 death,death,death,n
 shah,shah,shah,n
 death,death,death,n
@@ -89063,7 +88722,6 @@ guests,guest,guests,n
 hour,hour,hour,n
 smaller,smaller,small,a
 manager,manager,manager,n
-many,many,many,a
 options,option,options,n
 everyone,everyone,everyone,n
 new,new,new,a
@@ -89760,7 +89418,6 @@ thing,thing,thing,n
 stimulate,stimulate,stimulate,n
 conversations,conversation,conversations,n
 culture,culture,culture,n
-many,many,many,a
 young,young,young,a
 people,people,people,n
 enemy,enemy,enemy,n
@@ -90184,7 +89841,6 @@ law,law,law,n
 baby,baby,baby,n
 due,due,due,a
 day,day,day,n
-much,much,much,a
 work,work,work,n
 clear,clear,clear,a
 conversation,conversation,conversation,n
@@ -90304,8 +89960,8 @@ page,page,page,n
 random,random,random,n
 poem,poem,poem,a
 page,page,page,n
-much,much,much,a
-wonder,wonder,wonder,a
+interpret,interpret,interpret,a
+wonder,wonder,wonder,n
 awe,awe,awe,n
 strange,strange,strange,a
 intersection,intersection,intersection,n
@@ -90382,7 +90038,6 @@ little,little,little,a
 color,color,color,n
 tassels,tassel,tassels,n
 photo,photo,photo,n
-much,much,much,a
 ambiance,ambiance,ambiance,n
 bank,bank,bank,n
 school,school,school,n
@@ -90470,7 +90125,6 @@ drive,drive,drive,a
 night,night,night,n
 freeways,freeway,freeways,n
 road,road,road,n
-many,many,many,a
 cars,car,cars,n
 term,term,term,n
 understood,understood,understood,a
@@ -90712,8 +90366,7 @@ weekends,weekend,weekends,n
 spent,spent,spent,a
 library,library,library,a
 study,study,study,n
-much,much,much,a
-sneak,sneak,sneak,n
+sneak,sneak,sneak,a
 previews,preview,previews,n
 death,death,death,n
 entire,entire,entire,a
@@ -91100,7 +90753,6 @@ let,let,let,n
 secret,secret,secret,a
 power,power,power,n
 underwear,underwear,underwear,n
-many,many,many,a
 days,day,days,n
 happy,happy,happy,a
 school,school,school,n
@@ -91250,7 +90902,6 @@ responsible,responsible,responsible,a
 crowd,crowd,crowd,n
 worst,worst,bad,a
 crime,crime,crime,n
-much,much,much,a
 excessive,excessive,excessive,a
 guilty,guilty,guilty,a
 help,help,help,n
@@ -91305,7 +90956,6 @@ catholic,catholic,catholic,a
 background,background,background,n
 ill,ill,ill,n
 claims,claim,claims,n
-many,many,many,a
 possible,possible,possible,a
 scenarios,scenario,scenarios,n
 dog,dog,dog,a
@@ -91315,7 +90965,7 @@ picnic,picnic,picnic,a
 golden,golden,golden,a
 gate,gate,gate,n
 park,park,park,n
-many,many,many,a
+wash,wash,wash,a
 times,time,times,n
 fade,fade,fade,a
 donate,donate,donate,n
@@ -91579,7 +91229,6 @@ case,case,case,n
 gorky,gorky,gorky,n
 park,park,park,n
 anything,anything,anything,n
-many,many,many,a
 immigrants,immigrant,immigrants,n
 things,thing,things,n
 girl,girl,girl,n
@@ -91900,7 +91549,6 @@ hateful,hateful,hateful,a
 bumper,bumper,bumper,n
 stickers,sticker,stickers,n
 cyrus,cyrus,cyrus,n
-many,many,many,a
 times,time,times,n
 old,old,old,a
 testament,testament,testament,a
@@ -92045,7 +91693,7 @@ college,college,college,n
 kathryn,kathryn,kathryn,n
 teaches,teach,teaches,n
 obvious,obvious,obvious,a
-many,many,many,a
+spoken,spoken,spoken,a
 rotary,rotary,rotary,a
 club,club,club,n
 meetings,meeting,meetings,n
@@ -92285,7 +91933,6 @@ alien,alien,alien,n
 treated,treated,treated,a
 psychoanalysis,psychoanalysis,psychoanalysis,n
 iran,iran,iran,n
-much,much,much,a
 open,open,open,a
 mind,mind,mind,n
 examples,example,examples,n
@@ -92297,7 +91944,6 @@ manner,manner,manner,n
 reinforce,reinforce,reinforce,a
 point,point,point,n
 people,people,people,n
-much,much,much,a
 cure,cure,cure,n
 heart,heart,heart,n
 iranian,iranian,iranian,a
@@ -92350,7 +91996,7 @@ nuclear,nuclear,nuclear,a
 ambitions,ambition,ambitions,n
 freedom,freedom,freedom,n
 speech,speech,speech,n
-many,many,many,a
+hold,hold,hold,n
 voices,voice,voices,n
 ghosts,ghost,ghosts,n
 analysts,analyst,analysts,n
@@ -92581,8 +92227,6 @@ ones,one,ones,n
 kundera,kundera,kundera,n
 tehran,tehran,tehran,a
 dogs,dog,dogs,n
-many,many,many,a
-advantages,advantage,advantages,n
 people,people,people,n
 important,important,important,a
 euthanasia,euthanasia,euthanasia,n
@@ -92650,7 +92294,6 @@ tehran,tehran,tehran,n
 see,see,see,n
 memory,memory,memory,n
 informs,informs,informs,n
-many,many,many,a
 years,year,years,n
 heard,heard,heard,n
 father,father,father,n
@@ -92836,14 +92479,11 @@ office,office,office,n
 room,room,room,n
 compulsion,compulsion,compulsion,n
 confess,confess,confess,n
-gohar,gohar,gohar,a
+gohar,gohar,gohar,n
 guilty,guilty,guilty,a
-many,many,many,a
 sins,sin,sins,n
 oedipal,oedipal,oedipal,a
-pre,pre,pre,a
-oedipal,oedipal,oedipal,a
-many,many,many,a
+pre,pre,pre,n
 vicious,vicious,vicious,a
 fantasies,fantasy,fantasies,n
 tehran,tehran,tehran,n
@@ -93187,7 +92827,7 @@ disease,disease,disease,n
 able,able,able,a
 people,people,people,n
 banality,banality,banality,a
-many,many,many,a
+replies,reply,replies,n
 years,year,years,n
 question,question,question,n
 difference,difference,difference,n
@@ -93277,7 +92917,6 @@ yellow,yellow,yellow,n
 bag,bag,bag,n
 garden,garden,garden,n
 perplexed,perplexed,perplexed,n
-much,much,much,a
 contemplation,contemplation,contemplation,n
 thank,thank,thank,n
 leaves,leaf,leaves,n
@@ -93391,8 +93030,8 @@ torturous,torturous,torturous,a
 feelings,feeling,feelings,n
 respond,respond,respond,a
 question,question,question,n
-know,know,know,n
-much,much,much,a
+know,know,know,a
+art,art,art,n
 mere,mere,mere,a
 symbolic,symbolic,symbolic,a
 communications,communication,communications,n
@@ -93433,9 +93072,7 @@ sweden,sweden,sweden,a
 mother,mother,mother,n
 pass,pas,pass,n
 park,park,park,n
-many,many,many,a
 years,year,years,n
-mother,mother,mother,n
 knew,knew,knew,a
 great,great,great,a
 deal,deal,deal,n
@@ -93712,7 +93349,6 @@ continuous,continuous,continuous,a
 state,state,state,n
 feels,feel,feels,n
 day,day,day,n
-much,much,much,a
 manic,manic,manic,a
 depressed,depressed,depressed,a
 depression,depression,depression,n
@@ -93847,7 +93483,7 @@ freedom,freedom,freedom,n
 doctor,doctor,doctor,n
 strangest,strangest,strange,a
 sensations,sensation,sensations,n
-many,many,many,a
+lonely,lonely,lonely,a
 nights,night,nights,n
 nietzsche,nietzsche,nietzsche,n
 desperate,desperate,desperate,a
@@ -93892,6 +93528,7 @@ produce,produce,produce,n
 stories,story,stories,n
 creativity,creativity,creativity,n
 surface,surface,surface,n
+freedom,freedom,freedom,n
 possible,possible,possible,a
 divorce,divorce,divorce,n
 wonderful,wonderful,wonderful,a
@@ -94076,7 +93713,7 @@ permission,permission,permission,n
 photographer,photographer,photographer,n
 magnum,magnum,magnum,n
 photos,photo,photos,n
-many,many,many,a
+mccurry,mccurry,mccurry,n
 areas,area,areas,n
 international,international,international,a
 civil,civil,civil,a
@@ -94708,7 +94345,6 @@ house,house,house,n
 early,early,early,a
 years,year,years,n
 part,part,part,n
-much,much,much,a
 larger,larger,large,a
 building,building,building,n
 gardens,garden,gardens,n
@@ -94809,7 +94445,6 @@ mother,mother,mother,n
 law,law,law,n
 mother,mother,mother,n
 hallway,hallway,hallway,n
-much,much,much,a
 dowry,dowry,dowry,n
 daughter,daughter,daughter,n
 husband,husband,husband,n
@@ -95111,8 +94746,6 @@ responsibility,responsibility,responsibility,n
 blame,blame,blame,n
 guilty,guilty,guilty,a
 veragi,veragi,veragi,n
-much,much,much,a
-biting,biting,biting,n
 hurtful,hurtful,hurtful,a
 tongue,tongue,tongue,n
 main,main,main,a
@@ -95313,7 +94946,7 @@ school,school,school,n
 principal,principal,principal,n
 proximity,proximity,proximity,n
 mahaleh,mahaleh,mahaleh,n
-many,many,many,a
+entice,entice,entice,n
 jews,jew,jews,n
 tarnish,tarnish,tarnish,a
 image,image,image,n
@@ -95403,7 +95036,6 @@ murder,murder,murder,n
 event,event,event,n
 horror,horror,horror,n
 guilt,guilt,guilt,n
-many,many,many,a
 years,year,years,n
 reason,reason,reason,n
 sightless,sightless,sightless,n
@@ -95612,7 +95244,6 @@ magnificent,magnificent,magnificent,a
 panoramic,panoramic,panoramic,a
 backdrop,backdrop,backdrop,n
 stars,star,stars,n
-many,many,many,a
 neighbors,neighbor,neighbors,n
 top,top,top,a
 strong,strong,strong,a
@@ -95675,10 +95306,9 @@ penalty,penalty,penalty,n
 return,return,return,n
 eshrat,eshrat,eshrat,n
 year,year,year,n
-thought,thought,thought,n
-much,much,much,a
+thought,thought,thought,a
 room,room,room,n
-stole,stole,stole,a
+stole,stole,stole,n
 sponge,sponge,sponge,n
 cake,cake,cake,n
 hand,hand,hand,n
@@ -95793,7 +95423,7 @@ family,family,family,n
 hunger,hunger,hunger,n
 ironic,ironic,ironic,a
 father,father,father,n
-much,much,much,a
+sacrificed,sacrificed,sacrificed,a
 get,get,get,n
 ghetto,ghetto,ghetto,n
 security,security,security,n
@@ -96252,8 +95882,7 @@ care,care,care,n
 stuff,stuff,stuff,a
 moment,moment,moment,n
 understand,understand,understand,n
-holidays,holiday,holidays,n
-many,many,many,a
+holidays,holiday,holidays,a
 families,family,families,n
 daughters,daughter,daughters,n
 closer,closer,close,a
@@ -96479,7 +96108,6 @@ child,child,child,n
 example,example,example,n
 marriage,marriage,marriage,n
 custom,custom,custom,n
-many,many,many,a
 victims,victim,victims,n
 cause,cause,cause,n
 father,father,father,n
@@ -96542,7 +96170,7 @@ life,life,life,n
 feared,feared,feared,a
 ask,ask,ask,n
 quiet,quiet,quiet,a
-many,many,many,a
+bibi,bibi,bibi,n
 years,year,years,n
 days,day,days,n
 formal,formal,formal,a
@@ -97047,10 +96675,9 @@ question,question,question,a
 literature,literature,literature,n
 books,book,books,n
 important,important,important,a
-iran,iran,iran,n
-much,much,much,a
+iran,iran,iran,a
 repression,repression,repression,n
-many,many,many,a
+seldom,seldom,seldom,n
 hometown,hometown,hometown,a
 state,state,state,n
 mean,mean,mean,a
@@ -97131,7 +96758,7 @@ heart,heart,heart,n
 cyclone,cyclone,cyclone,n
 kansas,kansa,kansas,n
 river,river,river,n
-many,many,many,a
+mississippi,mississippi,mississippi,a
 cities,city,cities,n
 rivers,river,rivers,n
 forests,forest,forests,n
@@ -97280,7 +96907,6 @@ state,state,state,n
 affairs,affair,affairs,n
 due,due,due,a
 fact,fact,fact,n
-many,many,many,a
 dreams,dream,dreams,n
 ramin,ramin,ramin,n
 freedom,freedom,freedom,n
@@ -97429,7 +97055,6 @@ indolence,indolence,indolence,n
 real,real,real,a
 danger,danger,danger,n
 writer,writer,writer,n
-much,much,much,a
 possibility,possibility,possibility,n
 certainty,certainty,certainty,a
 persecution,persecution,persecution,n
@@ -97520,7 +97145,6 @@ books,book,books,n
 child,child,child,a
 mesmerized,mesmerized,mesmerized,a
 land,land,land,n
-much,much,much,a
 attention,attention,attention,n
 place,place,place,n
 dorothy,dorothy,dorothy,a
@@ -97725,7 +97349,6 @@ front,front,front,a
 congress,congress,congress,n
 bail,bail,bail,a
 imagination,imagination,imagination,n
-many,many,many,a
 help,help,help,n
 nation,nation,nation,n
 readers,reader,readers,n
@@ -97770,7 +97393,6 @@ dorothy,dorothy,dorothy,a
 companions,companion,companions,n
 oz,oz,oz,a
 power,power,power,n
-much,much,much,a
 sham,sham,sham,n
 belief,belief,belief,n
 weakness,weakness,weakness,n
@@ -97804,8 +97426,6 @@ fact,fact,fact,n
 materialism,materialism,materialism,n
 defined,defined,defined,a
 root,root,root,n
-many,many,many,a
-evils,evil,evils,n
 ironic,ironic,ironic,a
 salutary,salutary,salutary,a
 reminder,reminder,reminder,n
@@ -97838,7 +97458,7 @@ money,money,money,n
 know,know,know,n
 vital,vital,vital,a
 america,america,america,n
-many,many,many,a
+freedom,freedom,freedom,n
 fictional,fictional,fictional,a
 characters,character,characters,n
 claim,claim,claim,a
@@ -97942,8 +97562,8 @@ sisters,sister,sisters,n
 country,country,country,n
 immigrants,immigrant,immigrants,n
 case,case,case,n
+populated,populated,populated,a
 people,people,people,n
-many,many,many,a
 parts,part,parts,n
 globe,globe,globe,n
 restless,restless,restless,a
@@ -98023,8 +97643,6 @@ registers,register,registers,n
 injustice,injustice,injustice,n
 fact,fact,fact,n
 things,thing,things,n
-much,much,much,a
-live,live,live,a
 depends,depends,depends,n
 imagine,imagine,imagine,a
 writer,writer,writer,n
@@ -98121,7 +97739,6 @@ tehran,tehran,tehran,a
 jail,jail,jail,n
 name,name,name,n
 example,example,example,n
-many,many,many,a
 chevy,chevy,chevy,n
 chase,chase,chase,a
 hours,hour,hours,n
@@ -98266,7 +97883,6 @@ innovative,innovative,innovative,a
 champion,champion,champion,n
 women,woman,women,n
 rights,right,rights,n
-many,many,many,a
 age,age,age,n
 various,various,various,a
 political,political,political,a
@@ -98788,7 +98404,6 @@ felt,felt,felt,a
 insecure,insecure,insecure,n
 next,next,next,a
 years,year,years,n
-many,many,many,a
 jailed,jailed,jailed,a
 fled,fled,fled,a
 country,country,country,n
@@ -99181,7 +98796,6 @@ terrors,terror,terrors,n
 betray,betray,betray,a
 catcher,catcher,catcher,a
 opportunity,opportunity,opportunity,n
-baser,baser,base,a
 crime,crime,crime,n
 stain,stain,stain,a
 moral,moral,moral,a
@@ -99274,7 +98888,6 @@ dean,dean,dean,n
 yale,yale,yale,n
 law,law,law,n
 school,school,school,n
-many,many,many,a
 ways,way,ways,n
 slavery,slavery,slavery,n
 change,change,change,n
@@ -99468,8 +99081,8 @@ carefree,carefree,carefree,a
 reality,reality,reality,n
 dark,dark,dark,a
 days,day,days,n
-much,much,much,a
 anxiety,anxiety,anxiety,n
+fear,fear,fear,n
 war,war,war,n
 iraq,iraq,iraq,n
 constant,constant,constant,a
@@ -99505,7 +99118,6 @@ air,air,air,n
 traffic,traffic,traffic,n
 farah,farah,farah,n
 account,account,account,n
-much,much,much,a
 believer,believer,believer,n
 prisoner,prisoner,prisoner,n
 mind,mind,mind,n
@@ -99701,7 +99313,6 @@ single,single,single,a
 dream,dream,dream,n
 marge,marge,marge,n
 tells,tell,tells,n
-much,much,much,a
 man,man,man,n
 greatest,greatest,great,a
 dreams,dream,dreams,a
@@ -100489,6 +100100,7 @@ gala,gala,gala,n
 compliment,compliment,compliment,a
 book,book,book,n
 zeal,zeal,zeal,n
+tell,tell,tell,n
 courage,courage,courage,n
 something,something,something,n
 die,die,die,a
@@ -100620,7 +100232,7 @@ huck,huck,huck,a
 progenies,progeny,progenies,n
 faulkner,faulkner,faulkner,n
 fitzgerald,fitzgerald,fitzgerald,n
-much,much,much,a
+ellison,ellison,ellison,n
 popular,popular,popular,a
 culture,culture,culture,n
 movies,movie,movies,n
@@ -100688,7 +100300,6 @@ perfect,perfect,perfect,a
 marlowe,marlowe,marlowe,n
 world,world,world,n
 girl,girl,girl,a
-much,much,much,a
 wealthier,wealthier,wealthy,a
 discover,discover,discover,a
 end,end,end,n
@@ -100748,7 +100359,6 @@ fan,fan,fan,n
 mystery,mystery,mystery,n
 books,book,books,n
 significance,significance,significance,n
-many,many,many,a
 things,thing,things,n
 forbidden,forbidden,forbidden,a
 fruit,fruit,fruit,n
@@ -101242,7 +100852,6 @@ world,world,world,n
 university,university,university,n
 politics,politics,politics,n
 care,care,care,n
-america,america,america,a
 precincts,precinct,precincts,n
 time,time,time,n
 things,thing,things,n
@@ -101402,7 +101011,6 @@ little,little,little,a
 understanding,understanding,understanding,a
 mechanical,mechanical,mechanical,a
 devices,device,devices,n
-many,many,many,a
 owners,owner,owners,n
 nothing,nothing,nothing,n
 babbitt,babbitt,babbitt,n
@@ -101586,7 +101194,6 @@ become,become,become,n
 mighty,mighty,mighty,n
 profitable,profitable,profitable,a
 game,game,game,n
-many,many,many,a
 versions,version,versions,n
 student,student,student,n
 attend,attend,attend,a
@@ -101928,9 +101535,7 @@ individual,individual,individual,a
 public,public,public,a
 expense,expense,expense,n
 people,people,people,n
-much,much,much,a
-rand,rand,rand,n
-paul,paul,paul,n
+paul,paul,paul,a
 contention,contention,contention,n
 schools,school,schools,n
 fine,fine,fine,a
@@ -102092,7 +101697,7 @@ babbitt,babbitt,babbitt,n
 joys,joy,joys,n
 freedom,freedom,freedom,n
 perils,peril,perils,n
-many,many,many,a
+freedom,freedom,freedom,n
 perils,peril,perils,n
 best,best,best,a
 way,way,way,n
@@ -102285,7 +101890,6 @@ poet,poet,poet,n
 spirit,spirit,spirit,n
 funny,funny,funny,a
 babbitt,babbitt,babbitt,n
-many,many,many,a
 hours,hour,hours,n
 eternity,eternity,eternity,n
 stays,stay,stays,n
@@ -102313,7 +101917,6 @@ john,john,john,a
 jennison,jennison,jennison,n
 probable,probable,probable,a
 interesting,interesting,interesting,a
-much,much,much,a
 pleasure,pleasure,pleasure,n
 money,money,money,n
 babbitt,babbitt,babbitt,n
@@ -102429,7 +102032,6 @@ center,center,center,a
 creation,creation,creation,n
 kind,kind,kind,n
 freedom,freedom,freedom,n
-much,much,much,a
 course,course,course,n
 different,different,different,a
 kinds,kind,kinds,n
@@ -102437,7 +102039,6 @@ freedom,freedom,freedom,n
 kind,kind,kind,n
 precious,precious,precious,a
 hear,hear,hear,n
-much,much,much,a
 great,great,great,a
 outside,outside,outside,a
 world,world,world,n
@@ -102608,7 +102209,6 @@ clouds,cloud,clouds,n
 austere,austere,austere,a
 figure,figure,figure,n
 hope,hope,hope,n
-many,many,many,a
 utilitarian,utilitarian,utilitarian,a
 business,business,business,n
 educators,educator,educators,n
@@ -103511,9 +103111,8 @@ time,time,time,n
 southern,southern,southern,a
 fiction,fiction,fiction,n
 handle,handle,handle,n
+negro,negro,negro,n
 characters,character,characters,n
-much,much,much,a
-ease,ease,ease,n
 justice,justice,justice,n
 race,race,race,n
 understand,understand,understand,a
@@ -103683,8 +103282,7 @@ nothing,nothing,nothing,n
 decades,decade,decades,n
 death,death,death,n
 write,write,write,n
-much,much,much,a
-sight,sight,sight,n
+sight,sight,sight,a
 humiliation,humiliation,humiliation,n
 brutality,brutality,brutality,n
 physical,physical,physical,a
@@ -103843,7 +103441,7 @@ crop,crop,crop,n
 county,county,county,n
 day,day,day,n
 singer,singer,singer,n
-surprise,surprise,surprise,n
+surprise,surprise,surprise,a
 visit,visit,visit,n
 friend,friend,friend,n
 antonapoulos,antonapoulos,antonapoulos,a
@@ -103944,8 +103542,6 @@ football,football,football,n
 game,game,game,n
 demonstration,demonstration,demonstration,n
 question,question,question,n
-many,many,many,a
-friends,friend,friends,n
 take,take,take,n
 trouble,trouble,trouble,n
 address,address,address,a
@@ -103964,7 +103560,6 @@ former,former,former,a
 student,student,student,n
 radical,radical,radical,a
 ideas,idea,ideas,n
-many,many,many,a
 movement,movement,movement,n
 wanted,wanted,wanted,a
 companionship,companionship,companionship,n
@@ -104249,8 +103844,7 @@ await,await,await,n
 morning,morning,morning,n
 sun,sun,sun,a
 story,story,story,n
-ends,end,ends,n
-many,many,many,a
+matter,matter,matter,n
 years,year,years,n
 continue,continue,continue,a
 wait,wait,wait,n
@@ -104448,9 +104042,7 @@ abuse,abuse,abuse,n
 rewrite,rewrite,rewrite,a
 life,life,life,n
 story,story,story,n
-much,much,much,a
 life,life,life,n
-outsider,outsider,outsider,n
 interview,interview,interview,n
 strangers,stranger,strangers,n
 jimmy,jimmy,jimmy,n
@@ -104530,7 +104122,6 @@ original,original,original,a
 meaning,meaning,meaning,n
 actual,actual,actual,a
 difference,difference,difference,n
-much,much,much,a
 identifying,identifying,identifying,n
 subcultures,subculture,subcultures,n
 people,people,people,n
@@ -104664,6 +104255,7 @@ horrors,horror,horrors,n
 tell,tell,tell,n
 thirty,thirty,thirty,a
 years,year,years,n
+missed,missed,missed,a
 cadences,cadence,cadences,n
 capture,capture,capture,n
 negro,negro,negro,n
@@ -104737,8 +104329,8 @@ confusion,confusion,confusion,n
 know,know,know,a
 american,american,american,a
 dream,dream,dream,n
+become,become,become,a
 something,something,something,n
-much,much,much,a
 nightmare,nightmare,nightmare,a
 private,private,private,a
 domestic,domestic,domestic,a
@@ -104767,7 +104359,6 @@ writer,writer,writer,n
 order,order,order,n
 market,market,market,n
 book,book,book,n
-enough,enough,enough,a
 hazard,hazard,hazard,a
 james,james,james,n
 bible,bible,bible,a
@@ -104794,7 +104385,6 @@ particular,particular,particular,a
 order,order,order,n
 reveal,reveal,reveal,n
 something,something,something,n
-much,much,much,a
 larger,larger,large,a
 heavier,heavier,heavy,a
 particular,particular,particular,a
@@ -104846,7 +104436,6 @@ black,black,black,a
 woman,woman,woman,n
 search,search,search,n
 freedom,freedom,freedom,n
-many,many,many,a
 prominent,prominent,prominent,a
 black,black,black,a
 intellectuals,intellectual,intellectuals,n
@@ -104890,7 +104479,6 @@ destiny,destiny,destiny,a
 country,country,country,n
 destiny,destiny,destiny,n
 baldwin,baldwin,baldwin,n
-many,many,many,a
 thousands,thousand,thousands,n
 first,first,first,a
 step,step,step,n
@@ -104908,8 +104496,7 @@ shylock,shylock,shylock,n
 victim,victim,victim,a
 loveless,loveless,loveless,n
 education,education,education,n
-many,many,many,a
-schoolboys,schoolboy,schoolboys,n
+schoolboys,schoolboy,schoolboys,a
 detest,detest,detest,a
 shakespeare,shakespeare,shakespeare,n
 shakespeare,shakespeare,shakespeare,a
@@ -105022,7 +104609,6 @@ country,country,country,n
 privilege,privilege,privilege,a
 oppression,oppression,oppression,n
 look,look,look,n
-much,much,much,a
 charge,charge,charge,n
 students,student,students,n
 institutions,institution,institutions,n
@@ -105088,7 +104674,6 @@ world,world,world,n
 big,big,big,a
 bad,bad,bad,a
 wolf,wolf,wolf,n
-many,many,many,a
 guises,guise,guises,n
 pain,pain,pain,n
 live,live,live,n
@@ -105100,7 +104685,7 @@ time,time,time,n
 current,current,current,a
 assault,assault,assault,n
 literature,literature,literature,n
-many,many,many,a
+think,think,think,n
 useless,useless,useless,a
 irrelevant,irrelevant,irrelevant,a
 reflection,reflection,reflection,n
@@ -105358,7 +104943,6 @@ trethewey,trethewey,trethewey,a
 role,role,role,n
 poetry,poetry,poetry,n
 schools,school,schools,n
-many,many,many,a
 fine,fine,fine,a
 documentaries,documentary,documentaries,n
 civil,civil,civil,a
@@ -106048,7 +105632,6 @@ hearty,hearty,hearty,n
 crime,crime,crime,n
 crime,crime,crime,n
 shoulders,shoulder,shoulders,n
-much,much,much,a
 authority,authority,authority,n
 voice,voice,voice,n
 word,word,word,n
@@ -107409,7 +106992,6 @@ beats,beat,beats,n
 floor,floor,floor,n
 wall,wall,wall,n
 hurt,hurt,hurt,n
-much,much,much,a
 zohreh,zohreh,zohreh,n
 hakimi,hakimi,hakimi,n
 short,short,short,a
@@ -108023,8 +107605,6 @@ story,story,story,n
 sincerity,sincerity,sincerity,n
 countless,countless,countless,a
 lives,life,lives,n
-many,many,many,a
-lands,land,lands,n
 survival,survival,survival,a
 exceptional,exceptional,exceptional,a
 dead,dead,dead,a
@@ -108310,7 +107890,6 @@ women,woman,women,n
 unfairness,unfairness,unfairness,a
 system,system,system,n
 women,woman,women,n
-less,le,less,a
 power,power,power,n
 men,men,men,n
 fathers,father,fathers,n
@@ -108435,7 +108014,6 @@ hole,hole,hole,a
 mina,mina,mina,n
 mohtaram,mohtaram,mohtaram,a
 life,life,life,n
-much,much,much,a
 power,power,power,n
 small,small,small,a
 rectangular,rectangular,rectangular,a
@@ -108568,7 +108146,6 @@ brothers,brother,brothers,n
 high,high,high,a
 household,household,household,n
 hierarchy,hierarchy,hierarchy,n
-much,much,much,a
 freedom,freedom,freedom,n
 sisters,sister,sisters,n
 resent,resent,resent,n
@@ -108608,7 +108185,7 @@ wear,wear,wear,a
 privacy,privacy,privacy,n
 home,home,home,n
 shah,shah,shah,a
-much,much,much,a
+savak,savak,savak,a
 power,power,power,n
 time,time,time,n
 declare,declare,declare,n
@@ -108624,7 +108201,7 @@ affiliations,affiliation,affiliations,n
 tudeh,tudeh,tudeh,a
 constitutionalist,constitutionalist,constitutionalist,n
 regionalist,regionalist,regionalist,n
-many,many,many,a
+nationalist,nationalist,nationalist,n
 others,others,others,n
 illegal,illegal,illegal,a
 different,different,different,a
@@ -108799,7 +108376,7 @@ high,high,high,a
 school,school,school,n
 side,side,side,n
 river,river,river,n
-many,many,many,a
+neighborhood,neighborhood,neighborhood,n
 americans,american,americans,n
 table,table,table,a
 several,several,several,a
@@ -108833,8 +108410,6 @@ available,available,available,a
 market,market,market,n
 tell,tell,tell,n
 books,book,books,n
-much,much,much,a
-many,many,many,a
 things,thing,things,n
 society,society,society,n
 man,man,man,n
@@ -108859,7 +108434,6 @@ culture,culture,culture,n
 books,book,books,n
 dangerous,dangerous,dangerous,a
 word,word,word,n
-much,much,much,a
 power,power,power,n
 person,person,person,n
 criminal,criminal,criminal,a
@@ -109071,9 +108645,7 @@ morning,morning,morning,n
 pari,pari,pari,n
 salon,salon,salon,n
 taheri,taheri,taheri,n
-much,much,much,a
 freedom,freedom,freedom,n
-many,many,many,a
 choices,choice,choices,n
 thief,thief,thief,a
 stop,stop,stop,a
@@ -109158,7 +108730,6 @@ modern,modern,modern,a
 apartment,apartment,apartment,n
 modern,modern,modern,a
 area,area,area,n
-many,many,many,a
 american,american,american,a
 employees,employee,employees,n
 hospital,hospital,hospital,a
@@ -109322,7 +108893,6 @@ cardboard,cardboard,cardboard,n
 break,break,break,n
 last,last,last,a
 name,name,name,n
-many,many,many,a
 conversations,conversation,conversations,n
 imprisoned,imprisoned,imprisoned,a
 months,month,months,n
@@ -109350,7 +108920,7 @@ brothers,brother,brothers,n
 angry,angry,angry,a
 determined,determined,determined,a
 americans,american,americans,n
-much,much,much,a
+shah,shah,shah,a
 power,power,power,n
 lot,lot,lot,n
 offer,offer,offer,n
@@ -109700,7 +109270,6 @@ time,time,time,n
 others,others,others,n
 law,law,law,n
 years,year,years,n
-many,many,many,a
 americans,american,americans,n
 miserable,miserable,miserable,a
 drugs,drug,drugs,n
@@ -109786,7 +109355,7 @@ job,job,job,n
 family,family,family,n
 mine,mine,mine,a
 side,side,side,n
-many,many,many,a
+come,come,come,a
 big,big,big,a
 city,city,city,n
 escape,escape,escape,n
@@ -109842,7 +109411,6 @@ change,change,change,n
 laws,law,laws,n
 taheri,taheri,taheri,a
 crime,crime,crime,n
-much,much,much,a
 time,time,time,n
 evidence,evidence,evidence,n
 woman,woman,woman,n
@@ -109882,7 +109450,6 @@ celebration,celebration,celebration,n
 monarchy,monarchy,monarchy,n
 extravagant,extravagant,extravagant,a
 existence,existence,existence,n
-many,many,many,a
 people,people,people,n
 poverty,poverty,poverty,n
 shah,shah,shah,n
@@ -110067,7 +109634,6 @@ iran,iran,iran,n
 room,room,room,n
 airport,airport,airport,n
 hours,hour,hours,n
-many,many,many,a
 passports,passport,passports,n
 thrown,thrown,thrown,a
 jail,jail,jail,n
@@ -110280,6 +109846,7 @@ official,official,official,a
 opportunities,opportunity,opportunities,n
 women,woman,women,n
 situation,situation,situation,n
+prevailing,prevailing,prevailing,a
 paternalistic,paternalistic,paternalistic,a
 attitude,attitude,attitude,n
 amendment,amendment,amendment,n
@@ -110308,7 +109875,6 @@ caf,caf,caf,a
 miami,miami,miami,n
 friends,friend,friends,n
 wish,wish,wish,a
-much,much,much,a
 course,course,course,n
 part,part,part,n
 life,life,life,n
@@ -110384,8 +109950,8 @@ relationship,relationship,relationship,n
 faint,faint,faint,n
 smile,smile,smile,n
 face,face,face,n
-irony,irony,irony,a
-hospital,hospital,hospital,n
+irony,irony,irony,n
+hospital,hospital,hospital,a
 certain,certain,certain,a
 sense,sense,sense,n
 freedom,freedom,freedom,n
@@ -110421,7 +109987,6 @@ cause,cause,cause,n
 death,death,death,n
 mystery,mystery,mystery,a
 day,day,day,n
-many,many,many,a
 people,people,people,n
 savak,savak,savak,a
 group,group,group,n
@@ -110629,9 +110194,8 @@ pop,pop,pop,n
 singers,singer,singers,n
 googoosh,googoosh,googoosh,n
 stop,stop,stop,a
+performing,performing,performing,n
 years,year,years,n
-many,many,many,a
-iranians,iranian,iranians,n
 minorities,minority,minorities,n
 jews,jew,jews,n
 christians,christian,christians,n
@@ -110731,17 +110295,15 @@ phone,phone,phone,n
 call,call,call,n
 great,great,great,a
 neck,neck,neck,n
-many,many,many,a
+la,la,la,n
 iranians,iranian,iranians,n
 commiserated,commiserated,commiserated,a
 state,state,state,n
 things,thing,things,n
-much,much,much,a
 power,power,power,n
 course,course,course,n
 life,life,life,n
-much,much,much,a
-good,good,good,n
+good,good,good,a
 war,war,war,n
 iran,iran,iran,n
 iraq,iraq,iraq,n
@@ -110823,8 +110385,7 @@ hilton,hilton,hilton,n
 hotel,hotel,hotel,n
 parents,parent,parents,n
 last,last,last,a
-visit,visit,visit,n
-many,many,many,a
+visit,visit,visit,a
 street,street,street,n
 names,name,names,n
 ones,one,ones,n
@@ -110914,7 +110475,6 @@ despairing,despairing,despairing,n
 court,court,court,n
 zohreh,zohreh,zohreh,n
 case,case,case,n
-many,many,many,a
 young,young,young,a
 people,people,people,n
 chances,chance,chances,n
@@ -111357,7 +110917,7 @@ existence,existence,existence,n
 deeper,deeper,deep,a
 darker,darker,dark,n
 uncertainty,uncertainty,uncertainty,n
-many,many,many,a
+happened,happened,happened,a
 americans,american,americans,n
 miserable,miserable,miserable,a
 drugs,drug,drugs,n
@@ -111377,11 +110937,9 @@ community,community,community,n
 society,society,society,n
 death,death,death,n
 author,author,author,n
-much,much,much,a
 power,power,power,n
 course,course,course,n
 life,life,life,n
-much,much,much,a
 good,good,good,a
 page,page,page,n
 statement,statement,statement,n
@@ -111538,7 +111096,7 @@ vozara,vozara,vozara,a
 detention,detention,detention,n
 center,center,center,n
 prison,prison,prison,n
-many,many,many,a
+iran,iran,iran,n
 names,name,names,n
 privacy,privacy,privacy,n
 dignity,dignity,dignity,n
@@ -112256,7 +111814,7 @@ church,church,church,n
 pray,pray,pray,n
 touch,touch,touch,a
 iranians,iranian,iranians,n
-many,many,many,a
+turkey,turkey,turkey,a
 people,people,people,n
 bibles,bible,bibles,n
 friends,friend,friends,n
@@ -112570,7 +112128,6 @@ morning,morning,morning,n
 cigarette,cigarette,cigarette,n
 woman,woman,woman,n
 story,story,story,n
-many,many,many,a
 accounts,account,accounts,n
 desperation,desperation,desperation,n
 bars,bar,bars,n
@@ -112606,8 +112163,6 @@ blankets,blanket,blankets,n
 floor,floor,floor,n
 days,day,days,n
 inmates,inmate,inmates,n
-many,many,many,a
-rough,rough,rough,a
 loud,loud,loud,n
 leila,leila,leila,a
 basiji,basiji,basiji,n
@@ -112826,7 +112381,6 @@ believers,believer,believers,n
 group,group,group,n
 elderly,elderly,elderly,a
 ladies,lady,ladies,n
-many,many,many,a
 questions,question,questions,n
 islamic,islamic,islamic,a
 theology,theology,theology,n
@@ -112921,7 +112475,6 @@ lord,lord,lord,a
 friends,friend,friends,n
 usual,usual,usual,a
 police,police,police,n
-many,many,many,a
 others,others,others,n
 new,new,new,a
 testament,testament,testament,a
@@ -113120,6 +112673,7 @@ alarm,alarm,alarm,n
 clock,clock,clock,n
 leila,leila,leila,n
 cigarettes,cigarette,cigarettes,n
+improved,improved,improved,a
 toilets,toilet,toilets,n
 name,name,name,n
 name,name,name,n
@@ -113294,7 +112848,6 @@ questions,question,questions,n
 write,write,write,a
 answers,answer,answers,n
 questions,question,questions,n
-many,many,many,a
 times,time,times,n
 answers,answer,answers,n
 identical,identical,identical,a
@@ -114447,7 +114000,6 @@ news,news,news,n
 constitutional,constitutional,constitutional,a
 guarantee,guarantee,guarantee,n
 shock,shock,shock,a
-many,many,many,a
 country,country,country,n
 policemen,policeman,policemen,n
 law,law,law,n
@@ -114491,7 +114043,6 @@ door,door,door,n
 main,main,main,a
 prison,prison,prison,n
 huge,huge,huge,a
-many,many,many,a
 red,red,red,a
 brick,brick,brick,n
 buildings,building,buildings,n
@@ -114859,7 +114410,6 @@ celebrate,celebrate,celebrate,n
 prison,prison,prison,n
 wall,wall,wall,n
 people,people,people,n
-many,many,many,a
 inmates,inmate,inmates,n
 observe,observe,observe,a
 nowruz,nowruz,nowruz,a
@@ -115182,8 +114732,7 @@ women,woman,women,n
 nothing,nothing,nothing,n
 hard,hard,hard,a
 prisoner,prisoner,prisoner,n
-sima,sima,sima,a
-many,many,many,a
+sima,sima,sima,n
 kind,kind,kind,n
 friendly,friendly,friendly,a
 bail,bail,bail,a
@@ -115369,7 +114918,6 @@ awful,awful,awful,a
 week,week,week,n
 sausage,sausage,sausage,n
 horrible,horrible,horrible,a
-many,many,many,a
 prisoners,prisoner,prisoners,n
 time,time,time,n
 food,food,food,n
@@ -115453,7 +115001,6 @@ prisoners,prisoner,prisoners,n
 calmest,calmest,calm,a
 polite,polite,polite,a
 members,member,members,n
-many,many,many,a
 spent,spent,spent,a
 day,day,day,n
 productive,productive,productive,a
@@ -115611,7 +115158,6 @@ prisoner,prisoner,prisoner,n
 twenty,twenty,twenty,a
 hard,hard,hard,a
 tell,tell,tell,n
-much,much,much,a
 makeup,makeup,makeup,n
 clown,clown,clown,a
 makeup,makeup,makeup,n
@@ -115702,13 +115248,10 @@ portion,portion,portion,n
 authentic,authentic,authentic,a
 bible,bible,bible,n
 word,word,word,n
-many,many,many,a
-many,many,many,a
 prisoners,prisoner,prisoners,n
 read,read,read,a
 silent,silent,silent,a
 face,face,face,n
-much,much,much,a
 injustice,injustice,injustice,n
 birds,bird,birds,n
 freedom,freedom,freedom,n
@@ -115801,7 +115344,6 @@ snacks,snack,snacks,n
 poorest,poorest,poor,a
 prisoners,prisoner,prisoners,n
 anything,anything,anything,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 bed,bed,bed,a
 couple,couple,couple,n
@@ -115910,8 +115452,7 @@ custody,custody,custody,n
 speak,speak,speak,a
 lawyer,lawyer,lawyer,n
 hand,hand,hand,n
-many,many,many,a
-friends,friend,friends,n
+ward,ward,ward,a
 bolder,bolder,bold,a
 friendships,friendship,friendships,n
 worried,worried,worried,a
@@ -116159,7 +115700,6 @@ use,use,use,n
 telephone,telephone,telephone,n
 new,new,new,a
 evidence,evidence,evidence,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 islam,islam,islam,a
 pious,pious,pious,a
@@ -116185,7 +115725,6 @@ gain,gain,gain,n
 favor,favor,favor,n
 prison,prison,prison,n
 officials,official,officials,n
-many,many,many,a
 inmates,inmate,inmates,n
 imani,imani,imani,n
 islam,islam,islam,a
@@ -116203,7 +115742,6 @@ religious,religious,religious,a
 charade,charade,charade,n
 evin,evin,evin,a
 prison,prison,prison,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 motions,motion,motions,n
 felt,felt,felt,a
@@ -116345,7 +115883,7 @@ strength,strength,strength,n
 ability,ability,ability,n
 sleep,sleep,sleep,n
 conditions,condition,conditions,n
-much,much,much,a
+ill,ill,ill,a
 time,time,time,n
 evin,evin,evin,a
 several,several,several,a
@@ -116546,7 +116084,6 @@ bye,bye,bye,n
 silva,silva,silva,n
 shirin,shirin,shirin,n
 others,others,others,n
-much,much,much,a
 news,news,news,n
 transfer,transfer,transfer,n
 memories,memory,memories,n
@@ -116657,7 +116194,7 @@ ward,ward,ward,a
 conclude,conclude,conclude,n
 case,case,case,n
 unsuitable,unsuitable,unsuitable,a
-many,many,many,a
+asked,asked,asked,a
 criminals,criminal,criminals,n
 public,public,public,a
 side,side,side,n
@@ -116908,8 +116445,6 @@ cells,cell,cells,n
 upstairs,upstairs,upstairs,a
 women,woman,women,n
 whispers,whisper,whispers,n
-much,much,much,a
-warmer,warmer,warm,n
 friendship,friendship,friendship,a
 trust,trust,trust,n
 gossip,gossip,gossip,n
@@ -117127,8 +116662,6 @@ wall,wall,wall,n
 someone,someone,someone,n
 new,new,new,a
 home,home,home,n
-much,much,much,a
-see,see,see,n
 furniture,furniture,furniture,n
 small,small,small,a
 metal,metal,metal,n
@@ -117175,7 +116708,6 @@ news,news,news,n
 treatment,treatment,treatment,n
 likely,likely,likely,a
 get,get,get,n
-much,much,much,a
 sense,sense,sense,n
 anything,anything,anything,n
 iranian,iranian,iranian,a
@@ -118092,7 +117624,6 @@ shot,shot,shot,n
 woman,woman,woman,n
 cell,cell,cell,n
 cried,cried,cried,a
-much,much,much,a
 thought,thought,thought,n
 keep,keep,keep,a
 awake,awake,awake,n
@@ -118197,7 +117728,6 @@ final,final,final,a
 defense,defense,defense,n
 statements,statement,statements,n
 charges,charge,charges,n
-many,many,many,a
 times,time,times,n
 count,count,count,n
 jesus,jesus,jesus,n
@@ -118223,7 +117753,7 @@ heydarifar,heydarifar,heydarifar,n
 case,case,case,n
 regime,regime,regime,n
 publicity,publicity,publicity,n
-many,many,many,a
+worry,worry,worry,a
 eyes,eye,eyes,n
 case,case,case,n
 disappear,disappear,disappear,a
@@ -118581,7 +118111,6 @@ hilarious,hilarious,hilarious,a
 ran,ran,ran,n
 stairs,stair,stairs,n
 eager,eager,eager,a
-many,many,many,a
 dear,dear,dear,a
 friends,friend,friends,n
 absent,absent,absent,a
@@ -118837,7 +118366,7 @@ little,little,little,a
 clothes,clothes,clothes,n
 handful,handful,handful,a
 items,item,items,n
-much,much,much,a
+downstairs,downstairs,downstairs,a
 stuff,stuff,stuff,n
 guards,guard,guards,n
 beds,bed,beds,n
@@ -118862,8 +118391,8 @@ dolls,doll,dolls,n
 lots,lot,lots,n
 attention,attention,attention,n
 prisoners,prisoner,prisoners,n
-much,much,much,a
 room,room,room,n
+dolls,doll,dolls,n
 hangings,hanging,hangings,a
 decorations,decoration,decorations,n
 place,place,place,n
@@ -119027,7 +118556,6 @@ benevolent,benevolent,benevolent,n
 father,father,father,n
 sins,sin,sins,n
 foreign,foreign,foreign,a
-many,many,many,a
 muslims,muslim,muslims,n
 lives,life,lives,n
 god,god,god,a
@@ -119045,7 +118573,7 @@ arrests,arrest,arrests,n
 number,number,number,n
 women,woman,women,n
 parole,parole,parole,a
-many,many,many,a
+trickle,trickle,trickle,a
 new,new,new,a
 prisoners,prisoner,prisoners,n
 young,young,young,a
@@ -119269,7 +118797,6 @@ night,night,night,n
 prisoners,prisoner,prisoners,n
 prisoners,prisoner,prisoners,n
 criminals,criminal,criminals,n
-many,many,many,a
 people,people,people,n
 political,political,political,a
 prisoners,prisoner,prisoners,n
@@ -119355,7 +118882,7 @@ hour,hour,hour,n
 party,party,party,n
 officers,officer,officers,n
 arrested,arrested,arrested,a
-much,much,much,a
+find,find,find,a
 bail,bail,bail,n
 nobody,nobody,nobody,n
 christians,christian,christians,n
@@ -119372,7 +118899,6 @@ trouble,trouble,trouble,n
 feel,feel,feel,n
 christians,christian,christians,n
 afraid,afraid,afraid,a
-many,many,many,a
 things,thing,things,n
 hearts,heart,hearts,n
 encouraged,encouraged,encouraged,a
@@ -119410,7 +118936,7 @@ detention,detention,detention,n
 help,help,help,n
 iranian,iranian,iranian,a
 judges,judge,judges,n
-lenient,lenient,lenient,n
+accused,accused,accused,a
 prisoners,prisoner,prisoners,n
 mercy,mercy,mercy,n
 important,important,important,a
@@ -119476,7 +119002,6 @@ prison,prison,prison,n
 bursting,bursting,bursting,n
 stories,story,stories,n
 state,state,state,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 fraud,fraud,fraud,n
 nonviolent,nonviolent,nonviolent,a
@@ -119489,14 +119014,13 @@ first,first,first,a
 ones,one,ones,n
 ashraf,ashraf,ashraf,a
 camp,camp,camp,n
-many,many,many,a
+iraq,iraq,iraq,n
 mujahideen,mujahideen,mujahideen,a
 prisoners,prisoner,prisoners,n
 friends,friend,friends,n
 family,family,family,n
 iraqi,iraqi,iraqi,a
 soldiers,soldier,soldiers,n
-many,many,many,a
 refugees,refugee,refugees,n
 sure,sure,sure,a
 iraqi,iraqi,iraqi,a
@@ -119724,7 +119248,7 @@ marziyeh,marziyeh,marziyeh,n
 outside,outside,outside,a
 country,country,country,n
 iran,iran,iran,a
-many,many,many,a
+visit,visit,visit,n
 women,woman,women,n
 girls,girl,girls,n
 stay,stay,stay,a
@@ -120014,7 +119538,6 @@ husband,husband,husband,n
 mean,mean,mean,a
 certain,certain,certain,a
 death,death,death,n
-many,many,many,a
 women,woman,women,n
 countless,countless,countless,a
 stories,story,stories,n
@@ -120106,7 +119629,7 @@ prisoners,prisoner,prisoners,n
 organization,organization,organization,n
 signatures,signature,signatures,n
 lawyer,lawyer,lawyer,n
-many,many,many,a
+soheila,soheila,soheila,a
 men,men,men,n
 court,court,court,n
 possible,possible,possible,a
@@ -120118,7 +119641,6 @@ insane,insane,insane,n
 court,court,court,n
 streets,street,streets,n
 fourteen,fourteen,fourteen,a
-many,many,many,a
 men,men,men,n
 health,health,health,n
 care,care,care,n
@@ -120155,7 +119677,6 @@ year,year,year,n
 old,old,old,a
 girl,girl,girl,n
 suffer,suffer,suffer,n
-much,much,much,a
 murder,murder,murder,n
 save,save,save,n
 life,life,life,n
@@ -120571,7 +120092,6 @@ delay,delay,delay,n
 case,case,case,n
 likely,likely,likely,a
 guilty,guilty,guilty,a
-many,many,many,a
 others,others,others,n
 somebody,somebody,somebody,n
 order,order,order,n
@@ -120609,7 +120129,7 @@ grip,grip,grip,n
 slow,slow,slow,a
 progress,progress,progress,n
 case,case,case,n
-many,many,many,a
+next,next,next,a
 people,people,people,n
 cultural,cultural,cultural,a
 center,center,center,n
@@ -120661,7 +120181,7 @@ people,people,people,n
 flow,flow,flow,a
 prisoners,prisoner,prisoners,n
 public,public,public,a
-many,many,many,a
+picked,picked,picked,a
 women,woman,women,n
 ward,ward,ward,a
 maryam,maryam,maryam,n
@@ -120828,7 +120348,7 @@ something,something,something,n
 tell,tell,tell,n
 court,court,court,n
 execute,execute,execute,n
-much,much,much,a
+coax,coax,coax,a
 information,information,information,n
 possible,possible,possible,a
 killing,killing,killing,n
@@ -120877,11 +120397,9 @@ broken,broken,broken,a
 tired,tired,tired,a
 whole,whole,whole,a
 situation,situation,situation,n
-many,many,many,a
 people,people,people,n
-many,many,many,a
+lost,lost,lost,a
 friends,friend,friends,n
-hands,hand,hands,n
 merciless,merciless,merciless,a
 regime,regime,regime,a
 compassion,compassion,compassion,n
@@ -120934,8 +120452,7 @@ protests,protest,protests,n
 judges,judge,judges,n
 conditions,condition,conditions,n
 guards,guard,guards,n
-much,much,much,a
-stricter,stricter,strict,n
+stricter,stricter,strict,a
 prisoners,prisoner,prisoners,n
 outside,outside,outside,a
 morning,morning,morning,n
@@ -121090,7 +120607,7 @@ clear,clear,clear,a
 plans,plan,plans,n
 threat,threat,threat,n
 punishment,punishment,punishment,a
-many,many,many,a
+heard,heard,heard,n
 stories,story,stories,n
 women,woman,women,n
 troublemakers,troublemaker,troublemakers,n
@@ -121119,7 +120636,6 @@ mandatory,mandatory,mandatory,a
 trip,trip,trip,n
 turn,turn,turn,n
 ushered,ushered,ushered,a
-many,many,many,a
 inmates,inmate,inmates,n
 various,various,various,a
 illnesses,illness,illnesses,n
@@ -121456,7 +120972,6 @@ terrible,terrible,terrible,a
 food,food,food,n
 poor,poor,poor,a
 health,health,health,n
-many,many,many,a
 inmates,inmate,inmates,n
 stupid,stupid,stupid,a
 early,early,early,a
@@ -122070,14 +121585,12 @@ report,report,report,n
 contents,content,contents,n
 authorities,authority,authorities,n
 letters,letter,letters,n
-many,many,many,a
 english,english,english,a
 thing,thing,thing,n
 case,case,case,n
 order,order,order,n
 get,get,get,n
 letters,letter,letters,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 receive,receive,receive,a
 letters,letter,letters,n
@@ -122292,7 +121805,6 @@ prosecutor,prosecutor,prosecutor,n
 bail,bail,bail,n
 anyone,anyone,anyone,n
 help,help,help,n
-much,much,much,a
 money,money,money,n
 marziyeh,marziyeh,marziyeh,n
 months,month,months,n
@@ -122691,7 +122203,6 @@ evin,evin,evin,n
 prison,prison,prison,n
 guard,guard,guard,n
 gate,gate,gate,n
-many,many,many,a
 times,time,times,n
 spoken,spoken,spoken,a
 little,little,little,a
@@ -122753,6 +122264,7 @@ call,call,call,n
 meal,meal,meal,n
 wish,wish,wish,a
 somebody,somebody,somebody,n
+call,call,call,a
 moment,moment,moment,n
 enjoyable,enjoyable,enjoyable,a
 evin,evin,evin,a
@@ -122815,7 +122327,7 @@ jesus,jesus,jesus,n
 gospel,gospel,gospel,n
 good,good,good,a
 news,news,news,n
-many,many,many,a
+heard,heard,heard,n
 cases,case,cases,n
 news,news,news,n
 arrest,arrest,arrest,n
@@ -122853,7 +122365,6 @@ lunch,lunch,lunch,n
 home,home,home,n
 minutes,minute,minutes,n
 husband,husband,husband,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 unfair,unfair,unfair,a
 conditions,condition,conditions,n
@@ -123150,7 +122661,6 @@ friends,friend,friends,n
 close,close,close,a
 watch,watch,watch,n
 comfort,comfort,comfort,n
-much,much,much,a
 marziyeh,marziyeh,marziyeh,n
 nowruz,nowruz,nowruz,n
 word,word,word,n
@@ -123162,7 +122672,6 @@ surprise,surprise,surprise,n
 provincial,provincial,provincial,a
 court,court,court,n
 justice,justice,justice,n
-many,many,many,a
 heavy,heavy,heavy,a
 sentences,sentence,sentences,n
 executions,execution,executions,n
@@ -123405,7 +122914,6 @@ kurds,kurd,kurds,n
 cemetery,cemetery,cemetery,n
 marziyeh,marziyeh,marziyeh,n
 retrieve,retrieve,retrieve,n
-much,much,much,a
 injustice,injustice,injustice,n
 world,world,world,n
 guard,guard,guard,n
@@ -123492,7 +123000,6 @@ christian,christian,christian,a
 brothers,brother,brothers,n
 sisters,sister,sisters,n
 homes,home,homes,n
-many,many,many,a
 secret,secret,secret,a
 supporters,supporter,supporters,n
 country,country,country,n
@@ -123506,8 +123013,8 @@ journals,journal,journals,n
 imprisonment,imprisonment,imprisonment,a
 basis,basis,basis,n
 book,book,book,n
-many,many,many,a
 sessions,session,sessions,n
+intense,intense,intense,a
 first,first,first,a
 turkish,turkish,turkish,a
 authorities,authority,authorities,n
@@ -123683,7 +123190,6 @@ activity,activity,activity,n
 blasphemy,blasphemy,blasphemy,n
 subject,subject,subject,a
 execution,execution,execution,n
-many,many,many,a
 world,world,world,n
 prayed,prayed,prayed,n
 freedom,freedom,freedom,n
@@ -123762,7 +123268,6 @@ help,help,help,n
 light,light,light,a
 events,event,events,n
 iran,iran,iran,a
-many,many,many,a
 people,people,people,n
 similar,similar,similar,a
 difficult,difficult,difficult,a
@@ -123782,8 +123287,8 @@ time,time,time,n
 review,review,review,n
 conversations,conversation,conversations,n
 events,event,events,n
-spent,spent,spent,a
-much,much,much,a
+release,release,release,n
+next,next,next,a
 several,several,several,a
 weeks,week,weeks,n
 recollections,recollection,recollections,n
@@ -123860,7 +123365,6 @@ sadr,sadr,sadr,a
 highway,highway,highway,n
 iran,iran,iran,n
 authorities,authority,authorities,n
-many,many,many,a
 streets,street,streets,n
 grand,grand,grand,a
 ayatollah,ayatollah,ayatollah,n
@@ -123883,7 +123387,6 @@ islam,islam,islam,n
 self,self,self,n
 sacrifice,sacrifice,sacrifice,n
 state,state,state,n
-many,many,many,a
 iranians,iranian,iranians,n
 front,front,front,a
 lines,line,lines,n
@@ -124302,7 +123805,6 @@ regime,regime,regime,n
 charge,charge,charge,n
 washington,washington,washington,n
 indifference,indifference,indifference,n
-many,many,many,a
 times,time,times,n
 next,next,next,a
 hours,hour,hours,n
@@ -124323,7 +123825,6 @@ veterans,veteran,veterans,n
 iraq,iraq,iraq,a
 war,war,war,n
 possible,possible,possible,a
-many,many,many,a
 interviews,interview,interviews,n
 book,book,book,n
 agent,agent,agent,n
@@ -124350,7 +123851,6 @@ cries,cry,cries,n
 justify,justify,justify,a
 grip,grip,grip,n
 power,power,power,n
-much,much,much,a
 iranian,iranian,iranian,a
 society,society,society,n
 see,see,see,n
@@ -124477,7 +123977,6 @@ eyes,eye,eyes,n
 walls,wall,walls,n
 flight,flight,flight,n
 stairs,stair,stairs,n
-many,many,many,a
 thousands,thousand,thousands,n
 prisoners,prisoner,prisoners,n
 tortured,tortured,tortured,a
@@ -124900,7 +124399,6 @@ news,news,news,n
 reports,report,reports,n
 book,book,book,n
 possible,possible,possible,a
-many,many,many,a
 interviews,interview,interviews,n
 book,book,book,n
 habit,habit,habit,n
@@ -124960,7 +124458,6 @@ journalists,journalist,journalists,n
 bloggers,blogger,bloggers,n
 academics,academic,academics,n
 politicians,politician,politicians,n
-many,many,many,a
 others,others,others,n
 political,political,political,a
 charges,charge,charges,n
@@ -125119,7 +124616,6 @@ captors,captor,captors,n
 phone,phone,phone,n
 call,call,call,n
 get,get,get,n
-many,many,many,a
 articles,article,articles,n
 strategic,strategic,strategic,a
 research,research,research,n
@@ -125203,7 +124699,6 @@ mouth,mouth,mouth,n
 human,human,human,a
 rights,right,rights,n
 groups,group,groups,n
-many,many,many,a
 executions,execution,executions,n
 place,place,place,n
 kangaroo,kangaroo,kangaroo,n
@@ -125212,7 +124707,6 @@ trial,trial,trial,n
 group,group,group,n
 hangings,hanging,hangings,n
 headlines,headline,headlines,n
-many,many,many,a
 victims,victim,victims,n
 drug,drug,drug,n
 robbery,robbery,robbery,a
@@ -125247,7 +124741,6 @@ bahman,bahman,bahman,n
 fuss,fuss,fuss,a
 arrest,arrest,arrest,a
 media,medium,media,n
-many,many,many,a
 fans,fan,fans,n
 kurdish,kurdish,kurdish,a
 contacts,contact,contacts,n
@@ -125427,14 +124920,12 @@ admit,admit,admit,n
 crime,crime,crime,n
 commit,commit,commit,n
 forgiveness,forgiveness,forgiveness,a
-many,many,many,a
 recant,recant,recant,a
 lies,lie,lies,n
 information,information,information,n
 give,give,give,a
 head,head,head,n
 spun,spun,spun,n
-many,many,many,a
 hideous,hideous,hideous,a
 lies,lie,lies,n
 memorize,memorize,memorize,a
@@ -125480,8 +124971,6 @@ good,good,good,a
 amount,amount,amount,n
 someone,someone,someone,n
 copies,copy,copies,n
-much,much,much,a
-left,left,left,n
 agent,agent,agent,n
 want,want,want,a
 freed,freed,freed,n
@@ -125553,7 +125042,6 @@ iranians,iranian,iranians,n
 honesty,honesty,honesty,a
 best,best,best,a
 policy,policy,policy,n
-many,many,many,a
 others,others,others,n
 expedient,expedient,expedient,a
 lie,lie,lie,n
@@ -125609,7 +125097,6 @@ apparatus,apparatus,apparatus,n
 trivial,trivial,trivial,a
 information,information,information,n
 anyone,anyone,anyone,n
-many,many,many,a
 cases,case,cases,n
 apparent,apparent,apparent,a
 reason,reason,reason,n
@@ -125617,7 +125104,6 @@ routine,routine,routine,a
 part,part,part,n
 interrogation,interrogation,interrogation,n
 process,process,process,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 knew,knew,knew,a
 way,way,way,n
@@ -125663,7 +125149,6 @@ language,language,language,n
 feature,feature,feature,n
 movie,movie,movie,n
 films,film,films,n
-many,many,many,a
 top,top,top,a
 international,international,international,a
 awards,award,awards,n
@@ -125672,7 +125157,6 @@ authorities,authority,authorities,n
 screened,screened,screened,a
 country,country,country,n
 theaters,theater,theaters,n
-many,many,many,a
 independent,independent,independent,a
 filmmakers,filmmaker,filmmakers,n
 treated,treated,treated,a
@@ -125692,9 +125176,8 @@ compassionate,compassionate,compassionate,n
 younger,younger,young,a
 siblings,sibling,siblings,n
 families,family,families,n
-many,many,many,a
 poverty,poverty,poverty,n
-stricken,stricken,stricken,a
+stricken,stricken,stricken,n
 kurdish,kurdish,kurdish,a
 children,child,children,n
 starred,starred,starred,a
@@ -125705,7 +125188,6 @@ spat,spat,spat,a
 word,word,word,n
 jab,jab,jab,n
 dagger,dagger,dagger,n
-many,many,many,a
 couples,couple,couples,n
 precaution,precaution,precaution,n
 sigheh,sigheh,sigheh,a
@@ -125744,7 +125226,6 @@ camera,camera,camera,n
 tomorrow,tomorrow,tomorrow,n
 inevitable,inevitable,inevitable,a
 freed,freed,freed,n
-many,many,many,a
 political,political,political,a
 prisoners,prisoner,prisoners,n
 similar,similar,similar,a
@@ -125812,7 +125293,6 @@ police,police,police,n
 states,state,states,n
 videotaped,videotaped,videotaped,a
 confessions,confession,confessions,n
-many,many,many,a
 detainees,detainee,detainees,n
 room,room,room,n
 hallway,hallway,hallway,n
@@ -125835,7 +125315,6 @@ cloth,cloth,cloth,n
 camera,camera,camera,n
 javan,javan,javan,n
 camera,camera,camera,n
-many,many,many,a
 times,time,times,n
 rephrase,rephrase,rephrase,n
 sentences,sentence,sentences,n
@@ -125936,7 +125415,7 @@ saram,saram,saram,n
 farsi,farsi,farsi,a
 dirt,dirt,dirt,n
 head,head,head,n
-much,much,much,a
+iran,iran,iran,n
 write,write,write,a
 book,book,book,n
 help,help,help,n
@@ -126002,7 +125481,6 @@ force,force,force,n
 savak,savak,savak,n
 institution,institution,institution,n
 shah,shah,shah,n
-many,many,many,a
 people,people,people,n
 power,power,power,n
 revolution,revolution,revolution,n
@@ -126010,8 +125488,7 @@ perform,perform,perform,n
 role,role,role,n
 ministry,ministry,ministry,n
 agents,agent,agents,n
-many,many,many,a
-basij,basij,basij,a
+basij,basij,basij,n
 revolutionary,revolutionary,revolutionary,a
 guards,guard,guards,n
 places,place,places,n
@@ -126047,8 +125524,7 @@ ministry,ministry,ministry,n
 radical,radical,radical,a
 hard,hard,hard,a
 liners,liner,liners,n
-many,many,many,a
-continued,continued,continued,a
+thought,thought,thought,n
 work,work,work,n
 state,state,state,n
 intelligence,intelligence,intelligence,n
@@ -126178,7 +125654,6 @@ complain,complain,complain,n
 first,first,first,a
 time,time,time,n
 arrest,arrest,arrest,n
-bites,bite,bites,n
 build,build,build,n
 strength,strength,strength,n
 escape,escape,escape,n
@@ -126409,14 +125884,12 @@ rapprochement,rapprochement,rapprochement,a
 part,part,part,n
 tensions,tension,tensions,n
 high,high,high,a
-many,many,many,a
 internal,internal,internal,a
 power,power,power,n
 struggles,struggle,struggles,n
 challenges,challenge,challenges,n
 opposition,opposition,opposition,n
 eyes,eye,eyes,n
-many,many,many,a
 iranian,iranian,iranian,a
 officials,official,officials,n
 preservation,preservation,preservation,n
@@ -126485,7 +125958,7 @@ countries,country,countries,n
 world,world,world,n
 death,death,death,n
 rika,rika,rika,n
-many,many,many,a
+ditty,ditty,ditty,n
 iranians,iranian,iranians,n
 tehran,tehran,tehran,a
 suspicions,suspicion,suspicions,n
@@ -126732,10 +126205,7 @@ head,head,head,n
 grease,grease,grease,n
 hair,hair,hair,n
 body,body,body,n
-much,much,much,a
-skinnier,skinnier,skinny,a
-arrest,arrest,arrest,a
-counting,counting,counting,n
+skinnier,skinnier,skinny,n
 freedom,freedom,freedom,n
 next,next,next,a
 days,day,days,n
@@ -126779,7 +126249,6 @@ names,name,names,n
 reindeer,reindeer,reindeer,n
 star,star,star,n
 banner,banner,banner,n
-many,many,many,a
 iranians,iranian,iranians,n
 iran,iran,iran,a
 postrevolutionary,postrevolutionary,postrevolutionary,a
@@ -126830,7 +126299,6 @@ declaration,declaration,declaration,n
 human,human,human,a
 rights,right,rights,n
 see,see,see,n
-much,much,much,a
 anything,anything,anything,n
 iran,iran,iran,a
 state,state,state,n
@@ -126973,7 +126441,7 @@ mko,mko,mko,n
 scores,score,scores,n
 senior,senior,senior,a
 officials,official,officials,n
-many,many,many,a
+executed,executed,executed,a
 organization,organization,organization,n
 supporters,supporter,supporters,n
 base,base,base,n
@@ -126985,7 +126453,6 @@ side,side,side,n
 iran,iran,iran,n
 iraq,iraq,iraq,a
 war,war,war,n
-many,many,many,a
 iranians,iranian,iranians,n
 america,america,america,n
 iran,iran,iran,n
@@ -127055,7 +126522,6 @@ easier,easier,easy,a
 streets,street,streets,n
 guards,guard,guards,n
 prisoners,prisoner,prisoners,n
-much,much,much,a
 least,least,least,a
 regular,regular,regular,a
 prison,prison,prison,n
@@ -127068,7 +126534,6 @@ sent,sent,sent,a
 roya,roya,roya,n
 room,room,room,n
 murderers,murderer,murderers,n
-many,many,many,a
 husbands,husband,husbands,n
 way,way,way,n
 escape,escape,escape,n
@@ -127100,7 +126565,6 @@ significant,significant,significant,a
 progress,progress,progress,a
 drug,drug,drug,n
 addiction,addiction,addiction,n
-many,many,many,a
 critics,critic,critics,n
 authorities,authority,authorities,n
 enough,enough,enough,a
@@ -127620,7 +127084,6 @@ authorities,authority,authorities,n
 persian,persian,persian,a
 arrest,arrest,arrest,a
 popularity,popularity,popularity,n
-much,much,much,a
 chagrin,chagrin,chagrin,n
 iranian,iranian,iranian,a
 hard,hard,hard,a
@@ -127751,9 +127214,9 @@ difficulties,difficulty,difficulties,n
 economic,economic,economic,a
 problems,problem,problems,n
 crime,crime,crime,n
+rest,rest,rest,n
 world,world,world,n
-preferred,preferred,preferred,a
-watch,watch,watch,n
+watch,watch,watch,a
 foreign,foreign,foreign,a
 police,police,police,n
 dramas,drama,dramas,a
@@ -127774,7 +127237,7 @@ eyes,eye,eyes,n
 good,good,good,a
 news,news,news,n
 relative,relative,relative,n
-many,many,many,a
+bail,bail,bail,n
 women,woman,women,n
 cell,cell,cell,n
 imprisonment,imprisonment,imprisonment,a
@@ -127917,7 +127380,6 @@ chapter,chapter,chapter,n
 thirteen,thirteen,thirteen,a
 woman,woman,woman,n
 cell,cell,cell,n
-many,many,many,a
 hours,hour,hours,n
 days,day,days,n
 shut,shut,shut,a
@@ -127982,7 +127444,7 @@ hours,hour,hours,n
 days,day,days,n
 nights,night,nights,n
 woman,woman,woman,n
-much,much,much,a
+god,god,god,n
 disappointing,disappointing,disappointing,a
 death,death,death,n
 interrogation,interrogation,interrogation,n
@@ -128083,7 +127545,7 @@ people,people,people,n
 kind,kind,kind,n
 mind,mind,mind,n
 set,set,set,n
-much,much,much,a
+held,held,held,a
 power,power,power,n
 islamic,islamic,islamic,a
 republic,republic,republic,n
@@ -128103,7 +127565,6 @@ cell,cell,cell,n
 cast,cast,cast,n
 chador,chador,chador,n
 blankets,blanket,blankets,n
-many,many,many,a
 unfulfilled,unfulfilled,unfulfilled,a
 promises,promise,promises,n
 freed,freed,freed,a
@@ -128458,7 +127919,7 @@ consulting,consulting,consulting,n
 koran,koran,koran,n
 practice,practice,practice,n
 common,common,common,a
-many,many,many,a
+iran,iran,iran,n
 people,people,people,n
 fortune,fortune,fortune,a
 tellers,teller,tellers,n
@@ -128892,14 +128353,10 @@ hand,hand,hand,n
 palms,palm,palms,n
 sweat,sweat,sweat,n
 cell,cell,cell,n
-much,much,much,a
-lighter,lighter,light,a
 idea,idea,idea,n
 confession,confession,confession,n
 day,day,day,n
-stuck,stuck,stuck,a
 jail,jail,jail,n
-many,many,many,a
 years,year,years,n
 parents,parent,parents,n
 media,medium,media,n
@@ -129079,7 +128536,6 @@ interrogation,interrogation,interrogation,n
 true,true,true,a
 yesterday,yesterday,yesterday,n
 truth,truth,truth,n
-much,much,much,a
 help,help,help,n
 state,state,state,n
 department,department,department,n
@@ -129279,7 +128735,6 @@ human,human,human,a
 rights,right,rights,n
 activists,activist,activists,n
 mortazavi,mortazavi,mortazavi,n
-many,many,many,a
 activists,activist,activists,n
 students,student,students,n
 bloggers,blogger,bloggers,n
@@ -129482,7 +128937,6 @@ rights,right,rights,n
 drive,drive,drive,a
 businesses,business,businesses,n
 names,name,names,n
-many,many,many,a
 counterparts,counterpart,counterparts,n
 middle,middle,middle,a
 east,east,east,a
@@ -129508,7 +128962,6 @@ push,push,push,a
 laws,law,laws,n
 authorities,authority,authorities,n
 imprisoned,imprisoned,imprisoned,a
-many,many,many,a
 volunteers,volunteer,volunteers,n
 interrogator,interrogator,interrogator,a
 demand,demand,demand,n
@@ -129791,9 +129244,7 @@ last,last,last,a
 television,television,television,n
 women,woman,women,n
 glances,glance,glances,n
-heard,heard,heard,a
 question,question,question,n
-many,many,many,a
 times,time,times,n
 solitary,solitary,solitary,a
 confinement,confinement,confinement,n
@@ -129811,7 +129262,6 @@ islamic,islamic,islamic,a
 revolution,revolution,revolution,n
 baha,baha,baha,n
 leaders,leader,leaders,n
-many,many,many,a
 baha,baha,baha,n
 pressured,pressured,pressured,a
 renounce,renounce,renounce,n
@@ -129901,7 +129351,6 @@ court,court,court,n
 days,day,days,n
 mahvash,mahvash,mahvash,n
 strike,strike,strike,n
-much,much,much,a
 influence,influence,influence,n
 officials,official,officials,n
 waited,waited,waited,a
@@ -129981,7 +129430,6 @@ pre,pre,pre,a
 islamic,islamic,islamic,a
 iranian,iranian,iranian,a
 culture,culture,culture,n
-much,much,much,a
 national,national,national,a
 support,support,support,n
 iran,iran,iran,a
@@ -130138,6 +129586,7 @@ achaemenian,achaemenian,achaemenian,a
 empire,empire,empire,n
 days,day,days,n
 easier,easier,easy,a
+first,first,first,a
 weeks,week,weeks,n
 solitary,solitary,solitary,a
 confinement,confinement,confinement,n
@@ -130479,7 +129928,7 @@ found,found,found,a
 second,second,second,a
 lawyer,lawyer,lawyer,n
 office,office,office,n
-many,many,many,a
+saw,saw,saw,n
 news,news,news,n
 articles,article,articles,n
 wall,wall,wall,n
@@ -130662,8 +130111,9 @@ defend,defend,defend,n
 judge,judge,judge,n
 question,question,question,n
 confession,confession,confession,n
-many,many,many,a
+threatened,threatened,threatened,a
 years,year,years,n
+prison,prison,prison,n
 freedom,freedom,freedom,n
 seconds,second,seconds,n
 saberi,saberi,saberi,a
@@ -130882,7 +130332,6 @@ interrogation,interrogation,interrogation,n
 room,room,room,n
 wall,wall,wall,n
 unaware,unaware,unaware,a
-many,many,many,a
 men,men,men,n
 know,know,know,a
 brought,brought,brought,a
@@ -131019,7 +130468,6 @@ several,several,several,a
 minutes,minute,minutes,n
 lawyer,lawyer,lawyer,n
 number,number,number,n
-many,many,many,a
 years,year,years,n
 remain,remain,remain,a
 jail,jail,jail,a
@@ -131357,7 +130805,6 @@ states,state,states,n
 shahroudi,shahroudi,shahroudi,n
 meant,meant,meant,n
 way,way,way,n
-much,much,much,a
 power,power,power,n
 hard,hard,hard,a
 liners,liner,liners,n
@@ -131629,7 +131076,6 @@ regime,regime,regime,n
 name,name,name,n
 islam,islam,islam,n
 authorities,authority,authorities,n
-many,many,many,a
 lies,lie,lies,n
 economic,economic,economic,a
 welfare,welfare,welfare,n
@@ -132238,7 +131684,6 @@ baby,baby,baby,n
 face,face,face,n
 first,first,first,a
 trial,trial,trial,n
-many,many,many,a
 classified,classified,classified,a
 documents,document,documents,n
 smitten,smitten,smitten,a
@@ -132372,7 +131817,7 @@ several,several,several,a
 questions,question,questions,n
 book,book,book,n
 know,know,know,a
-many,many,many,a
+interviewed,interviewed,interviewed,a
 people,people,people,n
 time,time,time,n
 trial,trial,trial,n
@@ -132420,7 +131865,6 @@ strength,strength,strength,n
 courage,courage,courage,n
 patience,patience,patience,n
 sentence,sentence,sentence,n
-many,many,many,a
 years,year,years,n
 short,short,short,a
 sentence,sentence,sentence,n
@@ -132557,7 +132001,6 @@ tone,tone,tone,n
 blankets,blanket,blankets,n
 fellow,fellow,fellow,a
 guards,guard,guards,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 ready,ready,ready,a
 skinny,skinny,skinny,n
@@ -132660,7 +132103,7 @@ pursuit,pursuit,pursuit,n
 basic,basic,basic,a
 human,human,human,a
 rights,right,rights,n
-many,many,many,a
+beliefs,belief,beliefs,n
 others,others,others,n
 day,day,day,n
 friend,friend,friend,n
@@ -132782,7 +132225,6 @@ analysts,analyst,analysts,n
 others,others,others,n
 case,case,case,n
 similar,similar,similar,a
-many,many,many,a
 people,people,people,n
 iranian,iranian,iranian,a
 prisons,prison,prisons,n
@@ -132801,9 +132243,7 @@ conscience,conscience,conscience,n
 numerous,numerous,numerous,a
 prisoners,prisoner,prisoners,n
 treatment,treatment,treatment,n
-much,much,much,a
 others,others,others,n
-many,many,many,a
 people,people,people,n
 iran,iran,iran,a
 held,held,held,n
@@ -132838,7 +132278,7 @@ become,become,become,a
 agents,agent,agents,n
 regime,regime,regime,a
 world,world,world,n
-much,much,much,a
+heard,heard,heard,n
 use,use,use,n
 methods,method,methods,n
 aftermath,aftermath,aftermath,n
@@ -132897,7 +132337,6 @@ ahmadinejad,ahmadinejad,ahmadinejad,a
 reelection,reelection,reelection,n
 death,death,death,n
 least,least,least,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 confess,confess,confess,a
 repent,repent,repent,n
@@ -133030,7 +132469,6 @@ haddad,haddad,haddad,n
 days,day,days,n
 authorities,authority,authorities,n
 decision,decision,decision,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 recant,recant,recant,a
 freed,freed,freed,n
@@ -133044,7 +132482,6 @@ people,people,people,n
 today,today,today,n
 author,author,author,n
 abrahamian,abrahamian,abrahamian,a
-many,many,many,a
 confessions,confession,confessions,n
 human,human,human,a
 sign,sign,sign,n
@@ -133066,7 +132503,6 @@ prisoners,prisoner,prisoners,n
 social,social,social,a
 hubs,hub,hubs,n
 contacts,contact,contacts,n
-many,many,many,a
 people,people,people,n
 reason,reason,reason,n
 interrogators,interrogator,interrogators,n
@@ -133080,8 +132516,6 @@ captors,captor,captors,n
 interrogators,interrogator,interrogators,n
 part,part,part,n
 interrogation,interrogation,interrogation,n
-many,many,many,a
-inmates,inmate,inmates,n
 intimate,intimate,intimate,a
 relations,relation,relations,n
 true,true,true,a
@@ -133168,7 +132602,6 @@ imprisonment,imprisonment,imprisonment,a
 confession,confession,confession,n
 validity,validity,validity,n
 custody,custody,custody,a
-many,many,many,a
 people,people,people,n
 understand,understand,understand,a
 reasons,reason,reasons,n
@@ -133368,7 +132801,6 @@ help,help,help,n
 occasional,occasional,occasional,a
 nightmares,nightmare,nightmares,n
 time,time,time,n
-many,many,many,a
 former,former,former,a
 prisoners,prisoner,prisoners,n
 emotional,emotional,emotional,a
@@ -133499,7 +132931,6 @@ institute,institute,institute,n
 rotary,rotary,rotary,a
 international,international,international,a
 imprisonment,imprisonment,imprisonment,n
-many,many,many,a
 groups,group,groups,n
 iranian,iranian,iranian,a
 authorities,authority,authorities,n
@@ -134010,7 +133441,6 @@ prisoners,prisoner,prisoners,n
 iran,iran,iran,a
 prisons,prison,prisons,n
 february,february,february,a
-many,many,many,a
 former,former,former,a
 current,current,current,a
 basij,basij,basij,n
@@ -134279,7 +133709,7 @@ mindful,mindful,mindful,a
 moments,moment,moments,n
 risk,risk,risk,n
 destruction,destruction,destruction,n
-much,much,much,a
+madness,madness,madness,n
 product,product,product,n
 historical,historical,historical,a
 processes,process,processes,n
@@ -134392,7 +133822,6 @@ torn,torn,torn,a
 contradictory,contradictory,contradictory,n
 feelings,feeling,feelings,n
 family,family,family,n
-much,much,much,a
 fear,fear,fear,n
 hardship,hardship,hardship,n
 humiliation,humiliation,humiliation,n
@@ -134610,8 +134039,6 @@ united,united,united,a
 states,state,states,n
 world,world,world,n
 techniques,technique,techniques,n
-much,much,much,a
-detail,detail,detail,n
 frozen,frozen,frozen,a
 stare,stare,stare,n
 woman,woman,woman,n
@@ -134721,7 +134148,7 @@ save,save,save,n
 witnessing,witnessing,witnessing,n
 horrific,horrific,horrific,a
 devices,device,devices,n
-many,many,many,a
+scarred,scarred,scarred,a
 women,woman,women,n
 meet,meet,meet,a
 jail,jail,jail,a
@@ -134839,7 +134266,7 @@ name,name,name,n
 wall,wall,wall,n
 horrific,horrific,horrific,n
 dungeon,dungeon,dungeon,n
-many,many,many,a
+names,name,names,n
 others,others,others,n
 place,place,place,n
 shah,shah,shah,n
@@ -134853,7 +134280,6 @@ regimes,regime,regimes,n
 years,year,years,n
 interrogators,interrogator,interrogators,n
 government,government,government,n
-many,many,many,a
 opponents,opponent,opponents,n
 unity,unity,unity,a
 live,live,live,a
@@ -134974,8 +134400,6 @@ cynical,cynical,cynical,a
 semi,semi,semi,a
 spring,spring,spring,n
 freedom,freedom,freedom,n
-many,many,many,a
-tortured,tortured,tortured,a
 friends,friend,friends,n
 cacophony,cacophony,cacophony,a
 laughter,laughter,laughter,n
@@ -135092,8 +134516,8 @@ ground,ground,ground,n
 radio,radio,radio,n
 fame,fame,fame,a
 demonstrations,demonstration,demonstrations,n
+utmost,utmost,utmost,a
 brutality,brutality,brutality,n
-many,many,many,a
 legendary,legendary,legendary,a
 dissidents,dissident,dissidents,n
 knowledge,knowledge,knowledge,n
@@ -135315,7 +134739,6 @@ feel,feel,feel,n
 knew,knew,knew,a
 stance,stance,stance,n
 court,court,court,n
-much,much,much,a
 harsher,harsher,harsh,a
 sentence,sentence,sentence,n
 months,month,months,n
@@ -135363,7 +134786,7 @@ prisoners,prisoner,prisoners,n
 letters,letter,letters,n
 shah,shah,shah,a
 release,release,release,n
-many,many,many,a
+november,november,november,a
 others,others,others,n
 ask,ask,ask,a
 pardon,pardon,pardon,n
@@ -135555,7 +134978,6 @@ country,country,country,n
 able,able,able,a
 leave,leave,leave,a
 country,country,country,n
-many,many,many,a
 risk,risk,risk,n
 unofficial,unofficial,unofficial,a
 release,release,release,n
@@ -135683,7 +135105,7 @@ baffled,baffled,baffled,a
 running,running,running,n
 regime,regime,regime,n
 conditions,condition,conditions,n
-many,many,many,a
+sort,sort,sort,n
 prisoners,prisoner,prisoners,n
 years,year,years,n
 time,time,time,n
@@ -135788,9 +135210,8 @@ rape,rape,rape,n
 young,young,young,a
 women,woman,women,n
 interrogators,interrogator,interrogators,n
+circulated,circulated,circulated,a
 populace,populace,populace,n
-much,much,much,a
-regime,regime,regime,n
 years,year,years,n
 prison,prison,prison,a
 parents,parent,parents,n
@@ -135899,10 +135320,8 @@ way,way,way,n
 visit,visit,visit,n
 cemetery,cemetery,cemetery,n
 dissidents,dissident,dissidents,n
-many,many,many,a
 friends,friend,friends,n
-little,little,little,a
-know,know,know,a
+lay,lay,lay,a
 short,short,short,a
 footsteps,footstep,footsteps,a
 giants,giant,giants,n
@@ -135911,7 +135330,6 @@ freedom,freedom,freedom,n
 prisons,prison,prisons,n
 ten,ten,ten,a
 times,time,times,n
-many,many,many,a
 people,people,people,n
 second,second,second,a
 single,single,single,a
@@ -135953,14 +135371,12 @@ women,woman,women,n
 rapid,rapid,rapid,a
 political,political,political,a
 suppression,suppression,suppression,n
-many,many,many,a
-lives,life,lives,n
+sweep,sweep,sweep,n
 new,new,new,a
 regime,regime,regime,n
 power,power,power,n
 shoulders,shoulder,shoulders,n
 fact,fact,fact,n
-many,many,many,a
 others,others,others,n
 scale,scale,scale,a
 severity,severity,severity,n
@@ -136094,7 +135510,6 @@ necessity,necessity,necessity,n
 regime,regime,regime,n
 confidence,confidence,confidence,n
 assumption,assumption,assumption,n
-many,many,many,a
 dissidents,dissident,dissidents,n
 remainder,remainder,remainder,n
 state,state,state,n
@@ -136205,7 +135620,7 @@ state,state,state,n
 denunciation,denunciation,denunciation,n
 condition,condition,condition,n
 prisoners,prisoner,prisoners,n
-many,many,many,a
+saw,saw,saw,a
 changes,change,changes,n
 basic,basic,basic,a
 demand,demand,demand,n
@@ -136256,7 +135671,6 @@ pressure,pressure,pressure,n
 negotiation,negotiation,negotiation,n
 regime,regime,regime,a
 aware,aware,aware,a
-many,many,many,a
 resistant,resistant,resistant,a
 prisoners,prisoner,prisoners,n
 temporary,temporary,temporary,a
@@ -136390,7 +135804,6 @@ day,day,day,n
 prison,prison,prison,n
 solitary,solitary,solitary,a
 confinement,confinement,confinement,n
-many,many,many,a
 rounds,round,rounds,n
 first,first,first,a
 solitary,solitary,solitary,a
@@ -136421,9 +135834,8 @@ next,next,next,a
 provincial,provincial,provincial,a
 town,town,town,n
 family,family,family,n
-much,much,much,a
 modest,modest,modest,a
-means,mean,means,n
+mine,mine,mine,a
 father,father,father,n
 wishes,wish,wishes,a
 request,request,request,n
@@ -136692,8 +136104,7 @@ intolerance,intolerance,intolerance,n
 state,state,state,n
 dead,dead,dead,a
 dissidents,dissident,dissidents,n
-much,much,much,a
-rest,rest,rest,n
+place,place,place,n
 remain,remain,remain,n
 visible,visible,visible,a
 dead,dead,dead,a
@@ -136748,7 +136159,6 @@ families,family,families,n
 present,present,present,a
 process,process,process,a
 burial,burial,burial,a
-many,many,many,a
 occasions,occasion,occasions,n
 families,family,families,n
 location,location,location,n
@@ -136815,10 +136225,8 @@ government,government,government,n
 way,way,way,n
 hamid,hamid,hamid,a
 friends,friend,friends,n
-much,much,much,a
-guilt,guilt,guilt,n
-talk,talk,talk,n
-father,father,father,n
+guilt,guilt,guilt,a
+father,father,father,a
 gesture,gesture,gesture,n
 heart,heart,heart,n
 innocent,innocent,innocent,a
@@ -137101,7 +136509,6 @@ others,others,others,n
 collaborators,collaborator,collaborators,n
 former,former,former,a
 cellmates,cellmates,cellmates,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 withdrawn,withdrawn,withdrawn,n
 inmates,inmate,inmates,n
@@ -137521,8 +136928,6 @@ cruelty,cruelty,cruelty,n
 islamic,islamic,islamic,a
 state,state,state,n
 west,west,west,a
-many,many,many,a
-iranians,iranian,iranians,n
 intimate,intimate,intimate,a
 personal,personal,personal,a
 experience,experience,experience,n
@@ -137561,8 +136966,7 @@ questions,question,questions,n
 court,court,court,n
 life,life,life,n
 death,death,death,n
-many,many,many,a
-male,male,male,a
+male,male,male,n
 prisoners,prisoner,prisoners,n
 regime,regime,regime,a
 conditions,condition,conditions,n
@@ -137611,7 +137015,6 @@ accepted,accepted,accepted,a
 prisoners,prisoner,prisoners,n
 blurry,blurry,blurry,a
 boundaries,boundary,boundaries,n
-many,many,many,a
 political,political,political,a
 prisoners,prisoner,prisoners,n
 interrogation,interrogation,interrogation,n
@@ -137651,7 +137054,6 @@ identities,identity,identities,n
 physical,physical,physical,a
 appearance,appearance,appearance,n
 prisoners,prisoner,prisoners,n
-many,many,many,a
 boundaries,boundary,boundaries,n
 invisible,invisible,invisible,a
 walls,wall,walls,n
@@ -137838,13 +137240,11 @@ distinction,distinction,distinction,n
 imaginary,imaginary,imaginary,a
 real,real,real,a
 torment,torment,torment,n
-many,many,many,a
 world,world,world,n
 nightmares,nightmare,nightmares,n
 terrain,terrain,terrain,a
 perplexity,perplexity,perplexity,n
-many,many,many,a
-inmates,inmate,inmates,n
+screamed,screamed,screamed,a
 kept,kept,kept,a
 busy,busy,busy,a
 day,day,day,n
@@ -137925,15 +137325,11 @@ ghezel,ghezel,ghezel,a
 hesar,hesar,hesar,n
 last,last,last,a
 months,month,months,n
-many,many,many,a
 interrogation,interrogation,interrogation,n
 torture,torture,torture,n
 listen,listen,listen,a
 confessions,confession,confessions,n
 prisoners,prisoner,prisoners,n
-many,many,many,a
-close,close,close,a
-friends,friend,friends,n
 prisoners,prisoner,prisoners,n
 haji,haji,haji,a
 davoud,davoud,davoud,n
@@ -137941,7 +137337,6 @@ dastgah,dastgah,dastgah,n
 collaborate,collaborate,collaborate,a
 interrogators,interrogator,interrogators,n
 information,information,information,n
-many,many,many,a
 torture,torture,torture,n
 rooms,room,rooms,n
 place,place,place,n
@@ -138081,8 +137476,8 @@ noise,noise,noise,a
 long,long,long,a
 day,day,day,n
 least,least,least,a
+felt,felt,felt,a
 eyes,eye,eyes,n
-many,many,many,a
 people,people,people,n
 ward,ward,ward,a
 guard,guard,guard,n
@@ -138111,7 +137506,7 @@ homa,homa,homa,n
 kalhor,kalhor,kalhor,n
 head,head,head,n
 ward,ward,ward,n
-much,much,much,a
+friend,friend,friend,n
 pale,pale,pale,a
 vomit,vomit,vomit,a
 melancholic,melancholic,melancholic,a
@@ -138806,7 +138201,6 @@ mess,mess,mess,n
 funny,funny,funny,a
 idea,idea,idea,n
 superstitious,superstitious,superstitious,a
-many,many,many,a
 modern,modern,modern,a
 intellectuals,intellectual,intellectuals,n
 action,action,action,n
@@ -139427,7 +138821,6 @@ speak,speak,speak,a
 silence,silence,silence,n
 noisy,noisy,noisy,a
 world,world,world,n
-many,many,many,a
 words,word,words,n
 silence,silence,silence,n
 compare,compare,compare,a
@@ -139491,7 +138884,6 @@ days,day,days,n
 torture,torture,torture,n
 room,room,room,n
 behrouz,behrouz,behrouz,n
-much,much,much,a
 fozi,fozi,fozi,n
 behrouz,behrouz,behrouz,a
 close,close,close,a
@@ -139680,7 +139072,6 @@ reza,reza,reza,n
 name,name,name,n
 ghost,ghost,ghost,n
 outrage,outrage,outrage,n
-much,much,much,a
 subversive,subversive,subversive,a
 knowledge,knowledge,knowledge,n
 reza,reza,reza,n
@@ -139785,7 +139176,6 @@ torture,torture,torture,n
 intact,intact,intact,a
 soudi,soudi,soudi,a
 questions,question,questions,n
-many,many,many,a
 certain,certain,certain,a
 fact,fact,fact,n
 soudi,soudi,soudi,n
@@ -139801,9 +139191,7 @@ torture,torture,torture,n
 light,light,light,a
 death,death,death,n
 connects,connects,connects,n
-much,much,much,a
 life,life,life,n
-many,many,many,a
 others,others,others,n
 lives,life,lives,n
 embrace,embrace,embrace,n
@@ -140052,8 +139440,8 @@ attempt,attempt,attempt,n
 casual,casual,casual,a
 dinner,dinner,dinner,n
 pain,pain,pain,n
+suffering,suffering,suffering,a
 torture,torture,torture,n
-many,many,many,a
 years,year,years,n
 numb,numb,numb,a
 interrogator,interrogator,interrogator,n
@@ -140183,8 +139571,8 @@ power,power,power,n
 resistance,resistance,resistance,n
 cannot,cannot,cannot,n
 body,body,body,n
-many,many,many,a
 times,time,times,n
+hit,hit,hit,a
 shakar,shakar,shakar,n
 hatred,hatred,hatred,a
 manifest,manifest,manifest,a
@@ -140207,7 +139595,7 @@ day,day,day,n
 hands,hand,hands,n
 hands,hand,hands,a
 criminal,criminal,criminal,a
-many,many,many,a
+watch,watch,watch,n
 fathers,father,fathers,n
 sons,son,sons,n
 sons,son,sons,n
@@ -140247,8 +139635,7 @@ kind,kind,kind,n
 pain,pain,pain,n
 suppress,suppress,suppress,n
 bring,bring,bring,a
-much,much,much,a
-injury,injury,injury,n
+injury,injury,injury,a
 anyone,anyone,anyone,n
 subjection,subjection,subjection,n
 torture,torture,torture,n
@@ -140478,7 +139865,6 @@ rage,rage,rage,n
 clubs,club,clubs,n
 logical,logical,logical,a
 decision,decision,decision,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 sign,sign,sign,a
 renunciation,renunciation,renunciation,n
@@ -140597,7 +139983,7 @@ situation,situation,situation,n
 constant,constant,constant,a
 fear,fear,fear,n
 pressure,pressure,pressure,n
-many,many,many,a
+shame,shame,shame,a
 moral,moral,moral,a
 ethical,ethical,ethical,a
 dilemmas,dilemma,dilemmas,n
@@ -140620,7 +140006,7 @@ forty,forty,forty,a
 women,woman,women,n
 bar,bar,bar,n
 soap,soap,soap,n
-many,many,many,a
+vagina,vagina,vagina,n
 prisoners,prisoner,prisoners,n
 frightened,frightened,frightened,a
 agitated,agitated,agitated,a
@@ -140702,7 +140088,6 @@ wet,wet,wet,a
 hands,hand,hands,n
 prison,prison,prison,n
 officials,official,officials,n
-many,many,many,a
 collaborators,collaborator,collaborators,n
 fozi,fozi,fozi,a
 insane,insane,insane,n
@@ -141280,7 +140665,7 @@ hamid,hamid,hamid,n
 bare,bare,bare,a
 life,life,life,n
 truth,truth,truth,n
-many,many,many,a
+hamid,hamid,hamid,a
 prisoners,prisoner,prisoners,n
 surrender,surrender,surrender,n
 regime,regime,regime,n
@@ -141618,7 +141003,6 @@ brutality,brutality,brutality,n
 difficult,difficult,difficult,a
 conditions,condition,conditions,n
 wards,ward,wards,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 tactical,tactical,tactical,a
 retreat,retreat,retreat,n
@@ -141713,7 +141097,6 @@ defeats,defeat,defeats,n
 extreme,extreme,extreme,a
 pressure,pressure,pressure,n
 incited,incited,incited,a
-many,many,many,a
 prisoners,prisoner,prisoners,n
 less,le,less,a
 direct,direct,direct,a
@@ -141759,7 +141142,6 @@ several,several,several,a
 movements,movement,movements,n
 women,woman,women,n
 prisoners,prisoner,prisoners,n
-many,many,many,a
 women,woman,women,n
 regime,regime,regime,a
 conditions,condition,conditions,n
@@ -141780,7 +141162,6 @@ difficult,difficult,difficult,a
 time,time,time,n
 room,room,room,n
 prisoners,prisoner,prisoners,n
-many,many,many,a
 scream,scream,scream,a
 noises,noise,noises,n
 summer,summer,summer,n
@@ -141805,7 +141186,6 @@ behavior,behavior,behavior,n
 solitary,solitary,solitary,a
 confinement,confinement,confinement,n
 guards,guard,guards,n
-much,much,much,a
 deprive,deprive,deprive,a
 opportunity,opportunity,opportunity,n
 reaction,reaction,reaction,n
@@ -142076,7 +141456,6 @@ political,political,political,a
 prisoners,prisoner,prisoners,n
 leftist,leftist,leftist,a
 men,men,men,n
-many,many,many,a
 khomeini,khomeini,khomeini,a
 montazeri,montazeri,montazeri,n
 plans,plan,plans,n
@@ -142135,8 +141514,7 @@ ran,ran,ran,a
 ward,ward,ward,n
 gate,gate,gate,n
 name,name,name,n
-much,much,much,a
-fear,fear,fear,n
+fear,fear,fear,a
 death,death,death,n
 horror,horror,horror,n
 torture,torture,torture,n
@@ -142180,7 +141558,6 @@ moans,moan,moans,n
 fragmented,fragmented,fragmented,a
 sentences,sentence,sentences,n
 hours,hour,hours,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 unsuccessful,unsuccessful,unsuccessful,a
 effort,effort,effort,n
@@ -142273,7 +141650,6 @@ temptation,temptation,temptation,n
 exercise,exercise,exercise,n
 yousuf,yousuf,yousuf,n
 power,power,power,n
-many,many,many,a
 respects,respect,respects,n
 current,current,current,a
 lives,life,lives,n
@@ -142593,8 +141969,6 @@ couple,couple,couple,n
 hours,hour,hours,n
 refuse,refuse,refuse,n
 prison,prison,prison,n
-much,much,much,a
-annoyed,annoyed,annoyed,n
 afraid,afraid,afraid,a
 less,le,less,a
 man,man,man,n
@@ -142617,7 +141991,6 @@ loss,loss,loss,n
 sanity,sanity,sanity,n
 death,death,death,n
 experiences,experience,experiences,n
-many,many,many,a
 prisoners,prisoner,prisoners,n
 faked,faked,faked,a
 executions,execution,executions,n
@@ -142923,7 +142296,6 @@ men,men,men,n
 several,several,several,a
 women,woman,women,n
 blood,blood,blood,n
-much,much,much,a
 idea,idea,idea,n
 women,woman,women,n
 man,man,man,n
@@ -143473,7 +142845,6 @@ guards,guard,guards,n
 interrogation,interrogation,interrogation,n
 separated,separated,separated,a
 prisoners,prisoner,prisoners,n
-many,many,many,a
 others,others,others,n
 cells,cell,cells,n
 fathom,fathom,fathom,a
@@ -143560,7 +142931,6 @@ continue,continue,continue,n
 prisoners,prisoner,prisoners,n
 artists,artist,artists,n
 prison,prison,prison,n
-much,much,much,a
 aesthetic,aesthetic,aesthetic,a
 quality,quality,quality,n
 existential,existential,existential,a
@@ -143933,7 +143303,6 @@ share,share,share,n
 symptom,symptom,symptom,a
 communist,communist,communist,a
 sympathies,sympathy,sympathies,n
-many,many,many,a
 occasions,occasion,occasions,n
 prisoners,prisoner,prisoners,n
 friends,friend,friends,n
@@ -144291,7 +143660,7 @@ haves,have,haves,n
 left,left,left,a
 country,country,country,n
 voice,voice,voice,n
-many,many,many,a
+beloved,beloved,beloved,a
 ones,one,ones,n
 word,word,word,n
 prison,prison,prison,n
@@ -144313,7 +143682,6 @@ freedom,freedom,freedom,n
 short,short,short,a
 fleeting,fleeting,fleeting,a
 mute,mute,mute,a
-much,much,much,a
 conversation,conversation,conversation,n
 last,last,last,a
 chapter,chapter,chapter,n
@@ -144679,7 +144047,6 @@ imprisonment,imprisonment,imprisonment,a
 shah,shah,shah,n
 longer,longer,long,a
 period,period,period,n
-many,many,many,a
 young,young,young,a
 people,people,people,n
 blame,blame,blame,a
@@ -144733,7 +144100,6 @@ political,political,political,a
 reform,reform,reform,n
 system,system,system,n
 impossible,impossible,impossible,a
-many,many,many,a
 people,people,people,n
 reform,reform,reform,n
 possible,possible,possible,a
@@ -144834,8 +144200,7 @@ humanity,humanity,humanity,n
 trust,trust,trust,n
 overcome,overcome,overcome,a
 torture,torture,torture,n
-imprisonment,imprisonment,imprisonment,a
-many,many,many,a
+imprisonment,imprisonment,imprisonment,n
 years,year,years,n
 able,able,able,a
 write,write,write,a
@@ -144866,7 +144231,6 @@ constant,constant,constant,a
 scrutiny,scrutiny,scrutiny,n
 state,state,state,n
 terror,terror,terror,n
-many,many,many,a
 subjects,subject,subjects,n
 imprisonment,imprisonment,imprisonment,a
 torture,torture,torture,n
@@ -145063,8 +144427,6 @@ history,history,history,n
 state,state,state,n
 violence,violence,violence,n
 world,world,world,n
-many,many,many,a
-examples,example,examples,n
 page,page,page,n
 testimony,testimony,testimony,a
 power,power,power,n
@@ -145134,7 +144496,6 @@ western,western,western,a
 audience,audience,audience,n
 grateful,grateful,grateful,a
 colleagues,colleague,colleagues,n
-many,many,many,a
 others,others,others,n
 names,name,names,n
 presence,presence,presence,n
@@ -145671,7 +145032,6 @@ world,world,world,n
 person,person,person,n
 torture,torture,torture,n
 memories,memory,memories,n
-engraved,engraved,engraved,a
 body,body,body,n
 mind,mind,mind,n
 pain,pain,pain,a
@@ -146207,7 +145567,6 @@ followed,followed,followed,a
 orders,order,orders,n
 germany,germany,germany,n
 south,south,south,n
-many,many,many,a
 similar,similar,similar,a
 situations,situation,situations,n
 unaccountable,unaccountable,unaccountable,a
@@ -146263,7 +145622,7 @@ page,page,page,n
 imagination,imagination,imagination,n
 phantasm,phantasm,phantasm,n
 foucault,foucault,foucault,n
-much,much,much,a
+imagine,imagine,imagine,a
 behavior,behavior,behavior,n
 towards,towards,towards,n
 others,others,others,n
@@ -146368,7 +145727,6 @@ remain,remain,remain,n
 committed,committed,committed,a
 use,use,use,a
 term,term,term,n
-much,much,much,a
 aware,aware,aware,a
 danger,danger,danger,n
 pain,pain,pain,n
@@ -146890,7 +146248,6 @@ nature,nature,nature,n
 justice,justice,justice,n
 world,world,world,n
 places,place,places,n
-many,many,many,a
 years,year,years,n
 hot,hot,hot,a
 distant,distant,distant,a
@@ -147332,7 +146689,6 @@ horrible,horrible,horrible,a
 blunder,blunder,blunder,n
 iranian,iranian,iranian,a
 people,people,people,n
-many,many,many,a
 historians,historian,historians,n
 mossadegh,mossadegh,mossadegh,n
 power,power,power,n
@@ -147697,7 +147053,6 @@ shah,shah,shah,n
 understood,understood,understood,n
 importance,importance,importance,n
 country,country,country,n
-many,many,many,a
 young,young,young,a
 people,people,people,n
 become,become,become,a
@@ -147812,7 +147167,6 @@ take,take,take,n
 account,account,account,n
 things,thing,things,n
 time,time,time,n
-much,much,much,a
 time,time,time,n
 arrest,arrest,arrest,n
 suspect,suspect,suspect,a
@@ -147897,7 +147251,6 @@ favorite,favorite,favorite,a
 dishes,dish,dishes,n
 simin,simin,simin,a
 constancy,constancy,constancy,n
-much,much,much,a
 time,time,time,n
 house,house,house,n
 specific,specific,specific,a
@@ -148097,7 +147450,6 @@ mullahs,mullah,mullahs,n
 solid,solid,solid,a
 base,base,base,n
 influence,influence,influence,n
-many,many,many,a
 times,time,times,n
 stop,stop,stop,a
 attacks,attack,attacks,n
@@ -148772,7 +148124,6 @@ power,power,power,n
 javad,javad,javad,a
 thought,thought,thought,a
 town,town,town,n
-par,par,par,a
 truth,truth,truth,n
 marriage,marriage,marriage,n
 tudeh,tudeh,tudeh,n
@@ -149259,7 +148610,6 @@ mullah,mullah,mullah,n
 circle,circle,circle,n
 time,time,time,n
 call,call,call,n
-much,much,much,a
 proud,proud,proud,a
 way,way,way,n
 justice,justice,justice,n
@@ -149388,7 +148738,6 @@ old,old,old,a
 torture,torture,torture,n
 solitary,solitary,solitary,a
 cell,cell,cell,n
-many,many,many,a
 fellow,fellow,fellow,a
 travelers,traveler,travelers,n
 evin,evin,evin,a
@@ -149470,7 +148819,6 @@ representation,representation,representation,n
 last,last,last,a
 shred,shred,shred,a
 dignity,dignity,dignity,n
-much,much,much,a
 sadder,sadder,sad,n
 apartment,apartment,apartment,n
 general,general,general,a
@@ -149543,7 +148891,7 @@ young,young,young,a
 people,people,people,n
 dissidents,dissident,dissidents,n
 dissidence,dissidence,dissidence,n
-many,many,many,a
+know,know,know,a
 executions,execution,executions,n
 revolution,revolution,revolution,n
 discuss,discus,discuss,a
@@ -149571,7 +148919,6 @@ civil,civil,civil,a
 war,war,war,n
 iranian,iranian,iranian,a
 people,people,people,n
-many,many,many,a
 years,year,years,n
 violence,violence,violence,n
 power,power,power,n
@@ -149619,7 +148966,6 @@ progress,progress,progress,n
 wife,wife,wife,n
 volunteer,volunteer,volunteer,n
 work,work,work,n
-much,much,much,a
 war,war,war,n
 things,thing,things,n
 censors,censor,censors,n
@@ -149798,7 +149144,6 @@ time,time,time,n
 mother,mother,mother,n
 humble,humble,humble,a
 expedient,expedient,expedient,a
-many,many,many,a
 mullahs,mullah,mullahs,n
 position,position,position,n
 great,great,great,a
@@ -149940,7 +149285,6 @@ sofa,sofa,sofa,a
 living,living,living,n
 room,room,room,n
 javad,javad,javad,n
-many,many,many,a
 people,people,people,n
 possessions,possession,possessions,n
 prisoners,prisoner,prisoners,n
@@ -150047,7 +149391,7 @@ tudeh,tudeh,tudeh,n
 suspect,suspect,suspect,n
 revolution,revolution,revolution,n
 torn,torn,torn,a
-many,many,many,a
+apart,apart,apart,n
 families,family,families,n
 country,country,country,n
 state,state,state,n
@@ -150578,8 +149922,7 @@ fifty,fifty,fifty,a
 years,year,years,n
 woman,woman,woman,n
 dress,dress,dress,n
-much,much,much,a
-injustice,injustice,injustice,n
+injustice,injustice,injustice,a
 eyes,eye,eyes,n
 personal,personal,personal,a
 failure,failure,failure,n
@@ -150720,7 +150063,6 @@ large,large,large,a
 grapes,grape,grapes,n
 crunchy,crunchy,crunchy,a
 pistachios,pistachio,pistachios,n
-many,many,many,a
 pounds,pound,pounds,n
 tomatoes,tomato,tomatoes,n
 celery,celery,celery,a
@@ -150972,7 +150314,7 @@ table,table,table,a
 drinking,drinking,drinking,n
 orange,orange,orange,n
 juice,juice,juice,n
-many,many,many,a
+names,name,names,n
 times,time,times,n
 call,call,call,n
 year,year,year,n
@@ -151039,7 +150381,6 @@ heart,heart,heart,n
 nerves,nerve,nerves,n
 feel,feel,feel,n
 death,death,death,n
-many,many,many,a
 times,time,times,n
 days,day,days,n
 facts,fact,facts,n
@@ -151640,7 +150981,6 @@ rare,rare,rare,a
 situation,situation,situation,n
 iran,iran,iran,n
 time,time,time,n
-much,much,much,a
 home,home,home,n
 get,get,get,n
 true,true,true,a
@@ -151686,7 +151026,7 @@ elderly,elderly,elderly,a
 mother,mother,mother,n
 happy,happy,happy,a
 donkey,donkey,donkey,n
-hay,hay,hay,a
+hay,hay,hay,n
 donkey,donkey,donkey,n
 eats,eats,eats,n
 words,word,words,n
@@ -151879,7 +151219,6 @@ man,man,man,n
 responsible,responsible,responsible,a
 deaths,death,deaths,n
 great,great,great,a
-many,many,many,a
 iranians,iranian,iranians,n
 family,family,family,n
 ambivalent,ambivalent,ambivalent,a
@@ -152359,7 +151698,7 @@ protestant,protestant,protestant,a
 christians,christian,christians,n
 place,place,place,n
 northern,northern,northern,a
-many,many,many,a
+ireland,ireland,ireland,n
 sides,side,sides,n
 particular,particular,particular,a
 war,war,war,n
@@ -152368,7 +151707,6 @@ years,year,years,n
 death,death,death,n
 injury,injury,injury,n
 people,people,people,n
-many,many,many,a
 men,men,men,n
 difficult,difficult,difficult,a
 lives,life,lives,n
@@ -152443,7 +151781,6 @@ excellent,excellent,excellent,a
 hotel,hotel,hotel,n
 time,time,time,n
 star,star,star,n
-many,many,many,a
 respects,respect,respects,n
 case,case,case,n
 knew,knew,knew,n
@@ -152640,8 +151977,6 @@ family,family,family,n
 life,life,life,n
 husband,husband,husband,n
 case,case,case,n
-much,much,much,a
-yelling,yelling,yelling,n
 lack,lack,lack,a
 understood,understood,understood,a
 kindness,kindness,kindness,n
@@ -152685,7 +152020,6 @@ number,number,number,n
 high,high,high,a
 class,class,class,n
 hotels,hotel,hotels,n
-many,many,many,a
 beautiful,beautiful,beautiful,a
 jewellery,jewellery,jewellery,n
 gift,gift,gift,n
@@ -152734,7 +152068,6 @@ something,something,something,n
 manage,manage,manage,n
 years,year,years,n
 term,term,term,n
-many,many,many,a
 times,time,times,n
 day,day,day,n
 case,case,case,n
@@ -153150,8 +152483,7 @@ doctor,doctor,doctor,n
 abortion,abortion,abortion,n
 question,question,question,n
 months,month,months,n
-along,along,along,a
-pregnancy,pregnancy,pregnancy,n
+pregnancy,pregnancy,pregnancy,a
 mansoor,mansoor,mansoor,n
 house,house,house,n
 parents,parent,parents,n
@@ -153248,7 +152580,6 @@ stammer,stammer,stammer,n
 cupboard,cupboard,cupboard,n
 passport,passport,passport,n
 strength,strength,strength,n
-many,many,many,a
 years,year,years,n
 passport,passport,passport,n
 mine,mine,mine,n
@@ -153271,7 +152602,6 @@ issues,issue,issues,n
 mine,mine,mine,n
 authorities,authority,authorities,n
 something,something,something,n
-many,many,many,a
 people,people,people,n
 police,police,police,n
 victim,victim,victim,a
@@ -153365,7 +152695,6 @@ discuss,discus,discuss,n
 matters,matter,matters,n
 property,property,property,n
 distribution,distribution,distribution,n
-much,much,much,a
 custody,custody,custody,n
 arrangements,arrangement,arrangements,n
 worried,worried,worried,a
@@ -153725,15 +153054,14 @@ small,small,small,a
 items,item,items,n
 work,work,work,n
 contractor,contractor,contractor,n
-much,much,much,a
 nicer,nicer,nice,n
 man,man,man,n
-much,much,much,a
+properly,properly,properly,a
+abuse,abuse,abuse,n
 chatter,chatter,chatter,n
 people,people,people,n
 happen,happen,happen,a
 jobs,job,jobs,n
-many,many,many,a
 hospital,hospital,hospital,n
 gates,gate,gates,n
 guard,guard,guard,a
@@ -154155,7 +153483,6 @@ time,time,time,n
 know,know,know,a
 people,people,people,n
 court,court,court,n
-many,many,many,a
 times,time,times,n
 younger,younger,young,a
 children,child,children,n
@@ -154166,7 +153493,6 @@ sad,sad,sad,a
 day,day,day,n
 hartwell,hartwell,hartwell,a
 court,court,court,n
-many,many,many,a
 tears,tear,tears,n
 oh,oh,oh,a
 freedom,freedom,freedom,n
@@ -154609,7 +153935,6 @@ time,time,time,n
 exercise,exercise,exercise,n
 mornings,morning,mornings,n
 case,case,case,n
-much,much,much,a
 conversation,conversation,conversation,n
 wad,wad,wad,a
 notes,note,notes,n
@@ -154618,8 +153943,7 @@ lady,lady,lady,n
 tried,tried,tried,a
 return,return,return,n
 mum,mum,mum,a
-dad,dad,dad,a
-many,many,many,a
+dad,dad,dad,n
 times,time,times,n
 years,year,years,n
 understood,understood,understood,a
@@ -154691,7 +154015,6 @@ medication,medication,medication,n
 patients,patient,patients,n
 locked,locked,locked,a
 doors,door,doors,n
-much,much,much,a
 long,long,long,a
 list,list,list,n
 helpful,helpful,helpful,a
@@ -154874,7 +154197,7 @@ positive,positive,positive,a
 effect,effect,effect,n
 dementia,dementia,dementia,n
 impossible,impossible,impossible,a
-experienced,experienced,experienced,a
+comprehend,comprehend,comprehend,n
 years,year,years,n
 khan,khan,khan,a
 poverty,poverty,poverty,n
@@ -155252,7 +154575,7 @@ pink,pink,pink,n
 shoes,shoe,shoes,n
 appetite,appetite,appetite,a
 places,place,places,n
-many,many,many,a
+led,led,led,a
 twists,twist,twists,n
 cell,cell,cell,n
 evin,evin,evin,n
@@ -155395,7 +154718,7 @@ zoroaster,zoroaster,zoroaster,n
 uncommon,uncommon,uncommon,a
 state,state,state,n
 affairs,affair,affairs,n
-many,many,many,a
+iran,iran,iran,n
 muslims,muslim,muslims,n
 fundamentalists,fundamentalist,fundamentalists,n
 fugitive,fugitive,fugitive,a
@@ -155469,7 +154792,6 @@ face,face,face,n
 cousin,cousin,cousin,n
 war,war,war,n
 iraq,iraq,iraq,n
-much,much,much,a
 older,older,old,a
 boy,boy,boy,n
 death,death,death,n
@@ -155538,7 +154860,6 @@ iranian,iranian,iranian,a
 families,family,families,n
 supportive,supportive,supportive,a
 help,help,help,n
-many,many,many,a
 families,family,families,n
 limited,limited,limited,a
 poverty,poverty,poverty,n
@@ -155830,7 +155151,6 @@ rationalizations,rationalization,rationalizations,n
 friends,friend,friends,n
 dear,dear,dear,a
 god,god,god,n
-much,much,much,a
 stronger,stronger,strong,a
 resist,resist,resist,a
 resist,resist,resist,n
@@ -156222,7 +155542,6 @@ certain,certain,certain,a
 death,death,death,n
 make,make,make,n
 agree,agree,agree,a
-many,many,many,a
 best,best,best,a
 things,thing,things,n
 life,life,life,n
@@ -156239,9 +155558,9 @@ concrete,concrete,concrete,a
 walls,wall,walls,n
 impenetrable,impenetrable,impenetrable,a
 air,air,air,n
+cell,cell,cell,n
 listless,listless,listless,a
 joy,joy,joy,n
-much,much,much,a
 distant,distant,distant,a
 floor,floor,floor,n
 nothing,nothing,nothing,n
@@ -156589,9 +155908,9 @@ forehead,forehead,forehead,a
 lecture,lecture,lecture,n
 menace,menace,menace,n
 intolerable,intolerable,intolerable,a
-many,many,many,a
+read,read,read,n
 garca,garca,garca,n
-plays,play,plays,n
+lorca,lorca,lorca,n
 lay,lay,lay,a
 hands,hand,hands,n
 sense,sense,sense,n
@@ -156933,8 +156252,9 @@ guards,guard,guards,n
 corridor,corridor,corridor,n
 open,open,open,a
 cell,cell,cell,n
-much,much,much,a
-second,second,second,n
+door,door,door,n
+doubt,doubt,doubt,n
+second,second,second,a
 cell,cell,cell,n
 door,door,door,n
 last,last,last,a
@@ -157780,7 +157100,6 @@ effective,effective,effective,a
 instrument,instrument,instrument,n
 madman,madman,madman,n
 brain,brain,brain,n
-many,many,many,a
 years,year,years,n
 anything,anything,anything,n
 prisoner,prisoner,prisoner,n
@@ -157942,13 +157261,12 @@ fathers,father,fathers,n
 episodes,episode,episodes,n
 murder,murder,murder,n
 torture,torture,torture,n
-many,many,many,a
 subjected,subjected,subjected,a
 torments,torment,torments,n
 power,power,power,n
 repression,repression,repression,n
-much,much,much,a
-angst,angst,angst,n
+communists,communist,communists,n
+angst,angst,angst,a
 doubt,doubt,doubt,n
 way,way,way,n
 clergy,clergy,clergy,n
@@ -158074,8 +157392,8 @@ guilty,guilty,guilty,a
 guilty,guilty,guilty,a
 good,good,good,a
 cause,cause,cause,n
-much,much,much,a
-stinky,stinky,stinky,n
+ask,ask,ask,n
+stinky,stinky,stinky,a
 blanket,blanket,blanket,n
 cell,cell,cell,n
 idea,idea,idea,n
@@ -158214,7 +157532,6 @@ dreadful,dreadful,dreadful,a
 circle,circle,circle,n
 sympathies,sympathy,sympathies,n
 practices,practice,practices,n
-much,much,much,a
 sense,sense,sense,n
 medieval,medieval,medieval,a
 trial,trial,trial,n
@@ -158313,13 +157630,12 @@ please,please,please,n
 cell,cell,cell,n
 ten,ten,ten,a
 seconds,second,seconds,n
-many,many,many,a
 hundreds,hundred,hundreds,n
 push,push,push,a
 cell,cell,cell,n
 slam,slam,slam,n
 door,door,door,n
-many,many,many,a
+shut,shut,shut,n
 times,time,times,n
 toilet,toilet,toilet,a
 day,day,day,n
@@ -158468,12 +157784,12 @@ fist,fist,fist,n
 utopia,utopia,utopia,a
 death,death,death,n
 something,something,something,n
-much,much,much,a
 humbler,humbler,humble,n
 pink,pink,pink,n
 shoes,shoe,shoes,n
 right,right,right,a
 wear,wear,wear,n
+pink,pink,pink,n
 shoes,shoe,shoes,n
 good,good,good,a
 wise,wise,wise,n
@@ -158519,10 +157835,10 @@ freedom,freedom,freedom,n
 convictions,conviction,convictions,n
 mine,mine,mine,a
 path,path,path,n
-many,many,many,a
+swamp,swamp,swamp,a
 women,woman,women,n
 strokes,stroke,strokes,n
-face,face,face,a
+cheeks,cheek,cheeks,n
 palms,palm,palms,n
 captive,captive,captive,a
 choice,choice,choice,n
@@ -158551,7 +157867,6 @@ feelings,feeling,feelings,n
 law,law,law,n
 way,way,way,n
 dignity,dignity,dignity,n
-much,much,much,a
 difficult,difficult,difficult,a
 woman,woman,woman,n
 man,man,man,n
@@ -158575,7 +157890,6 @@ child,child,child,n
 nightmare,nightmare,nightmare,a
 course,course,course,n
 nothing,nothing,nothing,n
-much,much,much,a
 injustice,injustice,injustice,n
 peaceful,peaceful,peaceful,a
 acceptance,acceptance,acceptance,n
@@ -158993,13 +158307,11 @@ attack,attack,attack,n
 shrug,shrug,shrug,a
 shoulders,shoulder,shoulders,n
 children,child,children,n
-many,many,many,a
 war,war,war,n
 normal,normal,normal,a
 case,case,case,n
 pencils,pencil,pencils,n
 book,book,book,n
-many,many,many,a
 people,people,people,n
 unhurried,unhurried,unhurried,a
 rhythmic,rhythmic,rhythmic,a
@@ -159024,7 +158336,6 @@ people,people,people,n
 help,help,help,n
 old,old,old,a
 man,man,man,n
-much,much,much,a
 fire,fire,fire,n
 death,death,death,n
 life,life,life,n
@@ -159083,10 +158394,9 @@ foolish,foolish,foolish,a
 course,course,course,n
 see,see,see,a
 power,power,power,n
-much,much,much,a
 force,force,force,n
 shut,shut,shut,n
-many,many,many,a
+saw,saw,saw,a
 young,young,young,a
 men,men,men,n
 young,young,young,a
