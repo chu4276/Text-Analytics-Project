@@ -1,0 +1,21 @@
+0 0.002*woman + 0.002*time + 0.002*day + 0.002*state + 0.001*death + 0.001*war + 0.001*year + 0.001*prisoner + 0.001*iran + 0.001*wall
+1 0.002*woman + 0.002*state + 0.002*day + 0.001*time + 0.001*death + 0.001*prisoner + 0.001*year + 0.001*iran + 0.001*war + 0.001*law
+2 0.002*woman + 0.002*day + 0.002*time + 0.001*death + 0.001*state + 0.001*prisoner + 0.001*guard + 0.001*year + 0.001*war + 0.001*law
+3 0.002*woman + 0.002*time + 0.002*state + 0.001*death + 0.001*day + 0.001*war + 0.001*prisoner + 0.001*iran + 0.001*year + 0.001*case
+4 0.002*woman + 0.002*time + 0.002*day + 0.002*death + 0.001*prisoner + 0.001*state + 0.001*guard + 0.001*year + 0.001*life + 0.001*iran
+5 0.002*woman + 0.002*time + 0.001*death + 0.001*day + 0.001*war + 0.001*state + 0.001*case + 0.001*prisoner + 0.001*iran + 0.001*law
+6 0.002*woman + 0.002*state + 0.002*day + 0.001*time + 0.001*death + 0.001*law + 0.001*year + 0.001*power + 0.001*prisoner + 0.001*iran
+7 0.002*woman + 0.002*day + 0.002*time + 0.001*death + 0.001*state + 0.001*guard + 0.001*prisoner + 0.001*year + 0.001*war + 0.001*people
+8 0.002*woman + 0.002*prisoner + 0.002*time + 0.002*iran + 0.002*day + 0.001*state + 0.001*death + 0.001*law + 0.001*war + 0.001*cell
+9 0.002*woman + 0.002*time + 0.001*day + 0.001*death + 0.001*state + 0.001*year + 0.001*guard + 0.001*prisoner + 0.001*iran + 0.001*law
+10 0.002*woman + 0.002*state + 0.002*death + 0.002*day + 0.001*time + 0.001*life + 0.001*prisoner + 0.001*war + 0.001*islamic + 0.001*year
+11 0.002*woman + 0.002*time + 0.002*day + 0.001*state + 0.001*death + 0.001*prisoner + 0.001*year + 0.001*prison + 0.001*iran + 0.001*war
+12 0.003*woman + 0.002*time + 0.002*state + 0.002*day + 0.001*death + 0.001*war + 0.001*iranian + 0.001*prisoner + 0.001*year + 0.001*law
+13 0.002*woman + 0.002*time + 0.002*death + 0.002*day + 0.001*state + 0.001*prisoner + 0.001*law + 0.001*year + 0.001*iranian + 0.001*iran
+14 0.002*woman + 0.002*time + 0.002*day + 0.001*death + 0.001*state + 0.001*prisoner + 0.001*iran + 0.001*year + 0.001*war + 0.001*guard
+15 0.002*woman + 0.002*time + 0.001*death + 0.001*day + 0.001*state + 0.001*prisoner + 0.001*year + 0.001*guard + 0.001*law + 0.001*war
+16 0.002*woman + 0.001*people + 0.001*day + 0.001*time + 0.001*death + 0.001*state + 0.001*prisoner + 0.001*war + 0.001*year + 0.001*iran
+17 0.002*woman + 0.002*death + 0.001*time + 0.001*state + 0.001*day + 0.001*prisoner + 0.001*year + 0.001*war + 0.001*people + 0.001*iran
+18 0.003*woman + 0.002*time + 0.001*death + 0.001*day + 0.001*state + 0.001*war + 0.001*prisoner + 0.001*year + 0.001*cell + 0.001*month
+19 0.002*woman + 0.002*death + 0.001*prisoner + 0.001*time + 0.001*day + 0.001*year + 0.001*state + 0.001*iran + 0.001*law + 0.001*prison
+Coherence Score: 0.4069360873771841

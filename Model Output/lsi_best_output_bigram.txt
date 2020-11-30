@@ -1,2 +1,0 @@
-0 -0.988*"woman" + -0.127*"prisoner" + -0.033*"right" + -0.032*"men" + -0.027*"iranian" + -0.025*"young" + -0.020*"state" + -0.017*"guard" + -0.017*"death" + -0.016*"day"
-Coherence Score: -19.02809288736619
